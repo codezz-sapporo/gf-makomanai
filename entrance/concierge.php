@@ -8,7 +8,7 @@
                 <img src="<?php print URL; ?>/assets/img/entrance/concierge/mainvisual.jpg" alt="フロントコンシェルジュサービス" class="mainvisual__img">
             </picture>
         </figure>
-        <p class="text tab-section__text">忙しい日々をバックアップするサービスから、安らぎのひとときを提供するもてなしのサービスまで。<br class="br_pc">「グランファーレ幌西グランシェール」は、永く快適に暮すための都市生活を考えた、コンシェルジュサービスをご用意しています。フロントコンシェルジュカウンターには、様々なご要望にお応えする専任のコンシェルジュが控え、ゲスト対応やプレミアムサービス、セレクタリーサービス、アメニティサービス、デイリーサービスなど、全てのサービスを統括し、上質な日常を住まう方にご提供いたします。</p>
+        <p class="text tab-section__text">忙しい日々をバックアップするサービスから、安らぎのひとときを提供するもてなしのサービスまで。<br class="br_pc">「グランファーレ真駒内フォレスト」は、永く快適に暮すための都市生活を考えた、コンシェルジュサービスをご用意しています。フロントコンシェルジュカウンターには、様々なご要望にお応えする専任のコンシェルジュが控え、ゲスト対応やプレミアムサービス、セレクタリーサービス、アメニティサービス、デイリーサービスなど、全てのサービスを統括し、上質な日常を住まう方にご提供いたします。</p>
         <figure class="tab-section__photo tab-section__photo_column tab-section__photo_top">
             <picture>
                 <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/img1.webp">

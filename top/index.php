@@ -5,9 +5,9 @@
   <link rel="stylesheet" href="<?php print URL; ?>/assets/css/slick.css">
   <link rel="stylesheet" href="<?php print URL; ?>/assets/css/top.css" />
 
-	<title>ホーム | グランファーレ幌西グランシェール | 日本グランデ株式会社</title>
-	<meta name="description" content="日本グランデによる新しいスマートマンションが札幌市白石区菊水に誕生。地下鉄東西線「東札幌」駅徒歩6分、「菊水」駅徒歩9分。グランファーレ幌西グランシェール">
-	<meta name="keywords" content="グランファーレ幌西グランシェール,東札幌,菊水,札幌,白石区,新築分譲マンション,分譲マンション,北海道,東西線,日本グランデ">
+	<title>ホーム | グランファーレ真駒内フォレスト | 日本グランデ株式会社</title>
+	<meta name="description" content="日本グランデによる新しいスマートマンションが札幌市白石区菊水に誕生。地下鉄東西線「東札幌」駅徒歩6分、「菊水」駅徒歩9分。グランファーレ真駒内フォレスト">
+	<meta name="keywords" content="グランファーレ真駒内フォレスト,東札幌,菊水,札幌,白石区,新築分譲マンション,分譲マンション,北海道,東西線,日本グランデ">
 
 <?php
 	include('../header_2.php');
@@ -22,7 +22,7 @@
             <source media="(min-width: 835px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/top/mv-top_pc.webp">
             <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/top/mv-top_sp.webp">
             <source media="(min-width: 835px)" type="image/png" srcset="<?php print URL; ?>/assets/img/top/mv-top_pc.png">
-            <img src="<?php print URL; ?>/assets/img/top/mv-top_sp.png" alt="グランファーレ幌西グランシェール" class="mainvisual__img">
+            <img src="<?php print URL; ?>/assets/img/top/mv-top_sp.png" alt="グランファーレ真駒内フォレスト" class="mainvisual__img">
           </picture>
         </h1>
         <div class="top-mainvisual__text-area">
@@ -200,7 +200,7 @@
                       <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/banner_gf-kanjodori_pc.webp">
                       <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/banner_gf-kanjodori_sp.webp">
                       <source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/img/banner_gf-kanjodori_pc.jpg">
-                      <img src="<?php print URL; ?>/assets/img/banner_gf-kanjodori_sp.jpg" alt="グランファーレ幌西グランシェール" class="banner-area__img">
+                      <img src="<?php print URL; ?>/assets/img/banner_gf-kanjodori_sp.jpg" alt="グランファーレ真駒内フォレスト" class="banner-area__img">
                   </picture>
               </a>
           </li>

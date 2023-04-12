@@ -25,7 +25,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <header class="header">
         <a href="<?php print URL; ?>/top/" class="header__link">
             <picture class="logo header__logo">
-                <img src="<?php print URL; ?>/assets/svg/grandfare-logo.svg" alt="グランファーレ幌西グランシェール" class="header__logo-svg">
+                <img src="<?php print URL; ?>/assets/svg/grandfare-logo.svg" alt="グランファーレ真駒内フォレスト" class="header__logo-svg">
             </picture>
             <p class=header__logo-text>GRANDFARE<br>KOSAI GRAND CIAR</p>
         </a>

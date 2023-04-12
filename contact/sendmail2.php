@@ -140,8 +140,8 @@ EOM;
 
 	mb_language("ja");
 	mb_internal_encoding("UTF-8");
-	$title = "【グランファーレ幌西グランシェール】資料請求ありがとうございます";
-	$title2 = "【グランファーレ幌西グランシェール】お客様より資料請求がありました。";
+	$title = "【グランファーレ真駒内フォレスト】資料請求ありがとうございます";
+	$title2 = "【グランファーレ真駒内フォレスト】お客様より資料請求がありました。";
 	//from管理者
 
 	$header = "From: " .mb_encode_mimeheader("日本グランデ株式会社") ."<grande@nippon-grande.co.jp>\r\n";

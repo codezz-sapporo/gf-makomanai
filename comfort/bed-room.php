@@ -25,7 +25,7 @@
             <source media="(min-width: 768px)" type="image/webp" srcset="../assets/webp/comfort/bed-room/img3_pc.webp">
             <source media="(min-width: 768px)" type="image/jpeg" srcset="../assets/img/comfort/bed-room/img3_pc.jpg">
             <source type="image/webp" srcset="../assets/webp/comfort/bed-room/img3_sp.webp">
-            <img src="../assets/img/comfort/bed-room/img3_sp.jpg" alt="グランファーレ幌西グランシェール" class="mainvisual__img">
+            <img src="../assets/img/comfort/bed-room/img3_sp.jpg" alt="グランファーレ真駒内フォレスト" class="mainvisual__img">
         </picture>
     </div>
 

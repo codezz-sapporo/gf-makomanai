@@ -3,7 +3,7 @@
 ?>
 
 <link rel="stylesheet" type="text/css" href="<?php print URL; ?>/assets/css/contact.css">
-	<title>グランファーレ幌西グランシェール | 日本グランデ株式会社</title>
+	<title>グランファーレ真駒内フォレスト | 日本グランデ株式会社</title>
 
 <?php
 	include_once('../header_2.php');

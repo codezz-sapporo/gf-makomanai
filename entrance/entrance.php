@@ -6,9 +6,9 @@
             <!-- <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/img-01_pc.webp"> -->
             <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/img-01.webp">
             <!-- <source media="(min-width: 768px)" srcset="<?php print URL; ?>/assets/webp/entrance/img-01_pc.jpg"> -->
-            <img src="<?php print URL; ?>/assets/img/entrance/img-01.jpg" alt="グランファーレ幌西グランシェール" class="mainvisual__img">
+            <img src="<?php print URL; ?>/assets/img/entrance/img-01.jpg" alt="グランファーレ真駒内フォレスト" class="mainvisual__img">
         </picture>
-        <p class="text">時を経るごとに風格が薫りたつ外観意匠と贅を尽くしたエントランス。歴史のあるヨーロッパの建築が持つ普遍的な美しさ、そのエレガントな意匠性をモチーフに、より美しく、より印象深い建物を、その思いを「グランフ ァーレ幌西グランシェール」は受け継いでいます。また、随所に配したオブジェクトが、ヨーロッパ建築さながら の雰囲気を盛り上げています。</p>
+        <p class="text">時を経るごとに風格が薫りたつ外観意匠と贅を尽くしたエントランス。歴史のあるヨーロッパの建築が持つ普遍的な美しさ、そのエレガントな意匠性をモチーフに、より美しく、より印象深い建物を、その思いを「グランフ ァーレ真駒内フォレスト」は受け継いでいます。また、随所に配したオブジェクトが、ヨーロッパ建築さながら の雰囲気を盛り上げています。</p>
     </div>
 
     <div class="entrance">

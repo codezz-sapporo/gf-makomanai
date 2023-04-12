@@ -119,8 +119,8 @@ EOM;
 
 	mb_language("Japanese");
 	mb_internal_encoding("UTF-8");
-	$title = "【グランファーレ幌西グランシェール】お問い合わせありがとうございました";
-	$title2 = "【グランファーレ幌西グランシェール】お客様よりオンライン商談のお問い合わせがありました。";
+	$title = "【グランファーレ真駒内フォレスト】お問い合わせありがとうございました";
+	$title2 = "【グランファーレ真駒内フォレスト】お客様よりオンライン商談のお問い合わせがありました。";
 	//from管理者
 
 	$header = "From: " .mb_encode_mimeheader("日本グランデ株式会社") ."<grande@nippon-grande.co.jp>\r\n";

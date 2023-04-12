@@ -157,9 +157,9 @@
 
 	<link rel="stylesheet" href="<?php print URL; ?>/assets/css/contact.css" />
 
-	<title>資料請求 | グランファーレ幌西グランシェール | 日本グランデ株式会社</title>
-	<meta name="description" content="日本グランデによる新しいスマートマンションが札幌市白石区菊水に誕生。地下鉄東西線「東札幌」駅徒歩6分、「菊水」駅徒歩9分。グランファーレ幌西グランシェール">
-	<meta name="keywords" content="グランファーレ幌西グランシェール,東札幌,菊水,札幌,白石区,新築分譲マンション,分譲マンション,北海道,東西線,日本グランデ">
+	<title>資料請求 | グランファーレ真駒内フォレスト | 日本グランデ株式会社</title>
+	<meta name="description" content="日本グランデによる新しいスマートマンションが札幌市白石区菊水に誕生。地下鉄東西線「東札幌」駅徒歩6分、「菊水」駅徒歩9分。グランファーレ真駒内フォレスト">
+	<meta name="keywords" content="グランファーレ真駒内フォレスト,東札幌,菊水,札幌,白石区,新築分譲マンション,分譲マンション,北海道,東西線,日本グランデ">
 
 <?php
 	include_once('../header_2.php');
@@ -193,7 +193,7 @@
 													<div class="radio-out l-height35 mt40 rel">
 														<div class="error"><?php print $err1; ?></div>
 														<div>
-															<input type="radio" name="place" value="グランファーレ幌西グランシェール" id="place8" class="radio" <?php if(isset($_POST['place']) && ($_POST['place']=='グランファーレ幌西グランシェール')){print " checked='checked'";} ?>><label for="place8" class="label">グランファーレ幌西グランシェール</label>
+															<input type="radio" name="place" value="グランファーレ真駒内フォレスト" id="place8" class="radio" <?php if(isset($_POST['place']) && ($_POST['place']=='グランファーレ真駒内フォレスト')){print " checked='checked'";} ?>><label for="place8" class="label">グランファーレ真駒内フォレスト</label>
 														</div>
 														<!--<div>
 															<input type="radio" name="place" value="グランファーレ宮の森 コートハウス四季の杜" id="place8" class="radio" <?php if(isset($_POST['place']) && ($_POST['place']=='グランファーレ宮の森 コートハウス四季の杜')){print " checked='checked'";} ?>><label for="place8" class="label">グランファーレ宮の森 コートハウス四季の杜</label>

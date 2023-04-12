@@ -4,7 +4,7 @@
     <div class="comfort__content bath">
         <div class="tab-section tab-section_column tab-section_intro">
             <p class="intro__title">リラクゼーションのひとときを</p>
-            <p class="text">｢グランファーレ幌西グランシェール｣の浴室は、先進の設備やちょっとした心遣いが至るところに生きています。お休みの前に1日の疲れを癒すときも、お出かけ前のサッとシャワーを浴びるときも。ひとクラス上の心地よさで、バスタイムがお過ごしいただけます。</p>
+            <p class="text">｢グランファーレ真駒内フォレスト｣の浴室は、先進の設備やちょっとした心遣いが至るところに生きています。お休みの前に1日の疲れを癒すときも、お出かけ前のサッとシャワーを浴びるときも。ひとクラス上の心地よさで、バスタイムがお過ごしいただけます。</p>
         </div>
         <div class="tab-section">
             <picture class="tab-section__photo tab-section__photo_large">

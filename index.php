@@ -5,9 +5,9 @@
   <!-- <link rel="stylesheet" href="<?php print URL; ?>/assets/css/aos.css"> -->
   <link rel="stylesheet" href="<?php print URL; ?>/assets/css/top.css" />
 
-	<title>グランファーレ幌西グランシェール | 日本グランデ株式会社</title>
-	<meta name="description" content="日本グランデによる新しいスマートマンションが札幌市白石区菊水に誕生。地下鉄東西線「東札幌」駅徒歩6分、「菊水」駅徒歩9分。グランファーレ幌西グランシェール">
-	<meta name="keywords" content="グランファーレ幌西グランシェール,山鼻,菊水,札幌,白石区,新築分譲マンション,分譲マンション,北海道,東西線,日本グランデ">
+	<title>グランファーレ真駒内フォレスト | 日本グランデ株式会社</title>
+	<meta name="description" content="日本グランデによる新しいスマートマンションが札幌市白石区菊水に誕生。地下鉄東西線「東札幌」駅徒歩6分、「菊水」駅徒歩9分。グランファーレ真駒内フォレスト">
+	<meta name="keywords" content="グランファーレ真駒内フォレスト,山鼻,菊水,札幌,白石区,新築分譲マンション,分譲マンション,北海道,東西線,日本グランデ">
 
 <?php
 	include('header_2.php');

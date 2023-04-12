@@ -1,0 +1,76 @@
+@charset "utf-8";
+.mainvisual-title_model::before {
+  content: "MAISON GALLERY";
+}
+.text {
+  max-width: unset;
+}
+.page .in {
+  margin-top: 60px;
+  margin-bottom: 0;
+}
+.model {
+  margin-bottom: 100px;
+}
+.tab-section_model {
+  max-width: 865px;
+}
+.model__map {
+  width: 100%;
+  margin: 0 auto 60px;
+}
+.covid {
+  margin: 0 auto 60px;
+}
+.covid__photo {
+  width: 100%;
+  margin: 0 auto 30px;
+}
+.covid__title {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #006837;
+  text-indent: -10px;
+  margin-bottom: 5px;
+}
+.info__title {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #0071bc;
+}
+.text {
+  margin: 0 auto 0 0;
+}
+.covid__list {
+  list-style: decimal;
+  padding-left: 10%;
+}
+.covid__item {
+  list-style: decimal;
+  font-size: 1.4rem;
+}
+.info__unit {
+  margin-bottom: 20px;
+}
+.info {
+  margin-bottom: 40px;
+}
+@media (min-width: 768px) {
+  .page .in {
+    margin-top: 283px;
+  }
+  .model {
+    margin-bottom: 150px;
+  }
+
+  .covid__title {
+    font-size: 1.8rem;
+  }
+  .info__title {
+    font-size: 1.8rem;
+  }
+  .covid__list {
+    list-style: decimal;
+    padding-left: 40px;
+  }
+}

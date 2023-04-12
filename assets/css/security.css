@@ -1,0 +1,290 @@
+@charset "UTF-8";
+.mainvisual-title_security::before {
+  content: "SECURITY";
+}
+.one_tab {
+  width: calc((100% - 6px) / 3);
+  letter-spacing: unset;
+  margin: 0 1px 3px;
+}
+.tab-list .one_tab:first-of-type {
+  letter-spacing: 0.2em;
+}
+.secu-mv__photo {
+  margin-bottom: 30px;
+}
+.secu-mv__title {
+  font-size: 1.8rem;
+  line-height: 1.8;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.secu-mv__title-small {
+  font-size: 1.5rem;
+  line-height: 1.6;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 25px;
+}
+@media (min-width: 768px) {
+  .one_tab {
+    width: 180px;
+    margin: 0 2.5px;
+  }
+  .secu-mv__photo {
+    margin-bottom: 0;
+  }
+  .secu-mv__title {
+    font-size: 2.2rem;
+    text-align: left;
+    margin-bottom: 30px;
+  }
+  .secu-mv__title-small {
+    font-size: 1.8rem;
+    text-align: left;
+    margin-bottom: 25px;
+  }
+}
+.securiry-list__item {
+  margin-bottom: 30px;
+}
+@media (min-width: 768px) {
+  .tab-section__inner {
+    display: flex;
+    justify-content: space-between;
+  }
+  .item-box_it .box:last-of-type {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+  }
+  .item-box_it .box:last-of-type .item-box__photo {
+    width: calc((100% - 40px) / 3);
+    margin: 0 5% 0 0;
+  }
+  .item-box_it .box:last-of-type .item-box__title {
+    text-align: left;
+  }
+}
+
+/* ITサポート */
+.title-h2_it::before {
+  content: "IT SUPPORT";
+}
+
+.entrance-nav_secu {
+  margin-bottom: 0;
+}
+.sec5.it {
+  background: var(--bg_grad_green);
+}
+.secu .mv.it img {
+  transform: none;
+}
+.secu .box {
+  margin-top: 0;
+}
+.non-contact__title {
+  margin-bottom: 20px;
+}
+.secu-mv__title_letter-spacing {
+  letter-spacing: -0.12em;
+}
+.secu .secu-mv__title {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.secu .secu-mv__title-small {
+  font-size: 1.6rem;
+  text-align: left;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.secu .box.half {
+  width: 400px;
+}
+.secu-mv {
+  margin-bottom: 0;
+}
+@media (min-width: 768px) {
+  .entrance-nav__item_security {
+    width: 33%;
+    max-width: 300px;
+  }
+
+  .entrance-nav__link_security {
+    width: 100%;
+    padding: 0;
+  }
+
+  .secu .mv .mv2 {
+    position: unset;
+    width: fit-content;
+    margin-right: 20px;
+  }
+  .secu-mv__photo {
+    width: 580px;
+  }
+  .secu .mv .mv1 {
+    background: none;
+  }
+  .secu .mv .mv2 .inner > div {
+    width: fit-content;
+    margin-right: 5%;
+  }
+  .secu-mv__text-area {
+    width: fit-content;
+  }
+  .secu .secu-mv__title {
+    width: fit-content;
+    font-size: 2.2rem;
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  .secu .secu-mv__title-small {
+    font-size: 1.8rem;
+    line-height: 1.6;
+    margin-bottom: 30px;
+  }
+  .secu-mv__content {
+    width: fit-content;
+  }
+  .secu .non-contact__title {
+    margin-top: 0;
+  }
+  .non-contact__photo {
+    flex: 1;
+    margin-left: 5%;
+  }
+  .sec2.it {
+    margin-bottom: 80px;
+  }
+}
+
+/* ホームセキュリティ */
+.title-h2_home::before {
+  content: "HOME SECURITY";
+}
+.secu-mv__photo_home {
+  width: 60%;
+  margin: 0 auto;
+}
+.secu .mv.it .mv1_home {
+  padding-top: 0px;
+}
+.secu .touch__title {
+  font-size: 1.8rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.intro__photo {
+  margin-bottom: 30px;
+}
+.performance {
+  background-color: #f2f2f2;
+  padding: 20px 5%;
+}
+.performance p {
+  font-size: 1.3rem;
+  line-height: 1.75 !important;
+}
+.spec__title {
+  text-align: center;
+}
+
+.secu .intro__photo {
+  margin-bottom: 30px;
+}
+.intro_secu-home {
+  margin-bottom: 0;
+}
+
+.zoom__item {
+  margin-bottom: 25px;
+}
+.zoom__item:last-of-type {
+  margin-bottom: 0;
+}
+@media (min-width: 768px) {
+  .intro__photo {
+    margin-bottom: 45px;
+  }
+  .secu-mv__photo_home {
+    width: 350px;
+  }
+  .performance_flex {
+    display: flex;
+  }
+  .secu .sec2 {
+    padding-bottom: 0;
+  }
+  .performance p {
+    font-size: 1.4rem;
+  }
+  .secu .mv.it .mv2_home {
+    margin-right: 80px;
+  }
+
+  .secu .intro__photo {
+    margin-bottom: 50px;
+  }
+  .secu .touch__title {
+    font-size: 2.4rem;
+    margin-bottom: 20px !important;
+  }
+  .zoom__list {
+    display: flex;
+    justify-content: space-between;
+  }
+  .zoom__item {
+    width: 30%;
+    margin-bottom: 25px;
+  }
+  .zoom__item:last-of-type {
+    margin-bottom: 0;
+  }
+
+  .secu .sec1.touch {
+    padding-top: 20px;
+    margin-bottom: 0;
+  }
+  .playback__photo {
+    width: 70%;
+    margin: 0 auto;
+  }
+}
+
+/* モバイルセキュリティ */
+.title-h2_mobile::before {
+  content: "MOBILE SECURITY";
+}
+.secu .box.pb-80 {
+  padding-bottom: 50px;
+}
+.mobile-photo {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .sec2.mobile .box {
+    width: 30%;
+  }
+  .secu h3 {
+    text-align: center;
+  }
+  .sec2.mobile h4 {
+    font-size: 2rem;
+    text-align: left;
+  }
+}
+.secu .index .sec1 {
+  padding-top: 0;
+}
+.secu .sec1 {
+  padding-top: 0;
+}

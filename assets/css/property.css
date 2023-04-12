@@ -1,0 +1,80 @@
+@charset "utf-8";
+.mainvisual-title_property::before {
+  content: "PROPERTY";
+}
+.headline {
+  margin: 0 auto;
+}
+.property {
+}
+.property table th {
+  border: unset;
+}
+
+.property table td {
+  border: unset;
+}
+
+.property table tr:last-child {
+  border-top: 1px solid #000;
+}
+.table {
+  width: 100%;
+  max-width: 816px;
+  font-size: 1.3rem;
+  line-height: 1.2;
+  margin: 0 auto 50px;
+}
+tr {
+  display: flex;
+  border-top: 1px solid #000;
+  padding: 13px 0;
+}
+tr:first-of-type {
+  border-top: none;
+}
+th {
+  display: block;
+  width: 35%;
+  margin-right: 5%;
+}
+td {
+  display: block;
+  flex: 1;
+}
+@media (min-width: 768px) {
+  .table {
+    font-size: 1.5rem;
+    line-height: 1.2;
+    text-align: left;
+    margin-bottom: 80px;
+  }
+  tr {
+    padding: 15px 20px;
+  }
+  th {
+    width: 25%;
+  }
+
+  .property__form {
+    display: flex;
+    flex-direction: row;
+  }
+  .headline {
+    max-width: 816px;
+    font-size: 1.3rem;
+  }
+}
+.property__inner {
+  width: 90%;
+  margin: 0 auto;
+}
+.headline {
+  margin-bottom: 30px;
+}
+.headline:last-of-type {
+  margin-bottom: 0;
+}
+.headline_update {
+  text-align: center;
+}

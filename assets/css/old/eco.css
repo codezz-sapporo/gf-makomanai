@@ -1,0 +1,646 @@
+@charset "utf-8";
+.eco .contents{
+	border-top: 2px solid #9FD7CF;
+	padding: 80px 0;
+}
+
+.eco .tab .flex > div{
+	background: #9FD7CF;
+	line-height: 45px;
+	text-align: center;
+	width: 267px;
+}
+.eco .tab .flex > div:first-child{
+	margin-right: 5px;
+}
+
+.eco .tab .flex > div h2,
+.eco .tab .flex > div a{
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: normal;
+}
+.eco .tab .flex > div h2 {
+	color:#434241;
+}
+.eco .tab .flex > div a{
+	background: #B9C2C7;
+	display: block;
+}
+
+.eco .contents h3{
+	font-size: 28px;
+	margin: 0 0 60px;
+	line-height: 50px;
+}
+
+
+.eco .contents .sec1 .txt{
+	width: 357px;
+}
+
+.eco .contents .sec1 .txt.charcoal{
+	width: 320px;
+}
+
+.eco .contents h4{
+	font-size: 24px;
+	line-height: 35px;
+}
+
+.eco .contents .section{
+	padding-bottom: 40px;
+}
+
+.eco .contents .section p{
+	font-size: 14px;
+	line-height: 25px;
+}
+
+.eco .contents .sec1.charcoal{
+	padding: 60px 45px 45px;
+	background-color: #f8f6e7;
+}
+
+.eco .contents .sec1.construction{
+	padding-bottom: 60px;
+}
+
+.eco .contents .sec1.charcoal{
+	margin-bottom: 80px;
+}
+
+.eco .contents .sec1 .img.charcoal{
+	margin-top: -20px;
+}
+
+
+.eco .contents .sec1.ventilation .image img,
+.eco .contents .sec3.ventilation .image img,
+.eco .contents .sec4.construction .image img{
+	max-width: unset;
+}
+
+.eco .contents .sec2.construction{
+	
+}
+
+.eco .contents .sec2.charcoal h3{
+	margin: 0 0 50px;
+}
+
+.eco .contents .sec2.charcoal .item-box{
+	display: flex;
+	justify-content: space-between;
+}
+
+.eco .contents .sec2.charcoal p{
+	width: 732px;
+	margin-top: 0;
+}
+
+.eco .contents .sec2 .txt{
+	margin: 30px auto 0;
+	width: 760px;
+}
+
+.eco .contents .sec2 .img{
+	background: #B9C2C7;
+	padding: 60px 90px;
+	width: 100%;
+}
+
+.eco .contents .sec2.charcoal .img{
+	width: inherit;
+	padding: 0;
+}
+
+.eco .contents .sec2 .img .flex > li{
+	margin-bottom: 50px;
+	width: 29%
+}
+
+.eco .contents .sec2.construction .top-text{
+	display: flex;
+}
+
+.eco .contents .sec2.construction .long{
+	position: absolute;
+	width: 107%;
+	left: 30px;
+}
+
+.eco .contents .sec2.construction .c-text{
+	display: inline-block;
+	font-size: 40px;
+	margin-right: 15px;
+	font-style: italic;
+	line-height: 40px;
+	vertical-align: top;
+}
+
+.eco .contents .sec2.construction h5{
+	display: inline-block;
+	font-size: 20px;
+	line-height: 26px;
+	vertical-align: top;
+}
+
+.eco .contents .sec2.construction .row-box,
+.eco .contents .sec2.construction .box{
+	display: flex;
+	justify-content: space-between;
+}
+
+.eco .contents .sec2.construction .row-box:not(:last-child){
+	margin-bottom: 50px;
+}
+
+.eco .contents .sec2.construction .box{
+	width: 49%;
+}
+
+.eco .contents .sec2.construction .right-box,
+.eco .contents .sec2.construction .wd{
+	width: 256px;
+}
+
+/*.eco .contents .sec2.construction .box.wide {
+	width:100%;
+}
+.eco .contents .sec2.construction .box.wide .left-box {
+	width:249px;
+}
+.eco .contents .sec2.construction .box.wide .right-box {
+	width:calc(100% - 249px);
+	padding-left:20px;
+}*/
+
+.eco .contents .sec2.construction .drop{
+	margin-top: 60px;
+	font-size: 13px;
+	line-height: 24px;
+}
+
+.eco .contents .sec2.construction .right-box p{
+	font-size: 13px;
+	line-height: 24px;
+}
+
+.eco h4.center{
+	text-align: center;
+}
+
+
+.eco .contents .sec6.charcoal,
+.eco .contents .sec2.ventilation{
+	width: 750px;
+	margin: 0 auto;
+}
+
+.eco .contents .sec3.construction{
+	width: 980px;
+	margin: 0 auto;
+}
+
+.eco .contents .sec3.construction .txt{
+	width: 435px;
+}
+
+.eco .contents .sec3.construction .mini{
+	font-size: 13px;
+	line-height: 24px;
+}
+
+.eco .contents .sec3.charcoal .item-box,
+.eco .contents .sec4.charcoal .item-box{
+	display: flex;
+	justify-content: space-between;
+}
+
+.eco .contents .sec3.charcoal .text-box,
+.eco .contents .sec4.charcoal .text-box{
+	width: 732px
+}
+.eco .contents .sec4.charcoal .text-box p{
+	font-size: 14px;
+	line-height: 25px;
+}
+
+.eco .sec3 .logo{
+	margin-left: auto;
+	text-align: right;
+	width: 198px;
+}
+
+.eco .sec3 .image{
+	text-align: center;
+}
+
+.eco .sec4 .txt{
+	width: 50%;
+}
+
+.eco .contents .sec4.charcoal h4 span{
+	font-size: 18px;
+}
+
+.eco .contents .sec4.ventilation{
+	text-align: center;
+}
+
+.eco .contents .sec5.charcoal{
+	margin-top: 20px;
+	align-items: center;
+}
+
+.eco .contents .sec5.charcoal .txt{
+	width: 248px;
+}
+
+.eco .contents .sec5.charcoal h5{
+	font-size: 20px;
+	line-height: 26px;
+}
+
+.eco .sec5 ul {
+	margin-bottom: 36px;
+}
+.eco .sec5 .flex > li{
+	width: 340px;
+}
+
+.eco .sec5 .flex > li .img{
+	text-align: center;
+}
+
+.eco .sec5 .flex > li h5{
+	font-size: 20px;
+	line-height: 25px;
+}
+
+.eco .sec5 .flex > li p{
+	font-size: 13px;
+	line-height: 20px;
+}
+
+.eco .contents .sec6.charcoal .txt{
+	width: 601px;
+}
+
+.eco .contents .sec6.charcoal .flex{
+	flex-direction: column;
+	text-align: left;
+}
+
+.eco .contents .sec6.charcoal li:first-child{
+	margin-bottom: 62px;
+}
+
+.insertion{
+	text-align: center;
+	margin-bottom: 80px;
+}
+
+.charcoal-icon{
+	height: 28px;
+	margin-top: 11px;
+}
+
+.icon.eco{
+	margin-top: 6px;
+}
+
+.p-eco__section {
+    margin-bottom: 60px;
+}
+.p-eco__section__sectionBox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-flow: row-reverse;
+}
+.p-eco__section__sectionBox__infoBox {
+    width: 640px;
+}
+.p-eco__section__sectionBox__thumbnail {
+    width: 350px;
+}
+.p-eco__section__sectionBox__thumbnail img {
+    width: 100%;
+}
+.eco .contents h4 {
+    font-size: 24px;
+    line-height: 35px;
+}
+.p-eco__section__sectionBox__infoBox__description {
+    margin-top: 30px;
+    font-size: 14px;
+    line-height: 25px;
+}
+
+
+/* 追加 */
+.eco .tab.btm {
+	margin:50px 0;
+}
+
+/*------------------------------------------------------------
+	レスポンシブ
+------------------------------------------------------------*/
+@media all and (min-width: 0) and (max-width: 767px){
+	.eco .tab.mt10{
+		margin-top: 0;
+	}
+	
+	.eco .tab .flex,
+	.eco .sec5 .flex{
+		flex-wrap: wrap;
+	}
+	
+	.eco .tab .flex > div{
+		width: calc(50% - 3px);
+		margin-top: 1px;
+	}
+	
+	.eco .contents {
+		border-bottom: none;
+		border-top: none;
+		margin: 0 auto;
+		padding-top: 50px;
+		width: 90%;
+	}
+	
+	.eco .contents .section {
+		padding-bottom: 0;
+	}
+	
+	.eco .contents h3 {
+		font-size: 20px;
+		line-height: 25px;
+		margin: 0 0 30px;
+	}
+	
+	.eco .contents h5{
+		font-size: 16px;
+		line-height: 25px;
+	}
+
+
+	
+	.eco .contents .sec2.flex{
+		flex-direction: column-reverse;
+	}
+	
+	.eco .contents .sec2 .img {
+		background: none;
+		padding: 0;
+	}
+	
+	.eco .contents .sec2 .img .flex > li{
+		margin-bottom: 30px;
+	}
+
+	.eco .contents .sec1 .txt,
+	.eco .contents .sec1 .txt.charcoal,
+	.eco .contents .sec2 .txt,
+	.eco .contents .sec2 .img,
+	.eco .contents .sec2 .img .flex > li,
+	.eco .sec4 .txt,
+	.eco .contents .sec3.charcoal,
+	.eco .contents .sec4.charcoal,
+	.eco .contents .sec5.charcoal,
+	.eco .contents .sec6.charcoal,
+	.eco .contents .sec6.charcoal .txt,
+	.eco .contents .sec5.charcoal .txt,
+	.eco .contents .sec2.ventilation,
+	.eco .contents .sec3.construction,
+	.eco .contents .sec3.construction .txt{
+		width: 100%;
+	}
+	
+	.eco .contents .sec2.construction .drop{
+		margin-top: 0;
+		text-align: left;
+		margin-bottom: 0;
+	}
+	
+	.eco .contents .sec2.construction .mb20{
+		margin-bottom: 20px;
+	}
+	
+	.eco .contents .sec2.construction .mb-no{
+		margin-bottom: 0;
+	}
+	
+	.eco .contents .sec2.charcoal .item-box{
+		flex-direction: column-reverse;
+	}
+	
+	.eco .contents .sec2.charcoal p{
+		width: 100%;
+	}
+	
+	.eco .contents .sec2.charcoal .img{
+		width: 100%;
+	}
+
+	
+	.eco .contents h4{
+		font-size: 18px;
+		line-height: 28px;
+	}
+	
+	.eco .contents .section p{
+		margin: 20px 0;
+	}
+	
+	.eco h4.center{
+		text-align: left;
+	}
+	
+	.eco .contents .sec1.charcoal{
+		padding: 25px 10px;
+		margin-bottom: 50px;
+}
+	
+	.charcoal_power .contents .sec1 .img.charcoal{
+		margin-top: 0;
+	}
+	
+	.eco .contents .sec1.construction{
+		padding-bottom: 10px;
+	}
+	
+	.eco .contents .sec1.ventilation .image img,
+	.eco .contents .sec3.ventilation .image img,
+	.eco .contents .sec4.construction .image img{
+		max-width: 100%;
+}
+	
+	.eco .contents .sec2.charcoal h3{
+		margin: 0 0 30px;
+	}
+	
+	.eco .contents .sec2.construction .row-box,
+	.eco .contents .sec2.construction .row-box:not(:last-child),
+	.eco .contents .sec2.construction .box{
+		flex-direction: column;
+		margin-bottom: 0;
+}
+	
+	.eco .contents .sec2.construction .box{
+		margin-bottom: 20px;
+	}
+
+	.eco .contents .sec2.construction .box,
+	.eco .contents .sec2.construction .right-box,
+	.eco .contents .sec2.construction .wd,
+	.eco .contents .sec2.construction .long{
+		width: 100%;
+}
+	
+	.eco .contents .sec2.construction .left-box{
+		text-align: center;
+		margin-bottom: 15px;
+	}
+	
+	.eco .contents .sec2.construction p{
+		margin-top: 10px;
+	}
+	
+	.eco .contents .sec2.construction .c-text{
+		font-size: 35px;
+	}
+
+	
+	.eco .sec3 .logo {
+		margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+		width: 80%;
+	}
+	
+	.eco .contents .sec4.charcoal{
+		margin-top: 20px;
+	}
+	
+	.eco .contents .sec3.charcoal .text-box,
+	.eco .contents .sec4.charcoal .text-box{
+		width: 100%;
+	}
+	
+	.eco .contents .sec3.construction,
+	.eco .contents .sec4.construction{
+		padding-bottom: 50px;
+	}
+	
+	.eco .contents .sec3.charcoal .item-box{
+		flex-direction: column-reverse;
+	}
+	
+	.eco .contents .sec4.charcoal .item-box{
+		flex-direction: column;
+	}
+	
+	.eco .contents .sec3.charcoal .text-box,
+	.eco .contents .sec4.charcoal .text-box{
+		width: 100%;
+	}
+	
+	.eco .contents .sec5.charcoal{
+		flex-direction: column;
+		margin-top: 20px;
+		padding-bottom: 50px;
+	}
+	
+	.eco .contents .sec5.charcoal h5{
+		font-size: 16px;
+		line-height: 25px;
+	}
+	
+	.eco .contents .sec5.charcoal p{
+		margin: 5px 0 0;
+	}
+	
+
+	.eco .sec5 {
+    margin-top: 40px;
+	}
+	.eco .sec5 .flex > li{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	.eco .sec5 ul {
+    margin-bottom: 24px;
+	}
+
+	.eco .sec5 .flex > li h5 {
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0;
+    text-align: center;
+}
+
+	.eco .contents .sec6.charcoal .in-box.mt40{
+		margin-top: 0;
+	}
+	
+	.eco .contents .sec6.charcoal .flex{
+		flex-direction: row;
+	}
+	
+	.eco .contents .sec6.charcoal li:first-child{
+	margin-bottom: 0;
+}
+	
+	.eco .tab.mb50{
+		margin-bottom: 0;
+	}
+
+	.insertion{
+		margin: 30px 0;
+	}
+	
+	.eco .sec5.charcoal .in-box{
+		margin-top: 15px;
+	}
+	
+	.charcoal-icon{
+		height: 21px;
+		margin-top: 1px;
+	}
+	
+	.icon.eco{
+		margin-top: -7px;
+	}
+	.p-eco__section {
+    margin-top: 80px;
+    margin-bottom: 80px;
+	}
+	.p-eco__section__sectionBox {
+		display: block;
+	}
+	.p-eco__section__sectionBox__infoBox {
+		width: 100%;
+	}
+	.eco .contents h4 {
+		font-size: 18px;
+		line-height: 28px;
+		text-align: center;
+	}
+	.p-eco__section__sectionBox__infoBox__description {
+		margin-top: 20px;
+	}
+	.p-eco__section__sectionBox__thumbnail {
+		width: 275px;
+		margin: 20px auto 0;
+	}
+	
+	
+	/* 追加 */
+	.eco .tab.btm {
+		margin:0 0 2px 0;
+	}
+}

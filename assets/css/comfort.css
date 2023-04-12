@@ -1,0 +1,577 @@
+@charset "UTF-8";
+.mainvisual-title_comfort::before {
+  content: "PRIVERT AREA";
+}
+@media (min-width: 768px) {
+  .one_tab {
+    width: calc((100% - 45px) / 9);
+    margin: 0 2.5px 5px;
+  }
+}
+@media (max-width: 1299px) {
+  .js-tab-switch.is-active {
+    bottom: unset;
+  }
+  .js-tab-switch_bottom.is-active {
+    top: unset;
+  }
+  .js-tab-switch.is-active::after {
+    display: none;
+  }
+  .js-tab-switch_bottom.is-active::after {
+    display: none;
+  }
+}
+/* リビング */
+.title-h2_living::before {
+  content: "LIVING";
+}
+
+.living .sec1 {
+  margin-bottom: 50px;
+}
+.middle-img .inside {
+  max-width: 816px;
+  margin: 0 auto 25px;
+}
+.entrance .mv.beige {
+  background: none;
+}
+.living .section__inner {
+  margin-bottom: 50px;
+}
+@media (min-width: 768px) {
+  .living .sec1 {
+    padding: 0;
+  }
+  .living .section__inner {
+    margin-bottom: 80px;
+  }
+}
+
+/* ベッドルーム */
+.title-h2_bed::before {
+  content: "BED ROOM";
+}
+
+.bed-room {
+  width: 90%;
+  max-width: 1004px;
+  margin: 0 auto 50px;
+}
+.bed-room__photo {
+}
+.bed-room__photo_sec2 {
+  max-width: 816px;
+  margin: 0 auto 20px;
+}
+.bed-room__photo_sec3 {
+  width: 90%;
+  max-width: 816px;
+  margin: 0 auto 100px;
+}
+@media (min-width: 768px) {
+  .bed-room {
+    width: 90%;
+    margin: 0 auto 80px;
+  }
+  .bed-room__photo {
+  }
+  .bed-room__photo_sec2 {
+  }
+  .bed-room__photo_sec3 {
+    margin-bottom: 150px;
+  }
+}
+
+/* バスルーム */
+.title-h2_bath::before {
+  content: "BATH ROOM";
+}
+
+.intro__text {
+  width: 90%;
+  margin: 0 auto;
+}
+.intro__text_bath {
+  margin-bottom: 50px;
+}
+.bath__sec1-wrapper {
+  margin-bottom: 60px;
+}
+.bath .sec2 {
+  max-width: 1004px;
+  margin: 0 auto 60px;
+}
+.sec2.utility {
+  padding-bottom: 0;
+}
+.bath .sec2 .item-box__photo {
+  width: 80%;
+  margin: 0 auto;
+}
+@media (min-width: 768px) {
+  .entrance__manvisual_bath {
+    width: calc((535 / 1004) * 100%);
+  }
+  .intro__text {
+    width: 100%;
+  }
+  .bath__sec1-wrapper {
+    display: flex;
+    max-width: 1004px;
+    align-items: center;
+    margin: 0 auto;
+  }
+  .bath__sec1-wrapper .bath__text-area {
+    flex: 1;
+    margin-left: 5%;
+  }
+  .bath__photo_last {
+    margin-bottom: 150px;
+  }
+}
+
+/* ユーティリティ */
+.title-h2_utility::before {
+  content: "UTILITY";
+}
+
+.utility {
+  max-width: 1004px;
+  margin: 0 auto;
+}
+.utility .item-box__photo {
+  width: 80%;
+  margin: 0 auto;
+}
+.box .item-box__title_linen {
+  margin-top: 0;
+}
+.box-flex {
+  display: flex;
+}
+.box-flex__photo {
+  width: 45%;
+  margin-right: 3%;
+}
+.box-flex__text-area {
+  flex: 1;
+}
+/* キッチン */
+.title-h2_kitchen::before {
+  content: "KITCHEN";
+}
+
+.intro__text_kitchen {
+  width: 90%;
+  margin: 0 auto 50px;
+}
+.kitchen__intro-photo {
+  max-width: 1004px;
+  margin: 0 auto;
+}
+.kitchen__photo-img2_sp {
+  width: 90%;
+  margin: auto;
+}
+.section__inner_mb {
+  margin: 0 auto 70px;
+}
+.kitchen:last-of-type {
+  margin: 0 auto;
+}
+.sec4.kitchen {
+  padding: 0;
+}
+.clearfix:after {
+  display: none;
+}
+.item-box__photo_enelook {
+  width: 100%;
+}
+.box-flex .item-box__title_pantry {
+  text-align: left;
+  margin-top: 0;
+}
+@media (min-width: 768px) {
+  .kitchen__intro-photo {
+    width: 90%;
+  }
+  .kitchen__photo_img2 {
+    max-width: 816px;
+    margin: 0 auto 20px;
+  }
+  .section__inner_mb {
+    margin: 0 auto 100px;
+  }
+  .kitchen {
+    margin: 0 auto 100px;
+  }
+  .item-box__photo_faucet {
+    width: 100%;
+  }
+}
+/* トイレ */
+.title-h2_toilet::before {
+  content: "TOILET";
+}
+.item-box_toilet .box_3:last-of-type {
+  width: 100%;
+}
+/* バルコニー */
+.title-h2_balcony::before {
+  content: "BALCONY";
+}
+.balcony {
+  margin-bottom: 70px;
+}
+.title-h3_balcony {
+  text-align: center;
+}
+.title-h3_balcony::before {
+  display: block;
+  content: "";
+  background-image: url(../../assets/img/comfort/balcony/balcony_top-icon.png);
+  width: 140px;
+  height: 60px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 0 auto 15px;
+}
+.sec3.balcony {
+  padding: 0;
+}
+.sec4.balcony .item-box .box:first-of-type {
+  margin-bottom: 30px;
+}
+.box_balcony:first-of-type {
+  position: relative;
+}
+.box_balcony:first-of-type::after {
+  display: block;
+  content: "";
+  width: 20px;
+  height: 31.72px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxMCAxNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik01LjAwMDYzIDBDNS4xMzMyNCAwIDUuMjYwNDIgMC4wNTI2Nzg0IDUuMzU0MTkgMC4xNDY0NDdDNS40NDc5NSAwLjI0MDIxNSA1LjUwMDYzIDAuMzY3MzkyIDUuNTAwNjMgMC41VjEyLjI5M0w4LjY0NjYzIDkuMTQ2QzguNzQwNTIgOS4wNTIxMSA4Ljg2Nzg2IDguOTk5MzcgOS4wMDA2MyA4Ljk5OTM3QzkuMTMzNDEgOC45OTkzNyA5LjI2MDc0IDkuMDUyMTEgOS4zNTQ2MyA5LjE0NkM5LjQ0ODUyIDkuMjM5ODkgOS41MDEyNiA5LjM2NzIyIDkuNTAxMjYgOS41QzkuNTAxMjYgOS42MzI3OCA5LjQ0ODUyIDkuNzYwMTEgOS4zNTQ2MyA5Ljg1NEw1LjM1NDYzIDEzLjg1NEM1LjMwODE5IDEzLjkwMDYgNS4yNTMwMSAxMy45Mzc1IDUuMTkyMjYgMTMuOTYyN0M1LjEzMTUyIDEzLjk4NzkgNS4wNjY0IDE0LjAwMDkgNS4wMDA2MyAxNC4wMDA5QzQuOTM0ODYgMTQuMDAwOSA0Ljg2OTc0IDEzLjk4NzkgNC44MDkgMTMuOTYyN0M0Ljc0ODI1IDEzLjkzNzUgNC42OTMwOCAxMy45MDA2IDQuNjQ2NjMgMTMuODU0TDAuNjQ2NjMxIDkuODU0QzAuNTUyNzQ1IDkuNzYwMTEgMC41IDkuNjMyNzggMC41IDkuNUMwLjUgOS4zNjcyMiAwLjU1Mjc0NSA5LjIzOTg5IDAuNjQ2NjMxIDkuMTQ2QzAuNzQwNTE4IDkuMDUyMTEgMC44Njc4NTYgOC45OTkzNyAxLjAwMDYzIDguOTk5MzdDMS4xMzM0MSA4Ljk5OTM3IDEuMjYwNzUgOS4wNTIxMSAxLjM1NDYzIDkuMTQ2TDQuNTAwNjMgMTIuMjkzVjAuNUM0LjUwMDYzIDAuMzY3MzkyIDQuNTUzMzEgMC4yNDAyMTUgNC42NDcwOCAwLjE0NjQ0N0M0Ljc0MDg1IDAuMDUyNjc4NCA0Ljg2ODAyIDAgNS4wMDA2MyAwVjBaIiBmaWxsPSJibGFjayIvPgo8L3N2Zz4K);
+  margin-top: 25px;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+/* .sec4.balcony .box{
+    margin: 0 0 30px 0;
+} */
+.sec4.balcony .box .box__photo {
+  margin-bottom: 20px;
+}
+.balcony .txt-box h4,
+.balcony .txt-box p {
+  margin-top: 0;
+}
+.txt-box {
+  width: unset;
+}
+.sec4.balcony {
+  padding-bottom: 0;
+  margin-bottom: 70px;
+}
+.sec4.balcony .box {
+  margin-top: 0;
+}
+.tab-section_reverse {
+  display: flex;
+  flex-direction: column-reverse;
+}
+.tab-section__text-area_balcony {
+  margin-bottom: 30px;
+}
+.tab-section__text-area_balcony .text {
+  margin-bottom: 20px;
+}
+@media (min-width: 768px) {
+  .balcony {
+    margin-bottom: 100px;
+  }
+  .title-h3_balcony {
+    text-align: left;
+  }
+  .title-h3_balcony::before {
+    width: 201px;
+    height: 88px;
+    margin: 0 auto 25px 0;
+  }
+
+  .balcony .item-box_row-rev {
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+  }
+  .balcony .item-box__photo {
+    width: calc((440 / 1004) * 100%);
+    margin-left: 5%;
+  }
+  .balcony .item-box__text-area {
+    flex: 1;
+  }
+  .balcony .txt-box__photo {
+    width: 70%;
+    margin: 0 auto;
+  }
+  .sec4.balcony .box:first-of-type .box__photo {
+    margin-bottom: 50px;
+  }
+  .sec4.balcony .item-box .box:first-of-type {
+    position: relative;
+    margin-bottom: 0;
+  }
+  .box_balcony:first-of-type {
+    position: unset;
+  }
+  .item-box_balcony {
+    position: relative;
+  }
+  .box_balcony:first-of-type::after {
+    /* width: 25px;
+        height: 27px; */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-90deg);
+    margin: 0;
+  }
+  .sec4.balcony {
+    width: 770px;
+    margin: 0 auto 80px;
+  }
+  .sec7.balcony .imgWrap {
+    max-width: 770px;
+    margin: 0 auto;
+  }
+  .tab-section_balcony {
+    width: 70%;
+    max-width: 770px;
+  }
+  .box_balcony {
+    width: 45%;
+    margin-bottom: 0;
+  }
+  .tab-section_reverse {
+    flex-direction: row-reverse;
+    align-items: stretch;
+  }
+  .tab-section__text-area_balcony {
+    display: flex;
+    min-height: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0;
+  }
+  .tab-section__text-area_balcony .text {
+    margin-bottom: 0;
+  }
+}
+
+/* 玄関 */
+.title-h2_entrance::before {
+  content: "ENTRANCE";
+}
+
+.entrance-sec2__text:first-of-type {
+  margin-bottom: 35px;
+}
+.entrance-feature__item {
+  margin-bottom: 40px;
+}
+.entrance-feature__photo {
+  margin-bottom: 30px;
+}
+.entrance-feature__item .item-box__photo {
+  width: 45%;
+  float: left;
+  margin-right: 15px;
+}
+.item-box_entrance {
+  width: 90%;
+  margin: 0 auto 40px;
+}
+.box-entrance .item-box__photo {
+  margin-bottom: 20px;
+}
+.box-entrance {
+  margin-bottom: 40px;
+}
+.imageCenter img {
+  margin: 0 auto;
+}
+.sec5.entrance {
+  width: 90%;
+  background: #f4f3e9;
+  padding: 40px 5%;
+  margin: 0 auto 80px;
+}
+.entrance-dresser__title {
+  margin: 0 auto 30px;
+}
+.entrance-dresser__photo {
+  margin-bottom: 20px;
+}
+.entrance-dresser__content {
+  margin-bottom: 30px;
+}
+
+.sec5.entrance p {
+  margin-top: 0;
+}
+.box-entrance__title {
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+.box-entrance__photo_mamaraku {
+  width: 100%;
+  margin-top: 20px;
+}
+.entrance_shadow {
+  width: 90%;
+  box-shadow: 0px 4px 10px rgb(0 0 0 / 25%);
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.entrance h5 {
+  font-size: 1.6rem;
+}
+@media (min-width: 768px) {
+  .entrance-feature {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+  .entrance-feature__photo {
+    width: calc((376 / 1004) * 100%);
+    margin: 0 0 0 5%;
+  }
+  .entrance-feature__content {
+    flex: 1;
+  }
+  .entrance-feature__item .item-box__photo {
+    width: 30%;
+  }
+  .item-box_entrance {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto 60px;
+  }
+  .box-entrance .item-box__photo {
+    margin-bottom: 20px;
+  }
+  .entrance-dresser__content {
+    display: flex;
+  }
+  .entrance-dresser__photo {
+    width: calc((100% - 45px) / 4);
+    margin-right: 5%;
+  }
+  .entrance-dresser__text {
+    flex: 1;
+  }
+  .entrance-dresser__title {
+    width: 50%;
+    margin: 0 auto 40px 0;
+  }
+  .entrance .box.box--wd234 {
+    width: calc((100% - 45px) / 4);
+  }
+  .entrance-dresser .imageCenter img {
+    margin: 0;
+  }
+  .box-entrance_flex {
+    width: 100%;
+    display: flex;
+  }
+  .box-entrance_flex .item-box__photo {
+    width: calc((435 / 910) * 100%);
+    margin-right: 5%;
+  }
+  .box-entrance_flex__content {
+    flex: 1;
+  }
+  .box-entrance__title {
+    font-size: 1.6rem;
+  }
+  .box-entrance__photo_mamaraku {
+    width: 70%;
+    margin-top: 20px;
+  }
+  .sec6.entrance {
+    max-width: 910px;
+  }
+  .entrance h5 {
+    font-size: 1.8rem;
+  }
+}
+
+/* プライベートエリア共通 */
+.title-h3-comfort {
+  position: relative;
+}
+.title-h3-comfort::before {
+  display: block;
+  font-size: 2.2rem;
+  font-family: "Cinzel", serif;
+  line-height: 1.2;
+  font-weight: 400;
+  color: #d2b071;
+  margin-bottom: 30px;
+}
+.title-h3-comfort_livingroom::before {
+  content: "Living room";
+}
+.title-h3-comfort_invisualstyle::before {
+  content: "Individual style";
+}
+.title-h3-comfort_specification::before {
+  content: "Specification & Equipment";
+}
+.title-h3-comfort_kitchen::before {
+  content: "Luxuray functionality";
+}
+.title-h3-comfort_penthouse::before {
+  content: "Pursuing expantion";
+}
+.title-h3-comfort::after {
+  display: block;
+  content: "";
+  width: 40px;
+  height: 1px;
+  background-color: #d2b071;
+  position: absolute;
+  top: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+@media (min-width: 768px) {
+  .title-h3-comfort::before {
+    font-size: 3rem;
+  }
+  .title-h3-comfort_specification::before {
+    font-size: 4rem;
+  }
+  .title-h3-comfort::after {
+    width: 50px;
+    top: 50px;
+    left: 50%;
+  }
+  .title-h3-comfort_specification::after {
+    left: 0;
+    top: 60px;
+    transform: unset;
+  }
+  .contact__text-number::after {
+    bottom: 0;
+  }
+  .item-box__box-title {
+    font-size: 1.6rem;
+  }
+}

@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+.contact-page {
+  margin-bottom: 100px;
+}
+.contact-page .contents {
+  padding: 0;
+}
+.mainvisual-title_request::before {
+  content: "REQUEST";
+}
+.mainvisual-title_online::before {
+  content: "ONLINE RESERVE";
+}
+.mainvisual-title_tour::before {
+  content: "TOUR RESERVE";
+}
+.mainvisual-title_thanks::before {
+  content: "THANKS";
+}

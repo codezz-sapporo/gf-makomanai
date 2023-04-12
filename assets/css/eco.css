@@ -1,0 +1,278 @@
+@charset "UTF-8";
+.mainvisual-title {
+  filter: none;
+}
+.mainvisual-title_eco::before {
+  content: "ECOLOGY&ECONOMY";
+  font-size: calc((30 / 375) * 100vw);
+}
+.tab-list_eco {
+  justify-content: center;
+}
+.tab-list_bottom {
+  justify-content: center;
+}
+@media (min-width: 768px) {
+  /* .header {
+    background: linear-gradient(
+      rgb(0, 94, 183) 0%,
+      rgb(0, 76, 148) 100%
+    ) !important;
+    filter: drop-shadow(rgba(0, 0, 0, 0.4) 0px 4px 4px);
+  } */
+  .header-nav__link {
+    text-shadow: none;
+  }
+  .header-nav__link::after {
+    box-shadow: none;
+  }
+  .mainvisual-title_eco::before {
+    font-size: 5rem;
+  }
+}
+.eco-list {
+  margin-bottom: 20px;
+}
+.eco-list__item {
+  margin-bottom: 30px;
+}
+@media (min-width: 768px) {
+  .eco-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background: #f9f7e8;
+    padding: 30px 5% 0;
+    margin-bottom: 50px;
+  }
+  .eco-list__item {
+    width: 30%;
+  }
+}
+.entrance-nav__item_eco {
+  width: 50%;
+}
+.eco .contents {
+  padding: 0;
+  margin-bottom: 100px;
+}
+.eco .contents .section {
+  padding-bottom: 0;
+  margin-bottom: 70px;
+}
+.eco .contents .section p {
+  font-size: 1.5rem;
+  line-height: 1.75;
+}
+.icon.eco {
+  display: unset;
+  width: unset;
+  margin: 0 0 7px 0;
+}
+.f-left {
+  float: unset;
+}
+.f-right {
+  float: unset;
+}
+.eco .sec5 .flex > li {
+  width: unset;
+  margin-bottom: 20px;
+}
+.eco .sec5 .flex > li:last-of-type {
+  margin-bottom: 0;
+}
+.eco .sec5 ul:last-of-type {
+  margin-bottom: 0;
+}
+.p-eco__section__sectionBox__infoBox__title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.eco .contents .intro__title {
+  font-size: 2rem;
+  color: var(--text-black);
+}
+
+.eco .contents .intro__title_small {
+  font-size: 1.8rem;
+  line-height: 1.6;
+  color: var(--text-black);
+  text-align: center;
+}
+.eco .contents h3 {
+  font-size: 1.8rem;
+  line-height: 1.85;
+  margin-bottom: 20px;
+}
+.eco_value .contents h3 {
+  text-align: center;
+}
+@media (min-width: 768px) {
+  .entrance-nav__item_eco {
+    width: 300px;
+  }
+  .eco .contents .intro__title {
+    font-size: 2.6rem;
+    margin-bottom: 40px;
+  }
+  .eco .contents .intro__title_small {
+    font-size: 2rem;
+  }
+  .eco_value .contents .intro__title_small {
+    text-align: left;
+  }
+  .eco .contents h3 {
+    font-size: 2rem;
+  }
+  .eco_value .contents h3 {
+    text-align: left;
+  }
+  .eco .contents h4 {
+    font-size: 2rem;
+    line-height: 1.55;
+    margin-bottom: 20px;
+  }
+  .eco_value .contents h4 {
+    text-align: center;
+  }
+
+  .eco .contents .sec1.section_value {
+    display: flex;
+  }
+
+  .eco_value .contents .sec4.section {
+    display: flex;
+  }
+  .f-right {
+    flex: 1;
+    margin-left: 3%;
+  }
+  .eco .sec5 .flex > li {
+    width: 30%;
+  }
+  .eco .contents {
+    padding: 283px 0 0;
+    margin-bottom: 150px;
+  }
+  .icon.eco {
+    margin: 0 0 15px 0;
+  }
+  .p-eco__section__sectionBox__infoBox {
+    margin-left: 5%;
+  }
+  .eco .contents .sec2 .txt {
+    margin-top: 80px;
+  }
+  .eco .contents .section {
+    margin-bottom: 100px;
+  }
+  .box_3:last-of-type {
+    margin-bottom: 0;
+  }
+}
+.title-h2_eco::before {
+  content: "ECO VALUE";
+}
+/* 構造・品質管理 */
+.title-h2_const::before {
+  content: "CONSTRUCTION";
+}
+.eco .contents .sec1.construction {
+  padding-bottom: 0;
+}
+.eco .box {
+  margin-top: 0;
+}
+.eco_const .contents h4 {
+  text-align: left;
+  flex: 1;
+}
+.eco_const .contents .sec3 .intro__title_small {
+  text-align: left;
+}
+.eco_const .sec3 .in-box {
+  margin-top: 50px;
+}
+.eco_const .sec3 .in-box:first-of-type {
+  margin-top: 0;
+}
+.eco_const .contents .section p {
+  margin: 15px auto 10px;
+}
+.eco .contents .sec3.construction {
+  padding-bottom: 0;
+}
+.eco .contents .sec4.construction {
+  padding-bottom: 0;
+}
+.eco .contents .sec3.construction {
+  margin-bottom: 70px;
+}
+.box_full .text-wrapper .text {
+  margin-bottom: 15px;
+}
+.in-box {
+  margin-bottom: 50px;
+}
+.in-box__caption {
+  display: block;
+  font-size: 1.2rem;
+  color: #6f6f6f;
+  margin-top: 10px;
+}
+.in-box__photo {
+  margin-top: 15px;
+}
+@media (min-width: 768px) {
+  .eco .contents .sec2.construction .right-box {
+    margin-left: 3%;
+  }
+  .eco .contents .sec2.construction .box_full {
+    width: 100%;
+  }
+  .box_full .text-wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+  .box_full .text-wrapper .text {
+    width: 32%;
+    margin: 0;
+  }
+  .eco .contents .sec2.construction .row-box {
+    width: 100%;
+  }
+  .box_full .left-box {
+    width: calc((249 / 1004) * 100%);
+  }
+  .box_full .right-box {
+    flex: 1;
+    padding-left: 2%;
+  }
+  .in-box {
+    display: flex;
+  }
+  .eco_const .contents .sec3.construction {
+    width: unset;
+    margin: 0 0 100px 0;
+  }
+  .in-box__photo {
+    width: 35%;
+    margin: 0 0 0 5%;
+  }
+  .in-box__text-area {
+    flex: 1;
+  }
+  .in-box__caption {
+    font-size: 1.3rem;
+  }
+}
+.item-box_row .item-box__title_max::before {
+  min-width: 50px;
+}
+.eco__svg {
+  width: 100%;
+}
+.item-box_row .item-box__title::before {
+  width: 46px;
+}

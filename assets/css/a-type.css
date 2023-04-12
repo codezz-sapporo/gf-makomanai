@@ -1,0 +1,412 @@
+@charset "UTF-8";
+
+.mainvisual-title_plan::before {
+  content: "FLOOR PLAN";
+}
+.a-type .contents {
+  border: none;
+  padding: 50px 0 0 0;
+  margin: 0 0 100px 0;
+}
+.a-type .page {
+  max-width: 1120px;
+}
+.func .text p {
+  font-size: 1.4rem;
+  line-height: 1.75;
+}
+
+.parent {
+  width: 100%;
+  display: block;
+  padding: 15px;
+  margin-right: 0;
+  margin-bottom: 30px;
+  border: 1px solid #e5e5e5;
+}
+
+@media (min-width: 768px) {
+  .parent {
+    width: calc((99.9% - 100px) / 3);
+    margin: 0 49px 0 0;
+  }
+  .parent::before {
+    display: none;
+  }
+  .typelist {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+  }
+}
+
+@media (min-width: 768px) {
+  .a-type .contents {
+    padding-top: 100px;
+    margin: 203px 0 150px 0;
+  }
+  .func .text p {
+    font-size: 1.6rem;
+  }
+}
+.a-type .main {
+  background-image: none;
+}
+.func .left {
+  float: unset;
+}
+.func .right {
+  float: unset;
+}
+@media (min-width: 768px) {
+  .func .clearfix {
+    display: flex;
+  }
+}
+#menuplan .menu dl dd {
+  font-size: 14px;
+  color: #242520;
+  line-height: 1.6;
+  text-align: left;
+}
+.typelist li .floorimg {
+  padding: 30px 0 80px;
+  position: relative;
+}
+
+.typelist li .floorimg::after {
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
+@media (min-width: 768px) {
+  .detail .main .floorimg img {
+    width: 600px;
+  }
+}
+
+.detail .main .head h3 .detail-title_small {
+  display: inline;
+  font-size: 2.6rem;
+  width: unset;
+}
+.page .typelist .parent h3 .detail-title_small {
+  display: inline;
+  font-size: 2.6rem;
+  width: unset;
+}
+
+.detail .main .floorimg img {
+  width: 100%;
+}
+.contents .detail .floorimg {
+  position: relative;
+  padding: 0 0 60px;
+}
+#menuplan .menu .floorimg img {
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+#symbol01_right .floorimg::after {
+  display: block;
+  content: "";
+  width: 50px;
+  height: 42px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
+#symbol01s_right .floorimg::after {
+  display: block;
+  content: "";
+  width: 50px;
+  height: 42px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 0;
+  bottom: 20px;
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
+#symbol01_left .floorimg::after {
+  display: block;
+  content: "";
+  width: 50px;
+  height: 42px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  transform: translateX(50%);
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
+#symbol01s_left .floorimg::after {
+  display: block;
+  content: "";
+  width: 50px;
+  height: 42px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 20px;
+  transform: translateX(50%);
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
+#symbol02_right .floorimg::after {
+  display: block;
+  content: "";
+  width: 50px;
+  height: 42px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
+#symbol02s_right .floorimg::after {
+  display: block;
+  content: "";
+  width: 50px;
+  height: 42px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 0;
+  bottom: 20px;
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
+#symbol03_right .floorimg::after {
+  display: block;
+  content: "";
+  width: 50px;
+  height: 42px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
+#symbol03s_right .floorimg::after {
+  display: block;
+  content: "";
+  width: 50px;
+  height: 42px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 0;
+  bottom: 20px;
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
+#symbol03_left .floorimg::after {
+  display: block;
+  content: "";
+  width: 50px;
+  height: 42px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  transform: translateX(50%);
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
+#symbol03s_left .floorimg::after {
+  display: block;
+  content: "";
+  width: 50px;
+  height: 42px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 20px;
+  transform: translateX(50%);
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
+#symbol03_center .floorimg::after {
+  display: block;
+  content: "";
+  width: 50px;
+  height: 42px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 50%;
+  bottom: 0;
+  transform: translateX(50%);
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
+#symbol03s_center .floorimg::after {
+  display: block;
+  content: "";
+  width: 50px;
+  height: 42px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 50%;
+  bottom: 20px;
+  transform: translateX(50%);
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
+#symbol04_center .floorimg::after {
+  display: block;
+  content: "";
+  width: 50px;
+  height: 42px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 50%;
+  bottom: 0;
+  transform: translateX(50%);
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
+#symbol04s_center .floorimg::after {
+  display: block;
+  content: "";
+  width: 50px;
+  height: 42px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 50%;
+  bottom: 20px;
+  transform: translateX(50%);
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
+
+.func .left {
+  float: unset;
+}
+.func .right {
+  float: unset;
+}
+.entrance-nav__link_plan-active {
+  background-color: #e4e3d9;
+}
+.detail-label {
+  font-size: 14px;
+  font-weight: 500;
+  color: #fff;
+  max-width: 260px;
+  display: block;
+  padding: 15px 10px;
+  margin: 0 auto 20px auto;
+  background-color: #9f9256;
+  cursor: pointer;
+}
+.detail-close {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #fff;
+  background-color: #9f9256;
+  border: 1px solid var(--white);
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  cursor: pointer;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.5));
+  transition: all 0.3s ease-out;
+  position: relative;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
+.detail-close::before {
+  display: block;
+  content: "";
+  width: 25px;
+  height: 2px;
+  background-color: #fff;
+  position: absolute;
+  top: 44%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-45deg);
+  transition: all 0.3s ease-out;
+}
+.detail-close::after {
+  display: block;
+  content: "";
+  width: 25px;
+  height: 2px;
+  background-color: #fff;
+  position: absolute;
+  top: 44%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(45deg);
+  transition: all 0.3s ease-out;
+}
+
+.detail-main {
+  background-color: rgba(31, 30, 30, 0.95);
+  padding-top: 100px;
+}
+.detail {
+  width: 90%;
+  background-color: #fff;
+}
+.detail .main {
+  background-color: #fff;
+}
+.menu {
+  margin-bottom: 20px;
+}
+.menu:last-of-type {
+  margin-bottom: 0;
+}
+.menu-list {
+  margin-bottom: 50px;
+}
+.floating {
+}
+@media (min-width: 768px) {
+  .menu {
+    margin-bottom: 50px;
+  }
+  .floating {
+    width: unset;
+  }
+  .detail-close {
+    font-size: 1.2rem;
+    width: 60px;
+    height: 60px;
+  }
+  .detail-close::before,
+  .detail-close::after {
+    width: 32px;
+  }
+  .detail-close:hover {
+    color: #9f9256;
+    background-color: #fff;
+    border: #9f9256 1.5px solid;
+    filter: drop-shadow(0px 8px 5px rgba(0, 0, 0, 0.6));
+    transition: all 0.3s ease-out;
+  }
+  .detail-close:hover::before {
+    background-color: #9f9256;
+    transition: all 0.3s ease-out;
+  }
+  .detail-close:hover::after {
+    background-color: #9f9256;
+    transition: all 0.3s ease-out;
+  }
+}
+.typelist .name_size p sup {
+  vertical-align: revert;
+}
+.detail .main .head p.size sup {
+  vertical-align: revert;
+}

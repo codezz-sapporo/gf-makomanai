@@ -1,0 +1,82 @@
+@charset "utf-8";
+
+.page .in {
+	max-width:865px;
+	margin:75px auto 100px auto;
+}
+#map {
+	margin-bottom:65px;
+}
+#covid {
+	margin-bottom:60px;
+}
+#covid .photo {
+	margin-bottom:65px;
+}
+#covid h2 {
+	font-size:18px;
+	font-weight:bold;
+	color:#006837;
+	text-indent:-10px;
+	margin-bottom:5px;
+}
+#covid p {
+	font-size:16px;
+	line-height:1.8;
+}
+#covid ol,
+#covid ol li {
+	list-style-type:none;
+}
+#covid li {
+	font-size:16px;
+	line-height:1.8;
+}
+.info dl:not(:last-child) {
+	margin-bottom:35px;
+}
+.info dl dt,
+.info dl dd {
+	font-size:16px;
+	line-height:1.8;
+}
+.info dl dt {
+	font-weight:bold;
+	color:#0071BC;
+}
+
+
+
+/*------------------------------------------------------------
+	レスポンシブ
+------------------------------------------------------------*/
+@media all and (min-width: 0) and (max-width: 767px){
+	.page .in {
+		margin:40px auto 60px auto;
+	}
+	#map {
+		margin-bottom:45px;
+	}
+	#covid {
+		margin-bottom:40px;
+	}
+	#covid .photo {
+		margin-bottom:45px;
+	}
+	#covid h2 {
+		font-size:16px;
+	}
+	#covid p {
+		font-size:14px;
+	}
+	#covid li {
+		font-size:14px;
+	}
+	.info dl:not(:last-child) {
+		margin-bottom:25px;
+	}
+	.info dl dt,
+	.info dl dd {
+		font-size:14px;
+	}
+}

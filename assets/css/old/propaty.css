@@ -1,0 +1,55 @@
+@charset "utf-8";
+
+.property table {
+  width: 100%;
+  max-width: 865px;
+  margin: 75px auto 40px auto;
+  border-bottom: 1px solid #000;
+  border-collapse: collapse;
+}
+.property table th,
+.property table td {
+  font-size: 15px;
+  font-weight: normal;
+  text-align: left;
+  vertical-align: top;
+  padding: 15px 20px;
+  border-top: 1px solid #000;
+}
+.property table th {
+  width: 220px;
+  white-space: nowrap;
+}
+
+.property #headline {
+  max-width: 865px;
+  margin: 0 auto 100px auto;
+}
+.property #headline dt,
+.property #headline dd {
+  font-size: 13px;
+}
+.property #headline dt {
+  text-indent: -7px;
+}
+
+/*------------------------------------------------------------
+	レスポンシブ
+------------------------------------------------------------*/
+@media all and (min-width: 0) and (max-width: 767px) {
+  .property table {
+    margin: 40px auto 30px auto;
+  }
+  .property table th,
+  .property table td {
+    font-size: 14px;
+    padding: 10px 10px;
+  }
+  .property table th {
+    width: 10px;
+  }
+
+  .property #headline {
+    margin: 0 auto 60px auto;
+  }
+}

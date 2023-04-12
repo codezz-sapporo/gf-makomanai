@@ -35,8 +35,8 @@
                         <source type="image/webp" srcset="../assets/webp/comfort/entrance/img2.webp">
                         <img src="../assets/img/comfort/entrance/img2.jpg" alt="天然大理石貼 圧迫感を感じさせない折り上げ天井、玄関ホール・廊下">
                     </picture>
-                    <h3 class="title-h3">消毒ボトルラック・<br class="br_sp">新聞受けラック<br>(毎朝新聞配達システム)</h3>
-                    <p class="text">身近な感染予防対策でまず考えたいのは、家庭内にウイルスや細菌を持ち込まないこと。そのためには帰宅してすぐのタイミングでしっかりと手指を殺菌・消毒することが重要です。しかし最近では｢玄関にアルコール消毒液を置きたいけど置き場がない｣という意見が多くありました。そこで玄関扉に1Lの大容量の消毒ボトルがビルトインできるボトル受けラックを採用しました。新聞受けラックも設置もしていますので新聞も1階エントランスに受け取りにいかなくても大丈夫です。新聞配達は事前に登録された特定の新聞配達員のみ入館を許可し、各住戸の玄関ラックに配達する毎朝新聞配達システムを採用しています。</p>
+                    <h3 class="title-h3">毎朝、玄関先まで新聞を配達、毎朝新聞配達システム</h3>
+                    <p class="text">日常生活では、一般のマンションは毎朝朝刊をエントランスホールのメールボックスまで取りに行かなければなりません。忙しい朝の時間帯、わざわざエレベーターで1階まで降りていくのは面倒です。もし、玄関先まで届いていれば、すぐに読むことができますし、起きぬけのパジャマ姿でもさほど人目を気にしなくて済みます。こうした不便を解消するために、IC個人認証システムや24時間監視カメラを活用することによりマンションの防犯性を維持しながら、事前に登録された特定の新聞配達員のみ入館を許可し、各住戸の玄関先新聞受けに配達されます。※北海道新聞店への申込が必要です。</p>
                 </div>
                 <div class="entrance-feature__item">
 
@@ -57,7 +57,7 @@
                     <source type="image/webp" srcset="../assets/webp/comfort/entrance/img4.webp">
                     <img src="../assets/img/comfort/entrance/img4.jpg" alt="玄関ドレッサー">
                 </picture>
-                <p class="mt40 text entrance-dresser__text">玄関をすっきりと美しい空間へ。靴をもっと収納したい…玄関をシンプルに美しく見せたい。 外出時のコートや傘を便利に取り出したい。そんな皆様のご希望を形にしてみました。｢グランファーレ真駒内フォレスト｣では、玄関に必要なものを、すべて玄関クロークに収納できました。｢美しく取り出しやすい｣と言うこだわりを細部にまで施し、従来の靴の収納率が150％アップ、床は豪華でエレガントな大理石調タイル貼りです。ロングブーツも折らずに収納でき、 スーツケースやゴルフバッグも収納できます。またロングコートやジャケットも収納でき帰宅後、 靴を脱ぐ前にしまえるのが魅力です。壁にはキーホルダーや靴べらなど、お出かけの際に簡単に小物を取り出せるマルチフックも設置されています。換気システムも玄関クロークに導入しておりますので、冬場や雨の日でも濡れたコートを収納でき湿気対策や消臭効果も発揮します。快適な収納空間｢玄関クローク｣で玄関を美しく見せよう。</p>
+                <p class="mt40 text entrance-dresser__text">玄関をすっきりと美しい空間へ。靴をもっと収納したい…玄関をシンプルに美しく見せたい。 外出時のコートや傘を便利に取り出したい。そんな皆様のご希望を形にしてみました。｢グランファーレ真駒内フォレスト｣では、玄関に必要なものを、すべて玄関クロークに収納できました。｢美しく取り出しやすい｣と言うこだわりを細部にまで施し、従来の靴の収納率が150％アップ、床は豪華でエレガントな大理石調タイル貼りです。ロングブーツも折らずに収納でき、 スーツケースやゴルフバッグも収納できます。またロングコートやジャケットも収納でき帰宅後、 靴を脱ぐ前にしまえるのが魅力です。壁にはキーホルダーや靴べらなど、お出かけの際に簡単に小物を取り出せるマルチフックも設置されています。換気システムも玄関クロークに導入しておりますので、冬場や雨の日でも濡れたコートを収納でき湿気対策や消臭効果も発揮します。快適な収納空間｢玄関クローク｣で玄関を美しく見せよう。<span style="font-size: 75%;">（一部タイプ）</span></p>
             </div>
             <div class="item-box">
                 <section class="box box_4">
@@ -97,14 +97,14 @@
 
         <div class="tab-section">
             <ul class="item-box">
-                <!-- <li class="box box_3 box-entrance">
+                <li class="box box_3 box-entrance">
                     <picture class="item-box__photo">
                         <source type="image/webp" srcset="../assets/webp/comfort/entrance/sec4_1.webp">
-                        <img src="../assets/img/comfort/entrance/sec4_1.jpg" alt="トール型の大型玄関収納">
+                        <img src="../assets/img/comfort/entrance/sec4_1.jpg" alt="余裕の収納力、トール型の大型玄関収納">
                     </picture>
                     <h3 class="box-entrance__title">余裕の収納力、トール型の大型玄関収納</h3>
-                    <p class="text text_small">ロングブーツからスニーカーまで、大きさも形も様々な家族全員の靴を整然と収納できる大型の玄関収納をご用意しました。容量も充分なので、玄関先はいつもすっきりです。</p>
-                </li> -->
+                    <p class="text text_small">ロングブーツからスニーカーまで、大きさも形も様々な家族全員の靴を整然と収納できる大型の玄関収納をご用意しました。容量も充分なので、玄関先はいつもすっきりです。<span style="font-size: 75%;">（一部タイプ）</span></p>
+                </li>
                 <li class="box box_3 box-entrance">
                     <picture class="item-box__photo">
                         <source type="image/webp" srcset="../assets/webp/comfort/entrance/sec4_3.webp">
@@ -135,7 +135,7 @@
                         <img src="../assets/img/comfort/entrance/sec4_6.jpg" alt="ホールクローゼット">
                     </picture>
                     <h3 class="box-entrance__title">ホールクローゼット</h3>
-                    <p class="text text_small">丈の長いコートやオーバー類の収納はもちろん、身近に置いておいて、すぐに取り出したい日用品や生活用品、比較的大きな物や長尺物でもラクに収まります。<span style="font-size: 75%;">(一部メニュータイプ)</span></p>
+                    <p class="text text_small">丈の長いコートやオーバー類の収納はもちろん、身近に置いておいて、すぐに取り出したい日用品や生活用品、比較的大きな物や長尺物でもラクに収まります。<span style="font-size: 75%;">(一部タイプ)</span></p>
                 </li>
                 <li class="box box_3 box-entrance">
                     <picture class="item-box__photo">
@@ -145,9 +145,19 @@
                     <h3 class="box-entrance__title">レジャー用品の収納に便利な納戸</h3>
                     <p class="text text_small">玄関ホールに収納力抜群の納戸を設けました。ゴルフ用品・スキー用品など大型の物も入れられる大容量スペースなので、置き場に困る心配なくいつでもすっきりとした室内で過ごせます。<span style="font-size: 75%;">（一部メニュータイプ）</span></p>
                 </li>
-                <li class="box box_3 box-entrance">
+                <li class="box box-entrance">
+                    <picture class="item-box__photo">
+                        <source type="image/webp" srcset="../assets/webp/comfort/entrance/sec4_7.webp">
+                        <img src="../assets/img/comfort/entrance/sec4_7.jpg" alt="季節の衣替えが簡単になる大容量の“ママ楽ファミリースルークローゼット”">
+                    </picture>
+                    <div class="box-entrance__content">
+                        <h3 class="box-entrance__title">季節の衣替えが簡単になる大容量の<br class="br_sp"><span class="break-word">“ママ楽ファミリースルークローゼット”</span></h3>
+                        <p class="text text_small">暮らしに便利な収納の新提案をプラスした「ママ楽ファミリースルークローゼット」。両面に、2本のハンガーポールを設置しています。片側には冬物の洋服を掛け、もう片方には夏物の洋服を掛けておけば、季節にその入れ替えだけで楽に衣替えができます。衣類の取り出しは、洋室側だけでなくリビングからもできる2WAY（スルー）方式です。わざわざ洋室まで行かずに済むのでとても便利です。また高さ、広さともに十分に確保したので長いロングコートやオーバー類の収納はもちろん、スーツケースや日用品、掃除道具、消耗品のストックなど整理にとても重宝します。<span style="font-size: 75%;">（一部メニュータイプ）</span></p>
+                        <picture class="box-entrance__photo_mamaraku">
+                            <img src="../assets/svg/comfort/entrance/sec4_7_planview.svg" alt="季節の衣替えが簡単になる大容量の“ママ楽ファミリースルークローゼット”" class="">
+                        </picture>
+                    </div>
                 </li>
-
             </ul>
         </div>
 

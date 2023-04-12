@@ -903,7 +903,7 @@ figcaption {
   width: calc((100% - 12px) / 3);
   height: 30px;
   font-size: 1.2rem;
-  font-weight: 500;
+  font-weight: 400;
   line-height: 1;
   letter-spacing: 0.02em;
   text-align: center;
@@ -937,18 +937,6 @@ figcaption {
 .js-tab-switch_bottom.is-active {
   top: -5px;
 }
-/* .js-tab-switch.is-active::after {
-  display: block;
-  content: "";
-  width: 10px;
-  height: 7px;
-  clip-path: polygon(0 0, 100% 0%, 50% 100%);
-  background-color: var(--brown);
-  position: absolute;
-  left: 50%;
-  bottom: 1px;
-  transform: translate(-50%, 100%);
-} */
 .js-tab-switch.is-active::after {
   display: block;
   content: "";
@@ -957,21 +945,12 @@ figcaption {
   border-left: 7px solid transparent;
   border-right: 7px solid transparent;
   border-top: 10px solid var(--brown);
-  /* width: 10px;
-  height: 7px;
-  clip-path: polygon(0 0, 100% 0%, 50% 100%);
-  background-color: var(--brown); */
   position: absolute;
   left: 50%;
   bottom: 0;
   transform: translate(-50%, 100%);
 }
 
-/* .js-tab-switch_bottom.is-active::after {
-  clip-path: polygon(0 100%, 50% 0, 100% 100%);
-  top: 1px;
-  transform: translate(-50%, -100%);
-} */
 .js-tab-switch_bottom.is-active::after {
   border-top: none;
   border-bottom: 10px solid var(--brown);

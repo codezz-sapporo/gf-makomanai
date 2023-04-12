@@ -29,7 +29,8 @@
       <div class="tab-area tab-area_sub" id="intro">
         <div class="tabBox">
           <ul class="tab-list">
-            <li class="one_tab js-tab-switch is-active" data-tab="tab-2">リビングダイニング</li>
+            <li class="one_tab js-tab-switch is-active" data-tab="tab-1">快適さの特等席</li>
+            <li class="one_tab js-tab-switch" data-tab="tab-2">リビングダイニング</li>
             <li class="one_tab js-tab-switch" data-tab="tab-3">洋室</li>
             <li class="one_tab js-tab-switch" data-tab="tab-4">玄関</li>
             <li class="one_tab js-tab-switch" data-tab="tab-5">キッチン</li>
@@ -41,6 +42,11 @@
         </div>
 
         <div class="contents">
+          <!-- 快適さの特等席 -->
+            <?php
+            include_once('special.php');
+          ?>
+
           <!-- リビングダイニング -->
           <?php
             include_once('living.php');
@@ -79,7 +85,8 @@
         <!-- ▼Tab under▼ -->
         <div class="tabBox">
           <ul class="tab-list tab-list_bottom bottom">
-            <li class="one_tab js-tab-switch js-tab-switch_bottom is-active" data-tab="tab-2">リビングダイニング</li>
+            <li class="one_tab js-tab-switch js-tab-switch_bottom is-active" data-tab="tab-1">快適さの特等席</li>
+            <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-2">リビングダイニング</li>
             <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-3">洋室</li>
             <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-4">玄関</li>
             <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-5">キッチン</li>

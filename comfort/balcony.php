@@ -4,8 +4,8 @@
     <p class="intro__title">お気に入りの演出で、<br class="br_sp">ティータイムも弾むバルコニーライフ。<br>優雅で贅沢な時間を求めて。</p>
     <div class="tab-section tab-section_intro">
         <picture class="tab-section__photo tab-section__photo_large">
-            <source type="image/webp" srcset="../assets/webp/comfort/balcony/mv.webp">
-            <img src="../assets/img/comfort/balcony/mv.jpg" alt="バルコニー" class="mainvisual__img">
+            <source type="image/webp" srcset="../assets/webp/comfort/balcony/mv1.webp">
+            <img src="../assets/img/comfort/balcony/mv1.jpg" alt="バルコニー" class="mainvisual__img">
         </picture>
         <div class="tab-section__text-area tab-section__text-area_small">
             <p class="title-h3 title-h3_balcony">緑あふれる暮らしが叶いました。<br>バルコニーを暮らしの主役に<br>してみませんか？</p>
@@ -63,23 +63,59 @@
             </div>
         </div>
     </div>
+    <div class="tab-section tab-section_column">
+        <div class="txt-box">
+            <h3 class="title-h3 ta_c">専用庭住戸は、<br class="sp">ヨーロッパのオープンカフェを愉しむ<br>｢オーニングシェード｣を導入。</h3>
+            <p class="text comfort__text">｢グランファーレ真駒内グランフォレスト｣の1階専用庭住戸には、広い専用庭を覆う｢オーニングシェード｣を設け、カフェテラス気分をお楽しみいただけます。オーニングシェード(電動開閉式)とは、陽射しを窓辺で遮断する装置のこと。一番ご存知の例がヨーロッパの街角のオープンカフエを覆うオーニングです。ヨーロッパでは古くから親しまれ住宅のテラスや窓に多く利用され、省エネやプライバシー保護にも役立ち、陽射しや室温をコ ントロールしたり家具を退色から守り、住まいのお酒落アイテムとしてとても人気が高まっています。デザインカラーは人気のネイビーブルーでUVカット素材。陽光の中で風や緑の香りを愉しみながらティータイムやブランチを。暮らしの愉しみが、またひとつ広がります。</p>
+        </div>
+        <picture class="">
+            <source media="(min-width: 768px)" type="image/webp" srcset="../assets/webp/comfort/balcony/sec5_2_pc.webp">
+            <source media="(min-width: 768px)" type="image/png" srcset="../assets/img/comfort/balcony/sec5_2_pc.png">
+            <source type="image/webp" srcset="../assets/webp/comfort/balcony/sec5_2_sp.webp">
+            <img src="../assets/img/comfort/balcony/sec5_2_sp.png" alt="専用庭住戸は、ヨーロッパのオープンカフェを愉しむ｢オーニングシェード｣を導入" class="">
+        </picture>
 
+    </div>
 
     <div class="tab-section tab-section_column">
-        <div class="col2">
-            <div class="txt-box">
-                <h4 class="title-h3 ta_c">開放感と眺望を味わう<br class="br_sp">ルーフバルコニー</h4>
-                <p class="text comfort__text">ルーフバルコニー付きのプランをご用意しました。もう一つのリビング・ダイニングと呼びたいほどの広々とした空間が、暮らしにゆとりをもたらしてくれます。ガーデニングテーブルをセットすれば、我が家がオープンカフェに。ティーパーティを開かれるのも素敵です。またルーフバルコニーのもう一つのメリットは、眺望と開放感を存分に楽しめる点。壮大なパノラマを独り占めする気分は爽快です。(A1タイプ)</p>
-            </div>
-            <div class="img-box">
-                <picture class="">
-                    <source media="(min-width: 768px)" type="image/webp" srcset="../assets/webp/comfort/balcony/sec6_4_pc.webp">
-                    <source media="(min-width: 768px)" type="image/png" srcset="../assets/img/comfort/balcony/sec6_4_pc.png">
-                    <source type="image/webp" srcset="../assets/webp/comfort/balcony/sec6_4_sp.webp">
-                    <img src="../assets/img/comfort/balcony/sec6_4_sp.png" alt="ルーフバルコニー" class="">
-                </picture>
-            </div>
+        <div class="txt-box">
+            <h3 class="title-h3 ta_c">開放感と眺望を味わう<br class="br_sp">ルーフバルコニー</h3>
+            <p class="text comfort__text">ルーフバルコニー付きのプランをご用意しました。もう一つのリビング・ダイニングと呼びたいほどの広々とした空間が、暮らしにゆとりをもたらしてくれます。ガーデニングテーブルをセットすれば、我が家がオープンカフェに。ティーパーティを開かれるのも素敵です。またルーフバルコニーのもう一つのメリットは、眺望と開放感を存分に楽しめる点。壮大なパノラマを独り占めする気分は爽快です。(A1タイプ)</p>
         </div>
+        <picture class="">
+            <source media="(min-width: 768px)" type="image/webp" srcset="../assets/webp/comfort/balcony/sec6_4_pc.webp">
+            <source media="(min-width: 768px)" type="image/png" srcset="../assets/img/comfort/balcony/sec6_4_pc.png">
+            <source type="image/webp" srcset="../assets/webp/comfort/balcony/sec6_4_sp.webp">
+            <img src="../assets/img/comfort/balcony/sec6_4_sp.png" alt="ルーフバルコニー" class="">
+        </picture>
+    </div>
+    <div class="balcony-invisual">
+        <p class="balcony-invisual__tite">Invisual style</p>
+        <div class="tab-section tab-section_column">
+            <div class="txt-box">
+                <h4 class="title-h3 ta_c">理想のお庭に。シンボルツリーを決めることから始まる、<br>私のプライベートガーデン。</h4>
+                <p class="text comfort__text">1階住戸には多目的に使える専用庭付き住戸をご用意しています。天気の良い日はハイサッシュを開け放して光と風を取り込むことができます。しかも専用庭と一体化して、より大きなスペースが活用できるテラスを設計。1階ならではの土の香りを感じながら、念願のガーデニングなどを思う存分に楽しめます。さらに一部タイプには専用庭から出入りできる専用駐車場をご用意。車はそのまま自宅前まで乗り入れ、大きな荷物も直接お部屋に持ち込めます。</p>
+            </div>
+            <picture class="">
+                <source media="(min-width: 768px)" type="image/webp" srcset="../assets/webp/comfort/balcony/sec7_2_pc.webp">
+                <source media="(min-width: 768px)" type="image/png" srcset="../assets/img/comfort/balcony/sec7_2_pc.png">
+                <source type="image/webp" srcset="../assets/webp/comfort/balcony/sec7_2_sp.webp">
+                <img src="../assets/img/comfort/balcony/sec7_2_sp.png" alt="ルーフバルコニー" class="">
+            </picture>
+        </div>
+        <div class="tab-section tab-section_column">
+            <div class="txt-box">
+                <h4 class="title-h3 ta_c">あなたの美意識でお庭の個性をカタチにしていく。<br>それが｢インディビジュアルスタイル｣。</h4>
+                <p class="text comfort__text">｢インディビジュアルスタイル｣は、3つの専門庭セレクトメニューから成ります。楽しく選ぶことで、個性をカタチにできるのが特徴です。まずは自分のライフスタイルに合った専用庭をお選びください。庭づくりの第一歩が、植栽選びです。その木をあなたのお好みで決められます。一本の木が与えてくれる癒しと潤いを、四季を通して楽しんでください。（オプション）</p>
+            </div>
+            <picture class="">
+                <source media="(min-width: 768px)" type="image/webp" srcset="../assets/webp/comfort/balcony/sec7_3_pc.webp">
+                <source media="(min-width: 768px)" type="image/png" srcset="../assets/img/comfort/balcony/sec7_3_pc.png">
+                <source type="image/webp" srcset="../assets/webp/comfort/balcony/sec7_3_sp.webp">
+                <img src="../assets/img/comfort/balcony/sec7_3_sp.png" alt="ルーフバルコニー" class="">
+            </picture>
+        </div>
+
     </div>
 
 </section>

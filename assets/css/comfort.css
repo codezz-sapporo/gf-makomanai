@@ -575,3 +575,117 @@
     font-size: 1.6rem;
   }
 }
+
+/* 真駒内から追加 */
+/* 快適さの特等席 */
+.intro__title_small {
+  font-size: 90%;
+  line-height: 1;
+}
+.penthouse__photo:first-of-type {
+  margin-bottom: 10px;
+}
+.comfort__photo-wrapper {
+  margin-bottom: 30px;
+}
+.comfort__section {
+  margin-bottom: 40px;
+}
+@media (min-width: 768px) {
+  .tab-area_sub .tab-section_special {
+    margin-bottom: 80px;
+  }
+  .comfort__section {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 60px;
+  }
+  .comfort__section_rev {
+    flex-direction: row-reverse;
+  }
+  .tab-section__photo_special {
+    width: calc((440 / 1004) * 100%);
+    margin-bottom: 0;
+  }
+  .comfort__text-area {
+    width: calc((532 / 1004) * 100%);
+  }
+  .penthouse__inner {
+    position: relative;
+  }
+  .penthouse__text-area {
+    height: max-content;
+  }
+  .comfort__section_penthouse02 {
+    width: 52%;
+    flex-direction: column;
+    position: absolute;
+    top: 130px;
+    right: 0;
+    margin-bottom: 0;
+  }
+  .comfort__photo-wrapper {
+    display: flex;
+    width: 70%;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  .penthouse__photo:first-of-type {
+    margin: 0 10px 0 0;
+  }
+
+  .title-h3_penthouse {
+    width: 100%;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+}
+@media (min-width: 768px) and (max-width: 800px) {
+  .penthouse {
+    margin-bottom: 100px !important;
+  }
+}
+/* 玄関 */
+@media (min-width: 768px) {
+  .box-entrance:last-of-type {
+    width: 100%;
+    display: flex;
+  }
+  .box-entrance:last-of-type .item-box__photo {
+    width: calc((332.6 / 1008) * 100%);
+    margin-right: 4%;
+  }
+  .box-entrance:last-of-type .box-entrance__content {
+    flex: 1;
+  }
+}
+/* バルコニー */
+.balcony-invisual__tite {
+  font-size: 2.2rem;
+  font-family: "Cinzel", serif;
+  line-height: 1.2;
+  font-weight: 400;
+  color: #d2b071;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.balcony-invisual__tite::after {
+  display: block;
+  content: "";
+  width: 50px;
+  height: 1px;
+  background-color: #d2b071;
+  margin: 15px auto 0;
+}
+.txt-box {
+  margin-bottom: 30px;
+}
+.balcony-invisual {
+  max-width: 816px;
+  margin: 0 auto;
+}
+@media (min-width: 768px) {
+  .balcony-invisual__tite {
+    font-size: 3rem;
+  }
+}

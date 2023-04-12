@@ -22,7 +22,7 @@
 .header__logo {
   display: block;
   width: max-content;
-  margin-bottom: 2px;
+  margin: 0 auto 2px;
 }
 .header__logo-svg {
   height: 20px;

@@ -8,7 +8,7 @@
 			<picture class="footer__property-logo">
 				<img src="<?php print URL; ?>/assets/svg/grandfare-logo.svg" width="" height="" alt="日本グランデ株式会社">
 			</picture>
-			<p class="footer__property-name">GRANDFARE<br>KOSAI GRAND CIAR</p>
+			<p class="footer__property-name">GRANDFARE<br>MAKOMANAI GRAND FOREST</p>
 		</div>
 		<div class="f-inner">
 			<div class="f-menu flex">

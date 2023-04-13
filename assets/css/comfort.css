@@ -568,9 +568,6 @@
     top: 60px;
     transform: unset;
   }
-  .contact__text-number::after {
-    bottom: 0;
-  }
   .item-box__box-title {
     font-size: 1.6rem;
   }

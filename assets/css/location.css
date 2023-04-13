@@ -96,7 +96,7 @@
 }
 .access__text-area {
   max-width: 816px;
-  border-top: 1px solid var(--brown);
+  border-top: 1px solid #9f934b;
   padding-top: 20px;
   margin: 0 auto;
 }
@@ -170,7 +170,7 @@
 }
 .shop-section__title {
   font-size: 3.2rem;
-  color: var(--brown);
+  color: var(--title-brown);
   margin-bottom: 20px;
 }
 .shop-section__title_small {
@@ -524,7 +524,7 @@
 .area-section__title {
   font-size: 5rem;
   text-align: end;
-  color: var(--brown);
+  color: var(--title-brown);
   margin-bottom: 15px;
 }
 .area-section__title_small {

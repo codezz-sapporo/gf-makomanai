@@ -2,8 +2,12 @@
 
 :root {
   --white: #fff;
-  --text-black: #333333;
-  --brown: #7e7123;
+  --text-black: #31302a;
+  --title-brown: #876f00;
+  --btn-brown: #876f00;
+  --l-brown: #9f934b;
+  --d-brown: #574904;
+
   --green: #00a7ae;
   --base-beige: #efeae5;
   --light-beige: #fbf9f7;
@@ -37,7 +41,9 @@ body {
   scrollbar-width: none;
   -webkit-text-size-adjust: 100%;
   overflow-x: hidden;
-  background-color: var(--base-beige);
+  background-image: url(../img/base_bg_sp.jpg);
+  background-repeat: repeat-y;
+  background-size: contain;
 }
 body::-webkit-scrollbar {
   /* Chrome, Safari 対応 */
@@ -120,6 +126,9 @@ label {
 }
 
 @media (min-width: 768px) {
+  body {
+    background-image: url(../img/base_bg_pc.jpg);
+  }
   .mainvisual-title {
     font-size: calc((25 / 1440) * 100vw);
     bottom: calc((130 / 1440) * 100vw);
@@ -249,7 +258,7 @@ label {
   font-weight: 400;
   line-height: 1.2;
   text-align: center;
-  color: var(--brown);
+  color: var(--title-brown);
   margin: 0 auto 30px;
 }
 .title-h2::before {
@@ -351,7 +360,7 @@ label {
   }
 
   .title-h3 {
-    font-size: 2rem;
+    font-size: 1.8rem;
     margin-bottom: 30px;
   }
   .section__lead {
@@ -369,36 +378,39 @@ label {
 }
 /* btn */
 .btn {
-  font-size: 1.8rem;
-  font-weight: 500;
+  display: block;
+  width: 200px;
+  text-align: center;
+  font-size: 1.6rem;
   font-family: "Cinzel", serif;
-  color: #93743c;
+  color: #fff;
+  background: var(--btn-brown);
+  border: 1px solid var(--btn-brown);
+  padding: 12px 0;
   position: relative;
+  z-index: 1;
+  transition: 0.3s;
 }
 .btn::before {
-  display: block;
   content: "";
-  width: 130%;
-  height: 8px;
-  border-bottom: 1px solid #93743c;
-  border-right: 1px solid #93743c;
-  transform: skew(45deg);
+  width: 100%;
+  height: 100%;
   position: absolute;
-  bottom: -5px;
-  margin: 0 auto;
-  transition: all 0.3s ease-out;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  background: #fff;
+  transform-origin: 100% 50%;
+  transform: scaleX(0);
+  transition: transform ease 0.3s;
 }
-
-@media (min-width: 768px) {
-  .btn {
-    font-size: 2rem;
-  }
-  .btn:hover::before {
-    width: 145%;
-    transition: all 0.3s ease-out;
-  }
+.btn:hover {
+  color: var(--btn-brown);
 }
-
+.btn:hover::before {
+  transform-origin: 0% 50%;
+  transform: scaleX(1);
+}
 .section__inner {
   width: 90%;
   max-width: 1004px;
@@ -908,7 +920,7 @@ figcaption {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-  background-color: #574904;
+  background-color: var(--d-brown);
   justify-content: center;
   align-items: center;
   cursor: pointer;
@@ -916,7 +928,7 @@ figcaption {
   margin: 0 1.5px 3px;
 }
 .js-tab-switch.is-active {
-  background-color: var(--brown);
+  background-color: var(--btn-brown);
   color: #fff;
   position: relative;
   pointer-events: none;
@@ -944,7 +956,7 @@ figcaption {
   height: 0;
   border-left: 7px solid transparent;
   border-right: 7px solid transparent;
-  border-top: 10px solid var(--brown);
+  border-top: 10px solid var(--btn-brown);
   position: absolute;
   left: 50%;
   bottom: 0;
@@ -953,7 +965,7 @@ figcaption {
 
 .js-tab-switch_bottom.is-active::after {
   border-top: none;
-  border-bottom: 10px solid var(--brown);
+  border-bottom: 10px solid var(--btn-brown);
   top: 0;
   transform: translate(-50%, -100%);
 }
@@ -987,7 +999,7 @@ figcaption {
     transition: all 0.2s ease-out;
   }
   .one_tab:hover {
-    background-color: var(--brown);
+    background-color: var(--btn-brown);
     transition: all 0.2s ease-out;
   }
   .tab_main {
@@ -1209,7 +1221,7 @@ figcaption {
   color: var(--white);
   justify-content: center;
   align-items: center;
-  background-color: var(--brown);
+  background-color: var(--title-brown);
   position: relative;
   margin: 0 auto 50px 0;
 }
@@ -1218,7 +1230,7 @@ figcaption {
   content: "";
   width: 100%;
   height: 100%;
-  border: 1px solid var(--brown);
+  border: 1px solid var(--title-brown);
   position: absolute;
   top: 5px;
   left: 5px;

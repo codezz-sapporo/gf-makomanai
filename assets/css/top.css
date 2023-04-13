@@ -10,7 +10,6 @@
     #3e70bc 42.6%,
     #68a0de 72.71%
   );
-  margin-bottom: 35px;
 }
 .top-mainvisual__title {
   display: flex;
@@ -47,7 +46,6 @@
     height: calc(var(--vh, 1vh) * 100);
     overflow-y: hidden;
     background: linear-gradient(253.6deg, #385ea3 56.56%, #467dc4 84.45%);
-    margin-bottom: 75px;
   }
 }
 /* トップインフォ */
@@ -55,7 +53,7 @@
   width: calc((340 / 375) * 100%);
   max-width: 1120px;
   text-align: center;
-  color: var(--brown);
+  color: #7e7123;
   background-color: #fff;
   border: 1px solid #b29c51;
   position: relative;
@@ -214,27 +212,20 @@
 }
 /* セクション */
 .top-section {
+  padding: 0 5%;
   margin-bottom: 80px;
 }
 .top-section:last-of-type {
   margin-bottom: 100px;
 }
-
-.top-section__text-area {
-  display: block;
-  width: 315px;
-  text-align: center;
-  color: var(--text-black);
-  background: rgba(255, 255, 255, 0.85);
-  filter: drop-shadow(0 15px 7px rgba(51, 51, 51, 0.2));
-  transform: translateZ(0);
-  padding: 30px 0;
-  margin: -55px auto 0;
+.top-section_location {
+  margin-bottom: 0;
 }
 .top-section__title {
-  width: fit-content;
+  width: max-content;
   font-size: 1.4rem;
   text-align: center;
+  color: var(--title-brown);
   position: relative;
   margin: 0 auto 20px;
 }
@@ -267,14 +258,14 @@
 }
 .title-text::before,
 .title-text::after {
-  background-color: var(--text-black);
+  background-color: var(--title-brown);
 }
 
 .top-section__lead {
   font-size: 1.8rem;
   line-height: 1.65;
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 .top-section__link {
   display: flex;
@@ -291,58 +282,22 @@
 }
 @media (min-width: 768px) {
   .top-section {
-    display: flex;
-    width: 100%;
-    justify-content: space-between;
-    align-items: center;
-    flex-direction: row;
-    position: relative;
     margin-bottom: 120px;
   }
+  .top-section_location {
+    margin-bottom: 0;
+  }
+
   .top-section:last-of-type {
     margin-bottom: 150px;
   }
 
-  .top-main > .top-section:nth-of-type(even) {
-    flex-direction: row-reverse;
-  }
-
-  .top-section__photo {
-    min-width: calc((1280 / 1440) * 100%);
-    width: calc((1280 / 1440) * 100%);
-  }
-  .top-section__text-area {
-    display: flex;
-    min-width: calc((390 / 1440) * 100%);
-    width: calc((390 / 1440) * 100%);
-    height: calc((390 / 1440) * 100vw);
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    right: 0;
-    filter: drop-shadow(-25px 25px 10px rgba(51, 51, 51, 0.3));
-    margin: 0;
-  }
-  .top-main > .top-section:nth-of-type(even) > .top-section__text-area {
-    right: unset;
-    left: 0;
-    filter: drop-shadow(25px 25px 10px rgba(51, 51, 51, 0.3));
-  }
-  .top-section__text-area:hover > .top-section__link {
-    background-color: #574904;
-    transition: all 0.5s ease-out;
-  }
   .top-section__title {
-    width: fit-content;
-    font-size: calc((18 / 1440) * 100vw);
-    position: relative;
-    margin-bottom: calc((30 / 1440) * 100vw);
+    font-size: 1.6rem;
+    margin-bottom: 40px;
   }
   .top-section__title::before {
-    display: block;
-    width: max-content;
-    font-size: calc((35 / 1440) * 100vw);
+    font-size: 5rem;
   }
   .top-section__lead {
     font-size: calc((25 / 1440) * 100vw);
@@ -360,26 +315,9 @@
 }
 
 @media (min-width: 1440px) {
-  .top-section__title {
-    font-size: 1.6rem;
-    margin-bottom: 40px;
-  }
-  .top-section__title::before {
-    font-size: 4rem;
-  }
   .top-section__lead {
     font-size: 2rem;
     margin-bottom: 12%;
-  }
-}
-.antivirus {
-  margin-bottom: 120px;
-}
-@media (min-width: 768px) {
-  .antivirus {
-    width: 90%;
-    max-width: 876px;
-    margin: 0 auto 150px;
   }
 }
 
@@ -677,4 +615,459 @@ html.hidden {
 .loaded {
   opacity: 0;
   visibility: hidden;
+}
+
+/* 真駒内追加 */
+
+/* フィーチャー */
+.feature {
+  background: var(--bg_grad_blue);
+  padding: 20px 5%;
+  margin-bottom: 65px;
+}
+
+.feature__list {
+  display: flex;
+  flex-direction: column;
+}
+.feature__item {
+  width: 100%;
+  font-family: "Noto Serif JP", serif;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 2;
+  text-align: center;
+  color: #fff;
+  border-bottom: #fff solid 1px;
+  text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.3);
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+}
+.feature__item:last-of-type {
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.feature__item_normal {
+  font-size: 2rem;
+  line-height: 1.4;
+  font-weight: 700;
+  color: #d1b75f;
+}
+.feature__item_number {
+  font-size: 3rem;
+  line-height: 0.95;
+  font-family: "Playfair Display", "Noto Serif JP", serif;
+  font-style: italic;
+  letter-spacing: 0.1em;
+  font-weight: 700;
+  color: #d1b75f;
+}
+@media (min-width: 768px) {
+  .feature {
+    padding: 20px 65px 30px;
+    margin-bottom: 150px;
+  }
+  .feature__logo-area {
+    margin: 0 auto 15px;
+  }
+  .feature__list {
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .feature__item {
+    width: 49%;
+    font-size: 1.6rem;
+    padding-top: 15px;
+    margin-bottom: 0;
+  }
+  .feature__item:first-of-type {
+    font-size: 1.4rem;
+  }
+  .feature__item:last-of-type {
+    width: 100%;
+  }
+
+  .feature__item_normal {
+    font-size: 2.2rem;
+    line-height: 1.4;
+  }
+  .ls-small {
+    letter-spacing: -0.09em;
+  }
+  .feature__item_number {
+    font-size: 3.5rem;
+    line-height: 0.95;
+    letter-spacing: 0.1em;
+  }
+}
+
+@media (min-width: 1000px) {
+  .feature {
+    padding: 20px 0;
+    position: relative;
+  }
+  .feature__logo-area {
+    display: none;
+  }
+  .feature__list {
+    max-width: 1730px;
+    justify-content: center;
+    margin: 0 auto;
+    position: unset;
+  }
+  .feature::before {
+    display: block;
+    content: "";
+    width: 95%;
+    height: 1px;
+    background-color: #fff;
+    opacity: 0.4;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .feature__item {
+    width: max-content;
+    font-size: calc((16 / 1440) * 100vw);
+    text-align: center;
+    color: #fff;
+    border-bottom: none;
+    padding: 0;
+    margin-bottom: 30px;
+  }
+  .feature__item:nth-of-type(2) {
+    margin: 0 4vw 30px;
+  }
+  .feature__item:last-of-type {
+    width: max-content;
+    margin-left: 2.5vw;
+  }
+  .feature__item:nth-last-of-type(2) {
+    width: max-content;
+    border-bottom: none;
+    margin: 0 2.5vw 0 0;
+  }
+
+  .feature__item_normal {
+    font-size: calc((22 / 1440) * 100vw);
+  }
+  .feature__item_number {
+    font-size: calc((35 / 1440) * 100vw);
+  }
+  .br_feature-01 {
+    display: none;
+  }
+}
+@media (min-width: 1440px) {
+  .feature__item {
+    font-size: 1.6rem;
+    margin-bottom: 15px;
+  }
+  .feature__item_normal {
+    font-size: 2.2rem;
+    line-height: 1.4;
+  }
+  .feature__item_number {
+    font-size: 3.5rem;
+    line-height: 0.95;
+    letter-spacing: 0.1em;
+  }
+}
+@media (min-width: 1840px) {
+  .feature {
+    padding: 15px 0;
+  }
+  .feature::before {
+    display: none;
+  }
+
+  .feature__list {
+    flex-wrap: nowrap;
+    width: 90%;
+    max-width: unset;
+    justify-content: space-between;
+  }
+  .feature__item {
+    border-bottom: none;
+    padding: 0;
+    margin: 0;
+  }
+  .feature__item:nth-of-type(2),
+  .feature__item:nth-last-of-type(2),
+  .feature__item:last-of-type {
+    margin: 0;
+  }
+  .br_feature-01 {
+    display: block;
+  }
+}
+.intro__title_small {
+  font-size: 1.6rem;
+}
+
+.intro {
+  padding: 0 5%;
+  margin-bottom: 70px;
+}
+@media (min-width: 768px) {
+  .intro {
+    max-width: calc(816px + 10%);
+    padding: 0 5%;
+    margin: 0 auto 100px;
+  }
+}
+.top-section_bg {
+  background: rgba(255, 255, 255, 0.6);
+  padding: 40px 5%;
+}
+.top-section__photo {
+  display: block;
+  margin-bottom: 40px;
+}
+.top-section__text {
+  margin-bottom: 30px;
+}
+.top-section__btn {
+  width: max-content;
+  margin: 0 auto;
+}
+@media (min-width: 768px) {
+  .top-section_bg {
+    padding: 80px 5%;
+  }
+
+  .top-section__inner {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1004px;
+    margin: 0 auto;
+  }
+  .top-section__inner_rev {
+    flex-direction: row-reverse;
+  }
+  .top-section__photo {
+    width: calc((563 / 1004) * 100%);
+    margin: 0;
+  }
+  .top-section__text-area {
+    width: calc((400 / 1004) * 100%);
+  }
+  .top-section__btn {
+    width: max-content;
+    margin: 0 auto 0 0;
+  }
+  .title-h3_rev {
+    text-align: end;
+  }
+  .top-section__text_rev {
+    text-align: end;
+  }
+  .top-section__btn_rev {
+    margin: 0 0 0 auto;
+  }
+}
+
+/* エクステリア */
+.exterior {
+  background-image: url(../img/yellow_bg_sp.jpg);
+  padding: 75px 0 90px;
+  background-size: auto;
+}
+.exterior__photo {
+  display: block;
+  margin-bottom: 45px;
+}
+.exterior__inner-wrapper {
+  margin-bottom: 35px;
+}
+.european-grace {
+  margin-bottom: 55px;
+}
+.exterior__text {
+  margin-bottom: 25px;
+}
+.european-grace__btn {
+  width: fit-content;
+  margin: 0 auto;
+}
+.exterior__inner-photo {
+  display: block;
+  margin-bottom: 25px;
+}
+.beauty-knowledg {
+  width: fit-content;
+  margin: 0 auto;
+}
+.beauty-knowledg__photo {
+  display: block;
+  width: calc((200 / 335) * 100%);
+  margin: 0 auto 15px;
+}
+.beauty-knowledg__text {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.7;
+  text-align: center;
+  color: var(--title-brown);
+}
+.exterior__section {
+  margin-bottom: 50px;
+}
+@media (min-width: 768px) {
+  .section__lead {
+    font-size: 2.2rem;
+    margin-bottom: 30px;
+  }
+  .exterior {
+    background-image: url(../img/yellow_bg_pc.jpg);
+    padding: 95px 0 120px;
+  }
+  .exterior__photo {
+    max-width: 1004px;
+    margin: 0 auto 65px;
+  }
+  .exterior__inner-wrapper {
+    display: flex;
+    margin-bottom: 60px;
+  }
+  .exterior__inner-wrapper_reverse {
+    flex-direction: row-reverse;
+  }
+  .exterior__text-area {
+    flex: 1;
+  }
+  .exterior__inner-photo {
+    width: calc((564 / 1004) * 100%);
+    margin: 0 5% 0 0;
+  }
+
+  .exterior__inner-photo_05 {
+    width: calc((534 / 1004) * 100%);
+    margin: 0 0 0 5%;
+  }
+  .european-grace {
+    position: relative;
+    margin-bottom: 55px;
+  }
+  .exterior__text {
+    margin-bottom: 25px;
+  }
+  .beauty-knowledg {
+    display: flex;
+    align-items: center;
+    width: fit-content;
+  }
+  .beauty-knowledg__photo {
+    display: block;
+    width: 200px;
+    margin: 0 15px 0 0;
+  }
+  .beauty-knowledg__text {
+    font-size: 2rem;
+  }
+  .exterior__section {
+    margin-bottom: 50px;
+  }
+
+  /* グリッド */
+  .exterior__inner-wrapper_03 {
+    display: grid;
+    grid-template:
+      "... ... photo" auto
+      "text ... photo"
+      "... ... photo" 20px
+      "btn ... photo"
+      "... ... photo" auto
+      / 50% 5% 1fr;
+  }
+  .exterior__text-area_03 {
+    grid-area: text;
+    width: 100%;
+    margin: 0;
+  }
+  .exterior__inner-photo_03 {
+    grid-area: photo;
+    width: 100%;
+    margin: 0;
+  }
+  .european-grace__btn {
+    grid-area: btn;
+    margin: 0 0 0 auto;
+  }
+}
+
+/* 共用施設 */
+.facilities {
+  margin-bottom: 70px;
+}
+.facilities__list {
+  width: 95%;
+  max-width: 1025px;
+  margin: 0 auto 50px;
+}
+.facilities__item {
+  margin-bottom: 20px;
+}
+.facilities__item:last-of-type {
+  margin-bottom: 0;
+}
+.facilities-card {
+  display: flex;
+  flex-direction: column-reverse;
+  box-shadow: 0px 4px 30px rgba(87, 73, 4, 0.15);
+}
+.facilities-card__title {
+  font-size: 1.6rem;
+  line-height: 1.5;
+  background-color: #fff;
+  padding: 8px 5%;
+}
+.facilities-card__title-small {
+  font-size: 1.4rem;
+}
+.facilities-card__title_centar {
+  text-align: center;
+}
+.facilities__btn {
+  width: fit-content;
+  margin: 0 auto;
+}
+@media (min-width: 768px) {
+  .facilities {
+    margin-bottom: 100px;
+  }
+  .facilities__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto 60px;
+  }
+  .facilities__item {
+    width: 320px;
+    min-width: 320px;
+    margin: 10px;
+  }
+  .facilities__item:last-of-type {
+    margin: 10px;
+  }
+
+  .facilities-card {
+    height: 100%;
+    justify-content: end;
+  }
+  .facilities-card__title {
+    height: 100%;
+    padding: 8px 5%;
+  }
+}
+@media (min-width: 1110px) {
+  .facilities-card__title_single {
+    line-height: 3;
+  }
 }

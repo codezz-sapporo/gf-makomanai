@@ -8,18 +8,24 @@
   --l-brown: #9f934b;
   --d-brown: #574904;
 
-  --green: #00a7ae;
+  --green: #003616;
+  --feature-green: #00290a;
+
   --base-beige: #efeae5;
   --light-beige: #fbf9f7;
 
-  --bg_grad_blue: linear-gradient(180deg, #0078ea 0%, #004c94 100%);
-  --bg_grad_green: linear-gradient(180deg, #fefff5 0%, #faffe5 100%);
   --bg_grad_gold: linear-gradient(
     130.71deg,
     #d2b961 20.71%,
     #e9d9b6 60.35%,
     #e8d8b5 61.15%,
     #b29c51 100%
+  );
+  --btn_grad_green: linear-gradient(
+    270deg,
+    #002c0c 0.83%,
+    #00592b 49.21%,
+    #002c0c 100%
   );
 }
 html {
@@ -381,10 +387,10 @@ label {
   display: block;
   width: 200px;
   text-align: center;
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   font-family: "Cinzel", serif;
-  color: #fff;
-  background: var(--btn-brown);
+  color: var(--btn-brown);
+  background: #fff;
   border: 1px solid var(--btn-brown);
   padding: 12px 0;
   position: relative;
@@ -399,13 +405,13 @@ label {
   top: 0;
   left: 0;
   z-index: -1;
-  background: #fff;
+  background: var(--btn-brown);
   transform-origin: 100% 50%;
   transform: scaleX(0);
   transition: transform ease 0.3s;
 }
 .btn:hover {
-  color: var(--btn-brown);
+  color: #fff;
 }
 .btn:hover::before {
   transform-origin: 0% 50%;
@@ -543,23 +549,23 @@ label {
 
 /* コンタクトエリア */
 .contact {
-  background: linear-gradient(180deg, #fff8d1 0%, #b3a65b 100%);
+  background: var(--green);
   border-top: 2px solid var(--white);
   padding: 55px 0 75px;
 }
 .contact__text-area {
   text-align: center;
+  color: #fff;
   margin-bottom: 35px;
 }
 .contact__text-number {
-  line-height: 1;
   margin-bottom: 14px;
 }
 .contact__text-number::after {
   display: block;
   content: "";
   width: 80%;
-  height: 1px;
+  height: 0.5px;
   background-color: var(--white);
   margin: 0 auto;
 }
@@ -572,7 +578,7 @@ label {
   display: block;
   font-size: 4.5rem;
   font-weight: 500;
-  color: var(--text-black);
+  color: #fff;
   margin: 15px 0 10px;
 }
 .contact__time {
@@ -590,7 +596,7 @@ label {
 .contact__item {
   display: flex;
   width: calc((100% - 10px) / 2);
-  border: 1px solid var(--white);
+  /* border: 1px solid var(--white); */
 }
 .contact__item:first-of-type {
   width: 100%;
@@ -606,6 +612,17 @@ label {
   align-items: center;
   padding: 12px 0;
   transition: all 0.3s ease-out;
+  position: relative;
+}
+.contact__item-link_room {
+  background-color: #6a3906;
+}
+.contact__item-link_user {
+  background-color: #8f7846;
+}
+.contact__item-link_document {
+  color: #003616;
+  background-color: #eee8b0;
 }
 .contact__item-link::after {
   display: block;
@@ -615,7 +632,7 @@ label {
   margin-left: 10px;
 }
 .contact__item-link_document::after {
-  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjMiIGhlaWdodD0iMTciIHZpZXdCb3g9IjAgMCAyMyAxNyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIxLjQ2MTUgNS44MDc2OVYxNS41SDFWMS41SDIxLjQ2MTVMMTEuMjMwOCA5LjU3NjkyTDEgMS41IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo=);
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMTgiIHZpZXdCb3g9IjAgMCAyNSAxOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIzLjk0MjIgNS45MjMwOFYxN0gwLjU1NzYxN1YxSDIzLjk0MjJMMTIuMjQ5OSAxMC4yMzA4TDAuNTU3NjE3IDEiIHN0cm9rZT0iIzAwMzYxNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo=);
   width: 22px;
   height: 15px;
 }
@@ -629,6 +646,20 @@ label {
   width: 25px;
   height: 20px;
   margin: 0 0 3px 5px;
+}
+.contact__item-link::before {
+  display: block;
+  content: "";
+  width: calc(100% - 12px);
+  height: calc(100% - 12px);
+  border: 1px solid #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.contact__item-link_document::before {
+  border-color: #003616;
 }
 @media (min-width: 768px) {
   .contact {

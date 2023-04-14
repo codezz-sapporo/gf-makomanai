@@ -105,7 +105,7 @@
 
 /* トップvcボタン */
 .top-btn {
-  width: 300px;
+  width: 90%;
   max-width: 1140px;
   margin: 0 auto 70px;
 }
@@ -119,7 +119,7 @@
   height: 100%;
   justify-content: center;
   align-items: center;
-  font-size: 1.8rem;
+  font-size: 1.7rem;
   font-weight: 500;
 }
 .top-btn__link:hover {
@@ -129,13 +129,13 @@
 .top-btn__link_property,
 .top-btn__link_document {
   color: var(--green);
-  background-color: var(--white);
+  background: var(--white);
   border: 1px solid var(--green);
 }
 .top-btn__link_model,
 .top-btn__link_reservation {
   color: #fff;
-  background-color: var(--green);
+  background: var(--btn_grad_green);
   border: 1px solid var(--white);
 }
 .top-btn__link::after {
@@ -146,12 +146,12 @@
   margin-left: 5px;
 }
 .top-btn__link_property::after {
-  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTgiIGhlaWdodD0iMjUiIHZpZXdCb3g9IjAgMCAxOCAyNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE0LjkyNjggNi44ODMzSDIuODI0NzFWNy45MDQ1OEgxNC45MjY4VjYuODgzM1oiIGZpbGw9IiMwMEE3QUUiLz4KPHBhdGggZD0iTTE0LjkyNjggMy41MTI3SDIuODI0NzFWNC41MzM5N0gxNC45MjY4VjMuNTEyN1oiIGZpbGw9IiMwMEE3QUUiLz4KPHBhdGggZD0iTTE0LjkyNjggMTMuNjc0M0gyLjgyNDcxVjE0LjY5NTZIMTQuOTI2OFYxMy42NzQzWiIgZmlsbD0iIzAwQTdBRSIvPgo8cGF0aCBkPSJNMTQuOTI2OCAxMC4zMDM3SDIuODI0NzFWMTEuMzI1SDE0LjkyNjhWMTAuMzAzN1oiIGZpbGw9IiMwMEE3QUUiLz4KPHBhdGggZD0iTTE0Ljg3NTEgMjAuNDY1OEg4Ljg0OTYxVjIxLjQ4NzFIMTQuODc1MVYyMC40NjU4WiIgZmlsbD0iIzAwQTdBRSIvPgo8cGF0aCBkPSJNMTQuODc1MSAxNy4wOTU3SDguODQ5NjFWMTguMTE3SDE0Ljg3NTFWMTcuMDk1N1oiIGZpbGw9IiMwMEE3QUUiLz4KPHBhdGggZD0iTTAuNDc1MDQ2IDE5LjEzODNMNS41ODE0MyAyNC4yNDQ3TDUuODM2NzUgMjQuNUgxNy41MzA0VjAuNUgwLjIxOTcyN1YxOC45MzRMMC40NzUwNDYgMTkuMTM4M1pNNS40NzkzIDIyLjc2MzhMMS45NTU5IDE5LjI0MDRINS40NzkzVjIyLjc2MzhaTTE2LjQ1OCAxLjUyMTI4VjIzLjQ3ODdINi41MDA1OFYxOC4yMTkxSDEuMjQxVjEuNTIxMjhIMTYuNDU4WiIgZmlsbD0iIzAwQTdBRSIvPgo8L3N2Zz4K);
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTgiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAxOCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE0LjgwMTMgNi4zODMxOEgyLjY5OTIyVjcuNDA0NDZIMTQuODAxM1Y2LjM4MzE4WiIgZmlsbD0iIzAwMzYxNiIvPgo8cGF0aCBkPSJNMTQuODAxMyAzLjAxMjk0SDIuNjk5MjJWNC4wMzQyMkgxNC44MDEzVjMuMDEyOTRaIiBmaWxsPSIjMDAzNjE2Ii8+CjxwYXRoIGQ9Ik0xNC44MDEzIDEzLjE3NDJIMi42OTkyMlYxNC4xOTU1SDE0LjgwMTNWMTMuMTc0MloiIGZpbGw9IiMwMDM2MTYiLz4KPHBhdGggZD0iTTE0LjgwMTMgOS44MDM5NkgyLjY5OTIyVjEwLjgyNTJIMTQuODAxM1Y5LjgwMzk2WiIgZmlsbD0iIzAwMzYxNiIvPgo8cGF0aCBkPSJNMTQuNzUwMSAxOS45NjU4SDguNzI0NjFWMjAuOTg3MUgxNC43NTAxVjE5Ljk2NThaIiBmaWxsPSIjMDAzNjE2Ii8+CjxwYXRoIGQ9Ik0xNC43NTAxIDE2LjU5NTVIOC43MjQ2MVYxNy42MTY3SDE0Ljc1MDFWMTYuNTk1NVoiIGZpbGw9IiMwMDM2MTYiLz4KPHBhdGggZD0iTTAuMzUwMDQ2IDE4LjYzODNMNS40NTY0MyAyMy43NDQ3TDUuNzExNzUgMjRIMTcuNDA1NFYwSDAuMDk0NzI2NlYxOC40MzRMMC4zNTAwNDYgMTguNjM4M1pNNS4zNTQzIDIyLjI2MzhMMS44MzA5IDE4Ljc0MDRINS4zNTQzVjIyLjI2MzhaTTE2LjMzMyAxLjAyMTI4VjIyLjk3ODdINi4zNzU1OFYxNy43MTkxSDEuMTE2VjEuMDIxMjhIMTYuMzMzWiIgZmlsbD0iIzAwMzYxNiIvPgo8L3N2Zz4K);
   width: 23.44px;
   height: 32.5px;
 }
 .top-btn__link_document::after {
-  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMjUiIHZpZXdCb3g9IjAgMCAzNiAyNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTM0LjgwNzcgOC4wNzY5MlYyNEgxLjE5MjMyVjFIMzQuODA3N0wxOCAxNC4yNjkyTDEuMTkyMzIgMSIgc3Ryb2tlPSIjMDBBN0FFIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo=);
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMTgiIHZpZXdCb3g9IjAgMCAyNSAxOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIzLjk0MjIgNS45MjMwOFYxN0gwLjU1NzYxN1YxSDIzLjk0MjJMMTIuMjQ5OSAxMC4yMzA4TDAuNTU3NjE3IDEiIHN0cm9rZT0iIzAwMzYxNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo=);
   width: 33.62px;
   height: 23px;
 }
@@ -289,7 +289,7 @@
   }
 
   .top-section:last-of-type {
-    margin-bottom: 150px;
+    margin-bottom: 170px;
   }
 
   .top-section__title {
@@ -621,7 +621,7 @@ html.hidden {
 
 /* フィーチャー */
 .feature {
-  background: var(--bg_grad_blue);
+  background: var(--feature-green);
   padding: 20px 5%;
   margin-bottom: 65px;
 }
@@ -652,8 +652,7 @@ html.hidden {
 .feature__item_normal {
   font-size: 2rem;
   line-height: 1.4;
-  font-weight: 700;
-  color: #d1b75f;
+  color: #fffb97;
 }
 .feature__item_number {
   font-size: 3rem;
@@ -662,7 +661,7 @@ html.hidden {
   font-style: italic;
   letter-spacing: 0.1em;
   font-weight: 700;
-  color: #d1b75f;
+  color: #fffb97;
 }
 @media (min-width: 768px) {
   .feature {
@@ -834,9 +833,23 @@ html.hidden {
   margin-bottom: 30px;
 }
 .top-section__btn {
+  display: flex;
+  align-items: center;
   width: max-content;
+  padding-left: 30px;
   margin: 0 auto;
 }
+.top-section__btn::after {
+  display: block;
+  content: "";
+  width: 60px;
+  height: 0.5px;
+  background: var(--btn-brown);
+  margin-left: -30px;
+  z-index: 1;
+  transition: transform ease 0.3s;
+}
+
 @media (min-width: 768px) {
   .top-section_bg {
     padding: 80px 5%;
@@ -859,7 +872,7 @@ html.hidden {
     width: calc((400 / 1004) * 100%);
   }
   .top-section__btn {
-    width: max-content;
+    padding: 0;
     margin: 0 auto 0 0;
   }
   .title-h3_rev {
@@ -891,10 +904,6 @@ html.hidden {
 }
 .exterior__text {
   margin-bottom: 25px;
-}
-.european-grace__btn {
-  width: fit-content;
-  margin: 0 auto;
 }
 .exterior__inner-photo {
   display: block;
@@ -996,7 +1005,7 @@ html.hidden {
     width: 100%;
     margin: 0;
   }
-  .european-grace__btn {
+  .top-section__btn_european {
     grid-area: btn;
     margin: 0 0 0 auto;
   }
@@ -1020,7 +1029,7 @@ html.hidden {
 .facilities-card {
   display: flex;
   flex-direction: column-reverse;
-  box-shadow: 0px 4px 30px rgba(87, 73, 4, 0.15);
+  box-shadow: 0px 4px 30px rgb(85 74 21 / 15%);
 }
 .facilities-card__title {
   font-size: 1.6rem;
@@ -1034,8 +1043,7 @@ html.hidden {
 .facilities-card__title_centar {
   text-align: center;
 }
-.facilities__btn {
-  width: fit-content;
+.top-section__btn_facilities {
   margin: 0 auto;
 }
 @media (min-width: 768px) {

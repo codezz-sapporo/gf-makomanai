@@ -88,7 +88,7 @@
 					<img src="../assets/img/security/mobile/sec2_3.jpg" alt="共用施設の予約がスマホで対応" class="">
 				</picture>
 				<h4 class="item-box__title">共用施設の予約がスマホで対応</h4>
-				<p class="mini text text_small">共用施設の予約や使用状況の確認、共用自転車の鍵の貸出・返却がスマホで簡単に。待ち時間なしで「テレワークルーム」、「屋上庭園バーベキュー」、「貸し自転車」をご利用いただけます。<span style="font-size: 75%;">※「貸し自転車」は別途システムからの予約となります</span></p>
+				<p class="mini text text_small">共用施設の予約や使用状況の確認、共用自転車の鍵の貸出・返却がスマホで簡単に。待ち時間なしで「シアター＆カラオケルーム」、「テレワークルーム」、「屋上庭園バーベキュー」、「貸し自転車」をご利用いただけます。<span style="font-size: 75%;">※「貸し自転車」は別途システムからの予約となります。</span></p>
 			</li>
 		</ul>
 	</section>

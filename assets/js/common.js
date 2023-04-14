@@ -185,7 +185,7 @@ $(document).scroll(function () {
   if (windowWidth > windowS) {
     if (scroll >= 600) {
       //150pxスクロールすると起動
-      $(".header").css("background", "#00A7AE");
+      $(".header").css("background", "var(--green)");
       $(".header").css("filter", "drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.4))");
     } else {
       //スクロールしていないときは起動しない

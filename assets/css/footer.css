@@ -2,7 +2,7 @@
 
 footer .footer {
   width: 100vw;
-  background: #009ba1;
+  background: linear-gradient(180deg, #8f864b 0%, #bda933 100%);
 }
 .footer {
   color: #fff;
@@ -52,13 +52,13 @@ footer .footer-btm .f-left {
   .footer__property-name {
     font-size: 1.8rem;
   }
-  .footer .btn::before {
+  .footer .footer-btn::before {
     display: none;
   }
-  footer .footer .cv-bottom .cv .btn > div {
+  /* footer .footer .cv-bottom .cv .footer-btn > div {
     border: #fff 1px solid;
     background: unset;
-  }
+  } */
   footer .footer .cv-bottom .cv .link > div:first-child {
     border-right: #fff 1px solid;
   }
@@ -68,6 +68,25 @@ footer .footer-btm .f-left {
   .cv-bottom {
     display: flex;
     justify-content: space-between;
+  }
+  .footer-inner {
+  }
+  .footer-link {
+    margin-bottom: 20px;
+  }
+  .footer-btn {
+    display: flex !important;
+  }
+  .footer-btn__link {
+    display: block;
+    border: #fff 1px solid;
+    background: unset;
+    font-size: 14px;
+    line-height: 45px;
+    text-align: center;
+    color: #fff;
+    width: 170px;
+    margin-right: 10px;
   }
 }
 .f-left {
@@ -79,4 +98,7 @@ footer .footer .cv-bottom .tel-area .time {
 footer .footer ul > li div > a {
   display: block;
   padding: 5px 0;
+}
+footer .footer hr {
+  width: 100%;
 }

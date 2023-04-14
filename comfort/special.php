@@ -1,5 +1,5 @@
 <section class="tab_main js-tab-cts is-active" data-tab="tab-1">
-    <h2 class="title-h2 title-h2_living fadeUpTrigger">快適さの特等席</h2>
+    <h2 class="title-h2 title-h2_special fadeUpTrigger">快適さの特等席</h2>
 
 	<section class="tab-section tab-section_column tab-section_special comfort">
 		<h3 class="intro__title">低層レジデンス<br class="sp">［壁式構造のメリット］<br><span class="intro__title_small">柱や梁がない、すっきり広々空間！<br class="sp">風と光が通り抜ける快適な住まい。</span></h3>

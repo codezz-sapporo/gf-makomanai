@@ -575,6 +575,10 @@
 
 /* 真駒内から追加 */
 /* 快適さの特等席 */
+.title-h2_special::before {
+  content: "SPECIAL ROOM";
+}
+
 .intro__title_small {
   font-size: 90%;
   line-height: 1;

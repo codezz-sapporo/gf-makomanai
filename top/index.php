@@ -193,7 +193,7 @@
                 <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/top/exterior-03.webp">
                 <img src="<?php print URL; ?>/assets/img/top/exterior-03.jpg" alt="location" class="exterior__inner-img">
               </picture>
-              <p class="european-grace__btn"><a class="btn" href="<?php print URL; ?>/exterior/">VIEW MORE</a></p>
+              <p class="top-section__btn top-section__btn_european"><a class="btn" href="<?php print URL; ?>/exterior/">VIEW MORE</a></p>
             </div>
           </section>
           <section class="exterior__section">
@@ -315,7 +315,7 @@
           </li>
 
         </ul>
-        <p class="facilities__btn"><a class="btn" href="<?php print URL; ?>/entrance/index">VIEW MORE</a></p>
+        <p class="top-section__btn top-section__btn_facilities"><a class="btn" href="<?php print URL; ?>/entrance/">VIEW MORE</a></p>
       </section>
 
       <section class="top-section">
@@ -329,7 +329,7 @@
           <div class="top-section__text-area fadeRightTrigger">
             <p class="title-h3">遠隔操作でひろがる、快適・便利な暮らし</p>
             <p class="text top-section__text">お出かけの際に玄関ドアの鍵を閉めたか不安になったことはありませんか？そんなストレスも、スマートフォンが解消してくれます。外出先からスマートフォンを使って玄関ドアの鍵の確認や施錠を実現するほか、ご帰宅のタイミングに合わせて床暖房のON-OFF、照明のON-OFF、お風呂のお湯張りなど実現。先進技術の利用で、暮らしはさらに豊かなものになります。</p>
-            <p class="top-section__btn"><a class="btn" href="<?php print URL; ?>/entrance/concierge">VIEW MORE</a></p>
+            <p class="top-section__btn"><a class="btn" href="<?php print URL; ?>/security/">VIEW MORE</a></p>
           </div>
         </div>
       </section>
@@ -344,7 +344,7 @@
           <div class="top-section__text-area top-section__text-area_rev fadeRightTrigger">
             <p class="title-h3 title-h3_rev">遠隔操作でひろがる、快適・便利な暮らし</p>
             <p class="text top-section__text top-section__text_rev">お出かけの際に玄関ドアの鍵を閉めたか不安になったことはありませんか？そんなストレスも、スマートフォンが解消してくれます。外出先からスマートフォンを使って玄関ドアの鍵の確認や施錠を実現するほか、ご帰宅のタイミングに合わせて床暖房のON-OFF、照明のON-OFF、お風呂のお湯張りなど実現。先進技術の利用で、暮らしはさらに豊かなものになります。</p>
-            <p class="top-section__btn top-section__btn_rev"><a class="btn" href="<?php print URL; ?>/entrance/concierge">VIEW MORE</a></p>
+            <p class="top-section__btn top-section__btn_rev"><a class="btn" href="<?php print URL; ?>/comfort/">VIEW MORE</a></p>
           </div>
         </div>
       </section>
@@ -359,7 +359,7 @@
           <div class="top-section__text-area fadeRightTrigger">
             <p class="title-h3">遠隔操作でひろがる、快適・便利な暮らし</p>
             <p class="text top-section__text">お出かけの際に玄関ドアの鍵を閉めたか不安になったことはありませんか？そんなストレスも、スマートフォンが解消してくれます。外出先からスマートフォンを使って玄関ドアの鍵の確認や施錠を実現するほか、ご帰宅のタイミングに合わせて床暖房のON-OFF、照明のON-OFF、お風呂のお湯張りなど実現。先進技術の利用で、暮らしはさらに豊かなものになります。</p>
-            <p class="top-section__btn"><a class="btn" href="<?php print URL; ?>/entrance/concierge">VIEW MORE</a></p>
+            <p class="top-section__btn"><a class="btn" href="<?php print URL; ?>/g-flex/">VIEW MORE</a></p>
           </div>
         </div>
       </section>

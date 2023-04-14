@@ -71,15 +71,15 @@
 			</div><!-- /.f-menu -->
 			<hr class="pc">
 			<div class="cv-bottom clearfix">
-				<div class="cv f-left mincho pc">
-					<div class="link ">
+				<div class="cv f-left mincho pc footer-inner">
+					<div class="link footer-link">
 						<div><a href="<?php print URL; ?>/property/">物件概要</a></div>
 						<div><a href="<?php print URL; ?>/model-room/">マンションギャラリー</a></div>
 					</div>
-					<div class="btn">
-						<div class="trans"><a href="<?php print URL; ?>/contact/tour-reservation">来場予約はこちら</a></div>
-						<div class="trans"><a href="<?php print URL; ?>/contact/docu_request">資料請求</a></div>
-                        <div class="btn_wrap"><a href="<?php print URL; ?>/contact/online-reservation" class="light">オンライン商談予約</a></div>
+					<div class="footer-btn">
+						<div class="trans"><a class="footer-btn__link" href="<?php print URL; ?>/contact/tour-reservation">来場予約はこちら</a></div>
+						<div class="trans"><a class="footer-btn__link" href="<?php print URL; ?>/contact/docu_request">資料請求</a></div>
+                        <div class="btn_wrap"><a class="footer-btn__link" href="<?php print URL; ?>/contact/online-reservation" class="light">オンライン商談予約</a></div>
 					</div>
 				</div>
 				<div class="tel-area f-right">

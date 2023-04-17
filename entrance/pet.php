@@ -1,4 +1,4 @@
-<section class="tab_main js-tab-cts" data-tab="tab-5">
+<section class="tab_main js-tab-cts" data-tab="tab-6">
 	<h2 class="title-h2 title-h2_pet fadeUpTrigger">ペット対応</h2>
 	<div class="tab-section">
 		<p class="intro__title">動物たちとの新しい関係をつくり、<br>やすらぎある住環境を実現</p>

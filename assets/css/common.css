@@ -226,8 +226,7 @@ label {
   line-height: 1.85;
   text-align: center;
   font-weight: 600;
-  margin-top: 30px;
-  margin-bottom: calc((30 / 375) * 100vw);
+  margin: 30px auto calc((30 / 375) * 100vw);
 }
 .intro__text {
   font-size: calc((14 / 375) * 100vw);
@@ -293,7 +292,7 @@ label {
 }
 .section__lead {
   font-size: 1.6rem;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.6;
   text-align: center;
   margin: 0 auto 25px;

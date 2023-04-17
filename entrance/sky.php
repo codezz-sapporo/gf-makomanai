@@ -1,5 +1,5 @@
 
-<section class="tab_main js-tab-cts" data-tab="tab-4">
+<section class="tab_main js-tab-cts" data-tab="tab-5">
 	<h2 class="title-h2 title-h2_sky fadeUpTrigger">スカイガーデン</h2>
 
 	<div class="tab-section tab-section_column">

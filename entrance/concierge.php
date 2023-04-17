@@ -1,4 +1,4 @@
-<section class="tab_main js-tab-cts" data-tab="tab-2">
+<section class="tab_main js-tab-cts is-active" data-tab="tab-1">
     <h2 class="title-h2 title-h2_concierge fadeUpTrigger">コンシェルジュ</h2>
     <div class="tab-section">
         <p class="intro__title">永住にふさわしいホスピタリティ。<br class="br_sp">フロントコンシェルジュサービス</p>
@@ -7,21 +7,29 @@
                 <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/mainvisual.webp">
                 <img src="<?php print URL; ?>/assets/img/entrance/concierge/mainvisual.jpg" alt="フロントコンシェルジュサービス" class="mainvisual__img">
             </picture>
+            <figcaption class="concierge-caption"><span class="concierge-caption__text">グランファーレ豊平公園前パークフロント ENTRANCE HALL</span><span class="concierge-caption__text">グランファーレ平岸THEパークサイド ENTRANCE HALL</span></figcaption>
         </figure>
         <p class="text tab-section__text">忙しい日々をバックアップするサービスから、安らぎのひとときを提供するもてなしのサービスまで。<br class="br_pc">「グランファーレ真駒内フォレスト」は、永く快適に暮すための都市生活を考えた、コンシェルジュサービスをご用意しています。フロントコンシェルジュカウンターには、様々なご要望にお応えする専任のコンシェルジュが控え、ゲスト対応やプレミアムサービス、セレクタリーサービス、アメニティサービス、デイリーサービスなど、全てのサービスを統括し、上質な日常を住まう方にご提供いたします。</p>
-        <figure class="tab-section__photo tab-section__photo_column tab-section__photo_top">
-            <picture>
-                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/img1.webp">
-                <img src="<?php print URL; ?>/assets/img/entrance/concierge/img1.jpg" alt="フロントコンシェルジュサービス" class="mainvisual__img">
-            </picture>
-            <figcaption>グランファーレ伏見グランシャリオ　ENTRANCE HALL</figcaption>
-        </figure>
-        <figure class="tab-section__photo tab-section__photo_column">
-            <picture>
-                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/img2.webp">
-                <img src="<?php print URL; ?>/assets/img/entrance/concierge/img2.jpg" alt="フロントコンシェルジュサービス" class="mainvisual__img">
-            </picture>
-        </figure>
+        <ul class="entrance-intro__photo-list">
+            <li class="entrance-intro__photo-item">
+                <figure>
+                    <picture>
+                        <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/img1.webp">
+                        <img src="<?php print URL; ?>/assets/img/entrance/concierge/img1.jpg" alt="" class="entrance-intro__img">
+                    </picture>
+                    <figcaption>グランファーレ札幌山鼻レガリアENTRANCE HAL</figcaption>
+                </figure>
+            </li>
+            <li class="entrance-intro__photo-item">
+                <figure>
+                    <picture>
+                        <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/img2.webp">
+                        <img src="<?php print URL; ?>/assets/img/entrance/concierge/img2.jpg" alt="" class="entrance-intro__img">
+                    </picture>
+                    <figcaption>フォートレスゲート新札幌レジデンス ENTRANCE HALL</figcaption>
+                </figure>
+            </li>
+        </ul>
     </div>
 
     <div class="tab-section tab-section_service">
@@ -46,7 +54,7 @@
                     <p class="text">管球の交換、照明器具の取り付け。建て付け調整、家具の移動・組立て、簡易的なパソコン周辺の配線整備など、専有部内で住まう方のお手伝いをさせていただくサービスです。</p>
                 </div>
             </li>
-            <li class="box box_2">
+            <!-- <li class="box box_2">
                 <picture class="item-box__photo">
                     <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/servicelist_img3.webp">
                     <img src="<?php print URL; ?>/assets/img/entrance/concierge/servicelist_img3.jpg" alt="プロッフェショナルサービス" class="mainvisual__img">
@@ -55,7 +63,7 @@
                     <h4 class="item-box__title item-box__title_annotation">プロッフェショナルサービス<span class="annotation-number">※4</span></h4>
                     <p class="text">人気の高いデザイナーやアーティストが、オーナー様のご要望に応じて、より華やかに演出するサービスをご用意しました。</p>
                 </div>
-            </li>
+            </li> -->
             <li class="box box_2">
                 <picture class="item-box__photo">
                     <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/servicelist_img4.webp">
@@ -87,7 +95,7 @@
                 </div>
             </li>
         </ul><!-- /.item-box -->
-        <p class="annotation">※1コンシェルジュ1名にて対応しておりますので、他の居住者様のご対応の際は、お待ちいただくこととなります。また台車にて運搬可能な物で、精密機械や陶磁器、割れ物などを除く。貴重品などはご遠慮願います。※2有償サービスです。予めお申込みが必要です。 内容により月額費用がかかる場合がございます。※3有償サービスです。専門性が高い作業は、専門業者をご紹介いたします。※4有償サービスです。予め予約が必要です。サービスによっては、予算・人数・日時に応じられない場合があります。※混雑等により時間を要する場合やサービスの提供が出来ない場合があります。サービス等の受付はコンシェルジュの勤務時間内に限ります。※サービスの提携先および内容については2023年2月現在のもので変更となる場合があり、将来にわたって確定されたものではありません。</p>
+        <p class="annotation">※1コンシェルジュ1名にて対応しておりますので、他の居住者様のご対応の際は、お待ちいただくこととなります。また台車にて運搬可能な物で、精密機械や陶磁器、割れ物などを除く。貴重品などはご遠慮願います。※2有償サービスです。予めお申込みが必要です。 内容により月額費用がかかる場合がございます。※3有償サービスです。専門性が高い作業は、専門業者をご紹介いたします。※混雑等により時間を要する場合やサービスの提供が出来ない場合があります。サービス等の受付はコンシェルジュの勤務時間内に限ります。※サービスの提携先および内容については2023年2月現在のもので変更となる場合があり、将来にわたって確定されたものではありません。</p>
     </div>
     <div class="tab-section tab-section_column service">
         <h3 class="intro__lead">ホテルクオリティを追求した<br class="sp">フロントサービスが<br>快適ライフをサポートします。</h3>

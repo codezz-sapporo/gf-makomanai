@@ -54,6 +54,11 @@
   display: block;
   font-size: 1.2rem;
 }
+.entrance-intro__photo-list {
+  width: 90%;
+  max-width: 1004px;
+  margin: 0 auto;
+}
 @media (min-width: 768px) {
   .entrance-intro__photo-list {
     display: flex;
@@ -81,6 +86,10 @@
 
   .concierge-caption__text {
     width: 48%;
+  }
+  .entrance-intro__photo-list {
+    display: flex;
+    justify-content: space-between;
   }
 }
 
@@ -525,5 +534,151 @@
 @media (min-width: 768px) {
   .entrance .title-h3 {
     text-align: left;
+  }
+}
+
+/* シアター＆カラオケ */
+.title-h2_theater::before {
+  content: "THEATER & KARAOKE";
+  font-size: 3.2rem;
+}
+.theater__photo {
+  width: 90%;
+  max-width: 816px;
+  margin: 0 auto 30px;
+}
+.presence {
+  background-color: #eae9d8;
+  padding: 30px 20px;
+}
+.presence__photo {
+  margin: 0 auto 20px;
+}
+.presence__photo_01 {
+  width: 70%;
+}
+.presence__photo_02 {
+  width: 50%;
+}
+.presence__photo_03 {
+  width: 100%;
+}
+.presence-unit {
+  line-height: 1.75;
+  margin-bottom: 30px;
+}
+.presence-unit__title {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+.presence-unit__text {
+  font-size: 1.3rem;
+}
+.presence-unit__text-list {
+  display: block;
+}
+.photo-cap {
+  font-size: 1rem;
+  margin-top: 5px;
+}
+.hikaritv {
+  margin-bottom: 50px;
+}
+.hikaritv__logo {
+  width: 70%;
+  margin: 0 auto 20px;
+}
+.hikaritv__photo {
+  margin-bottom: 20px;
+}
+.entrance .sec2.theater {
+  padding-bottom: 0;
+}
+.hikaritv__title {
+  margin-bottom: 25px;
+}
+.hikaritv-unit__text {
+  border: 1px solid var(--text-black);
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.hikaritv__text {
+  margin-bottom: 20px;
+}
+.text_hikaritv {
+  font-size: 1.3rem;
+}
+.theater__list {
+  display: flex;
+  width: 90%;
+  max-width: 1004px;
+  margin: 0 auto;
+}
+@media (min-width: 768px) {
+  .title-h2_theater::before {
+    font-size: 5rem;
+  }
+  .presence {
+    padding: 30px 30px;
+    margin: 0 auto 100px;
+  }
+  .presence__inner {
+    display: flex;
+  }
+  .presence__section:last-of-type {
+    width: calc((335 / 1004) * 100%);
+    margin-left: 3%;
+  }
+  .presence__section:first-of-type {
+    flex: 1;
+  }
+
+  .presence-unit {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .presence-unit_reverse {
+    flex-direction: row-reverse;
+  }
+  .presence-unit_column {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .presence__photo {
+    margin: 0;
+  }
+  .presence__photo_01 {
+    width: 28%;
+  }
+  .presence__photo_02 {
+    width: 28%;
+  }
+  .presence__photo_03 {
+    margin-bottom: 15px;
+  }
+  .presence-unit__text-area {
+    width: 70%;
+  }
+  .page {
+    margin-bottom: 150px;
+  }
+  .hikaritv {
+    display: flex;
+  }
+  .hikaritv__text {
+    margin-bottom: 30px;
+  }
+  .text_hikaritv {
+    font-size: 1.5rem;
+  }
+  .hikaritv__title {
+    margin-bottom: 0;
+    margin-right: 5%;
+  }
+  .hikaritv-unit__text {
+    width: 90%;
+    text-align: center;
+    padding: 6px;
   }
 }

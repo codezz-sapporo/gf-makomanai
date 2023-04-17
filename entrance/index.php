@@ -28,26 +28,32 @@
       <div class="tab-area tab-area_sub" id="intro">
         <div class="tabBox">
           <ul class="tab-list">
-            <li class="one_tab js-tab-switch is-active" data-tab="tab-1">エントランス</li>
-            <li class="one_tab js-tab-switch" data-tab="tab-2">コンシェルジュ</li>
+            <li class="one_tab js-tab-switch is-active" data-tab="tab-1">コンシェルジュ</li>
+            <li class="one_tab js-tab-switch" data-tab="tab-2">シアター＆カラオケ</li>
             <li class="one_tab js-tab-switch" data-tab="tab-3">テレワークルーム</li>
-            <li class="one_tab js-tab-switch" data-tab="tab-4">スカイガーデン</li>
-            <li class="one_tab js-tab-switch" data-tab="tab-5">ペット対応</li>
+            <li class="one_tab js-tab-switch" data-tab="tab-4">フィットネスジム</li>
+            <li class="one_tab js-tab-switch" data-tab="tab-5">スカイガーデン</li>
+            <li class="one_tab js-tab-switch" data-tab="tab-6">ペット対応</li>
           </ul>
         </div>
 
         <div class="contents">
-          <!-- エントランス -->
-          <?php
-            include_once('entrance.php');
-          ?>
           <!-- コンシェルジュ -->
           <?php
             include_once('concierge.php');
           ?>
+          <!-- シアター＆カラオケ -->
+          <?php
+            include_once('theater.php');
+          ?>
+
           <!-- テレワークルーム-->
           <?php
             include_once('working.php');
+          ?>
+          <!-- フィットネスジム -->
+          <?php
+            include_once('fitness.php');
           ?>
           <!-- スカイガーデン-->
           <?php
@@ -62,11 +68,12 @@
         <!-- ▼Tab under▼ -->
         <div class="tabBox">
           <ul class="tab-list tab-list_bottom bottom">
-            <li class="one_tab js-tab-switch js-tab-switch_bottom is-active" data-tab="tab-1">エントランス</li>
-            <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-2">コンシェルジュ</li>
+            <li class="one_tab js-tab-switch js-tab-switch_bottom is-active" data-tab="tab-1">コンシェルジュ</li>
+            <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-2">シアター＆カラオケ</li>
             <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-3">テレワークルーム</li>
-            <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-4">スカイガーデン</li>
-            <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-5">ペット対応</li>
+            <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-4">フィットネスジム</li>
+            <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-5">スカイガーデン</li>
+            <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-6">ペット対応</li>
           </ul>
 
         </div>

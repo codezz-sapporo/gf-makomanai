@@ -27,6 +27,11 @@
     #00592b 49.21%,
     #002c0c 100%
   );
+  --btn_grad_green_sp: linear-gradient(
+    307.57deg,
+    #003616 19.13%,
+    #00592b 78.4%
+  );
 }
 html {
   font-size: 62.5%;
@@ -1074,7 +1079,7 @@ figcaption {
   margin-bottom: 40px;
 }
 .tab_main .tab-section:last-child {
-  margin-bottom: 0;
+  margin: 0 auto;
 }
 .tab_main:last-child {
   margin-bottom: 0;
@@ -1102,9 +1107,6 @@ figcaption {
   }
   .tab-area_sub .tab-section:nth-of-type(even) {
     margin: 0 auto 80px;
-  }
-  .tab-area_sub .tab-section:last-child {
-    margin: 0 auto;
   }
   .tab-area_sub .tab-section_bg {
     padding: 50px 5%;

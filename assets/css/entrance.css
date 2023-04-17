@@ -98,7 +98,7 @@
   padding: 20px 2% 35px;
 }
 .service-unit:nth-of-type(odd) {
-  background-color: #f0eac5;
+  background-color: #faf5c7;
 }
 .service-unit:nth-of-type(even) {
   background-color: #f9f7e8;
@@ -349,8 +349,9 @@
 .entrance .sec3.sky .left h4 span {
   margin-left: 0;
 }
-.entrance .sky__title {
+.sky__title {
   font-size: 1.7rem;
+  line-height: 1.7;
   margin-bottom: 20px;
 }
 .sec3 .sky__photo {
@@ -418,6 +419,7 @@
     margin-top: 0;
   }
   .sky__title {
+    font-size: 2rem;
     margin-bottom: 30px;
   }
   .entrance h4 {
@@ -435,10 +437,6 @@
   }
   .clearfix:after {
     display: none;
-  }
-  .entrance .sky__title {
-    font-size: 2rem;
-    margin-bottom: 40px;
   }
   .sky-inner__list {
     display: flex;
@@ -472,15 +470,6 @@
   .entrance .sky_flex .sky__photo {
     width: calc((470 / 1004) * 100%);
   }
-  .sky_flex .sky__title {
-    text-align: left;
-  }
-  .sky-section-bg {
-    padding: 40px 30px;
-  }
-  .sky-section-bg .tab-section__photo_top {
-    max-width: unset;
-  }
 }
 
 /* ペット */
@@ -504,9 +493,6 @@
   }
   .pet__photo {
     width: 48%;
-  }
-  .pet__photo_sec3 {
-    margin-bottom: 20px;
   }
   .pet__flex {
     display: flex;
@@ -680,5 +666,117 @@
     width: 90%;
     text-align: center;
     padding: 6px;
+  }
+}
+
+/* テレワークルーム */
+.sdio-intro {
+  width: 100%;
+  line-height: 1.8;
+  text-align: center;
+  background: linear-gradient(
+    90deg,
+    #f0f7d3 0%,
+    #fdfff0 48.23%,
+    #f0f7d2 98.58%
+  );
+  padding: 40px 0;
+  margin-bottom: 35px;
+}
+.sdio-intro__text {
+  font-size: 1.3rem;
+  margin-bottom: 20px;
+}
+.sdio-intro__lead {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+.sdio-intro__title {
+  font-size: 2rem;
+  font-weight: 600;
+}
+.homework__sdio-content {
+  padding: 0 5%;
+  margin-bottom: 30px;
+}
+.homework__sdio-title {
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+.homework__sdio-photo {
+  max-width: 816px;
+  margin: 0 auto 30px;
+}
+.homework__sdio-photo-list {
+  display: flex;
+  width: 90%;
+  max-width: 1004px;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+.homework__sdio-photo-item {
+  width: calc((100% - 10px) / 2);
+}
+.homework .text {
+  font-size: 1.5rem;
+  text-align: left;
+}
+@media (min-width: 768px) {
+  .homework {
+    margin-bottom: 150px;
+  }
+  .sdio-intro {
+    padding: 50px 0;
+    margin-bottom: 80px;
+  }
+  .sdio-intro__text {
+    font-size: 1.6rem;
+  }
+  .sdio-intro__lead {
+    font-size: 1.8rem;
+  }
+  .sdio-intro__title {
+    font-size: 2.4rem;
+  }
+  .homework__sdio-content {
+    margin-bottom: 40px;
+  }
+  .homework__sdio-title {
+    font-size: 2.2rem;
+    margin-bottom: 30px;
+  }
+  .homework__sdio-photo {
+    margin: 0 auto 80px;
+  }
+  .homework__sdio-photo-item {
+    width: calc((100% - 30px) / 2);
+  }
+  .homework .text {
+    font-size: 1.6rem;
+  }
+}
+/* フィットネスジム */
+.title-h2_fitness::before {
+  content: "FITNESS GYM";
+}
+.fitness__list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+.box_fitness {
+  width: calc((100% - 20px) / 2);
+  margin-bottom: 20px;
+}
+.fitness__item-name {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin: 5px 0;
+}
+@media (min-width: 768px) {
+  .box_fitness {
+    width: calc((100% - 60px) / 4);
   }
 }

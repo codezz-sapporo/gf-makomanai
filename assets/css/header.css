@@ -512,6 +512,7 @@
     margin: 0 auto;
   }
   .link-area__text_model {
+    font-size: 1.8rem;
     letter-spacing: unset;
   }
   ::-webkit-full-page-media,

@@ -820,6 +820,9 @@ html.hidden {
     padding: 0 5%;
     margin: 0 auto 100px;
   }
+  .intro__title_small {
+    font-size: 2.4rem;
+  }
 }
 .top-section_bg {
   background: rgba(255, 255, 255, 0.6);

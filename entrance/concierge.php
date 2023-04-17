@@ -40,7 +40,7 @@
                     <img src="<?php print URL; ?>/assets/img/entrance/concierge/servicelist_img1.jpg" alt="ポーターサービス" class="mainvisual__img">
                 </picture>
                 <div class="right-box">
-                    <p class="item-box__title item-box__title_annotation">ポーターサービス<span class="annotation-number">※1</span></p>
+                    <p class="item-box__title item-box__title_annotation">ポーターサービス<sup class="annotation-number">※1</sup></p>
                     <p class="text">ご出発やご帰宅時に、大きな荷物や重たい荷物をお持ちの際には、ご自宅もしくは、お車まで大切にお運びします。事前にコンシェルジュにご連絡いただければ、ご自宅までお荷物を取りにお伺いします。</p>
                 </div>
             </li>
@@ -50,7 +50,7 @@
                     <img src="<?php print URL; ?>/assets/img/entrance/concierge/servicelist_img2.jpg" alt="ホームアテンダントサービス" class="mainvisual__img">
                 </picture>
                 <div class="right-box">
-                    <p class="item-box__title item-box__title_annotation">ホームアテンダントサービス<span class="annotation-number">※3</span></p>
+                    <p class="item-box__title item-box__title_annotation">ホームアテンダントサービス<sup>※3</sup></p>
                     <p class="text">管球の交換、照明器具の取り付け。建て付け調整、家具の移動・組立て、簡易的なパソコン周辺の配線整備など、専有部内で住まう方のお手伝いをさせていただくサービスです。</p>
                 </div>
             </li>
@@ -60,7 +60,7 @@
                     <img src="<?php print URL; ?>/assets/img/entrance/concierge/servicelist_img3.jpg" alt="プロッフェショナルサービス" class="mainvisual__img">
                 </picture>
                 <div class="right-box">
-                    <p class="item-box__title item-box__title_annotation">プロッフェショナルサービス<span class="annotation-number">※4</span></p>
+                    <p class="item-box__title item-box__title_annotation">プロッフェショナルサービス<sup>※4</sup></p>
                     <p class="text">人気の高いデザイナーやアーティストが、オーナー様のご要望に応じて、より華やかに演出するサービスをご用意しました。</p>
                 </div>
             </li> -->
@@ -70,7 +70,7 @@
                     <img src="<?php print URL; ?>/assets/img/entrance/concierge/servicelist_img4.jpg" alt="リネン交換" class="mainvisual__img">
                 </picture>
                 <div class="right-box">
-                    <p class="item-box__title item-box__title_annotation">リネン交換<span class="annotation-number">※2</span></p>
+                    <p class="item-box__title item-box__title_annotation">リネン交換<sup>※2</sup></p>
                     <p class="text">シーツやデュベカバー、ピロケース、バスタオルやフェイスタオルなど、日常の暮らしの中でお使いになるリネンの交換を承ります。ホテル同様に、いつも清潔で心地良く過ごしていただくためのお手伝いをさせていただきます。</p>
                 </div>
             </li>
@@ -80,7 +80,7 @@
                     <img src="<?php print URL; ?>/assets/img/entrance/concierge/servicelist_img5.jpg" alt="ハウスメイドサービス" class="mainvisual__img">
                 </picture>
                 <div class="right-box">
-                    <p class="item-box__title item-box__title_annotation">ハウスメイドサービス<span class="annotation-number">※2</span></p>
+                    <p class="item-box__title item-box__title_annotation">ハウスメイドサービス<sup>※2</sup></p>
                     <p class="text">いつも掃除が行き届いた部屋で過ごせるルームキーピングは、ホテルが持つ魅力のひとつ。クラブレジデンスでは、専門のスタッフがお部屋に伺い掃除を行なうハウスメイドサービスをご用意いたしました。</p>
                 </div>
             </li>
@@ -90,7 +90,7 @@
                     <img src="<?php print URL; ?>/assets/img/entrance/concierge/servicelist_img6.jpg" alt="緊急通報サービス" class="mainvisual__img">
                 </picture>
                 <div class="right-box">
-                    <p class="item-box__title item-box__title_annotation">緊急通報サービス<span class="annotation-number">※2</span></p>
+                    <p class="item-box__title item-box__title_annotation">緊急通報サービス<sup>※2</sup></p>
                     <p class="text">ご家族に代わり、シニアの方々、単身世帯・ディンクス世帯の方々を24時間365日、専用の機器を用いて見守ります。異常を検知した場合や緊急ボタンを押された場合は専任パトロール員が駆けつけ対処します。</p>
                 </div>
             </li>

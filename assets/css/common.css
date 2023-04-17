@@ -133,9 +133,19 @@ label {
 }
 .mainvisual_only-text {
   height: 200px;
-  background: linear-gradient(180deg, #1be4ed 0%, #00a7ae 100%);
+  background: linear-gradient(180deg, #1b763f 0%, #00290a 100%);
 }
-
+sup {
+  display: inline-block;
+  font-size: 80%;
+  -webkit-transform: scale(0.8);
+  -ms-transform: scale(0.8);
+  transform: scale(0.8);
+  -webkit-transform-origin: left;
+  -ms-transform-origin: left;
+  transform-origin: left;
+  vertical-align: top;
+}
 @media (min-width: 768px) {
   body {
     background-image: url(../img/base_bg_pc.jpg);
@@ -895,10 +905,6 @@ label {
   color: #525252;
   margin: 0 auto 25px;
 }
-.annotation-number {
-  display: inline;
-  font-size: 0.8em;
-}
 .entrance .section__lead {
   font-size: 1.8rem;
   line-height: 1.85;
@@ -1061,7 +1067,7 @@ figcaption {
 }
 .tab-section {
   max-width: 1160px;
-  background-color: #fbf9f7;
+  background-color: #fffdf8;
   padding: 10px 10px 40px;
   margin-bottom: 80px;
 }
@@ -1176,11 +1182,12 @@ figcaption {
 .item-box__title {
   font-size: 1.7rem;
   line-height: 1.6;
+  font-weight: 600;
   margin-bottom: 10px;
 }
-.item-box__title_annotation {
+/* .item-box__title_annotation {
   width: max-content;
-}
+} */
 .item-box__photo {
   margin-bottom: 15px;
 }
@@ -1207,17 +1214,16 @@ figcaption {
 .item-box_row .item-box__title::before {
   counter-increment: number 1;
   content: counter(number) ". ";
-  display: block;
-  /* width: 50px; */
+  display: inline-block;
+  width: max-content;
   font-style: italic;
-  font-weight: 600;
   line-height: 1;
   font-size: 3rem;
   margin-right: 5px;
 }
-.item-box_row .item-box__title {
+/* .item-box_row .item-box__title {
   display: flex;
-}
+} */
 @media (min-width: 768px) {
   .item-box_row .box {
     display: flex;

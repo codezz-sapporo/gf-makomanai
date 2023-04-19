@@ -267,9 +267,6 @@
     font-size: 1.3rem;
   }
 }
-.item-box_row .item-box__title_max::before {
-  min-width: 50px;
-}
 .eco__svg {
   width: 100%;
 }

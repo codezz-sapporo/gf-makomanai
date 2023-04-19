@@ -3,7 +3,7 @@
 
 
     <section class="tab-section tab-section_column">
-        <h3 class="intro__title">スマート<img src="../assets/img/eco/icon.jpg" width="28" height="31" alt="スマートハウス" class="icon eco">ハウス<br>それがこれからの住まいの新基準。</h3>
+        <h3 class="intro__title">スマート<img src="../assets/img/eco/icon.jpg" width="28" height="31" alt="" class="icon eco">ハウス<br>それがこれからの住まいの新基準。</h3>
         <picture class="fadeInTrigger_slow tab-section__photo tab-section__photo_column box">
             <source media="(min-width: 768px)" srcset="../assets/svg/eco/mv_svg_pc.svg">
             <img src="../assets/svg/eco/mv_svg_sp.svg" alt="エコロジー&エコノミー" class="mainvisual__img">
@@ -149,7 +149,7 @@
                 </picture>
                 <div class="body mt20">
                     <h4 class="item-box__title">敷地内に平置の屋外駐車場</h4>
-                    <p class="text text_small">敷地内に12台分をご用意しました。ロードヒーティングを施してあり、雪の時期でも安心です。</p>
+                    <p class="text text_small">敷地内に14台分（屋外平置駐車場12台、来客用駐車場兼洗車場1台、Nタイプ専用駐車場1台）をご用意しました。ロードヒーティングを施してあり、雪の時期でも安心です。</p>
                 </div>
             </li>
             <li class="box box_3">
@@ -159,7 +159,17 @@
                 </picture>
                 <div class="body mt20">
                     <h4 class="item-box__title">屋内駐車場</h4>
-                    <p class="text text_small">敷地内に屋内駐車場を10台分（内来客用兼洗車場1台）ご用意しました。日差しや雨雪から大切な愛車を守ります。また天候が悪い日に傘を使わず車に乗ることができるのでとても便利です。</p>
+                    <p class="text text_small">敷地内に屋内駐車場を3台分ご用意しました。日差しや雨雪から大切な愛車を守ります。また天候が悪い日に傘を使わず車に乗ることができるのでとても便利です。</p>
+                </div>
+            </li>
+            <li class="box box_3">
+                <picture class="item-box__photo">
+                    <source type="image/webp" srcset="../assets/webp/eco/eco_list_2-1.webp">
+                    <img src="../assets/img/eco/eco_list_2-1.jpg" alt="屋外機械式駐車場">
+                </picture>
+                <div class="body mt20">
+                    <h4 class="item-box__title">屋外機械式駐車場</h4>
+                    <p class="text text_small">敷地内には屋外機械式ハイルーフ車対応駐車場を15台分ご用意しました。全面にロードヒーティングを施してあり、雪の時期でも安心です。車高の高いRV車にも対応しております。</p>
                 </div>
             </li>
             <li class="box box_3">
@@ -205,11 +215,11 @@
             <li class="box box_3">
                 <picture class="item-box__photo">
                     <source type="image/webp" srcset="../assets/webp/eco/eco_list_8.webp">
-                    <img src="../assets/img/eco/eco_list_8.jpg" alt="屋内駐輪場">
+                    <img src="../assets/img/eco/eco_list_8.jpg" alt="屋内自転車置場">
                 </picture>
                 <div class="body mt20">
-                    <h4 class="item-box__title">屋根付駐輪場</h4>
-                    <p class="text text_small">自転車は雨にさらされたりホコリまみれになることで、錆びて寿命が短くなります。屋根付駐輪場は、雨や直射日光、雪から大切な自転車やバイクを守ってくれます。自転車やバイクへ乗る時に、わざわざサドルを拭くことが少なくなり、忙しい朝のお出かけの時も、時間を無駄にすることなく気持ちよく出発できます。</p>
+                    <h4 class="item-box__title">屋内自転車置場</h4>
+                    <p class="text text_small">自転車は雨にさらされたりホコリまみれになることで、錆びて寿命が短くなります。屋内自転車置場は、雨や直射日光、雪から大切な自転車やバイクを守ってくれます。自転車やバイクへ乗る時に、わざわざサドルを拭くことが少なくなり、忙しい朝のお出かけの時も、時間を無駄にすることなく気持ちよく出発できます。</p>
                 </div>
             </li>
             <li class="box box_3">
@@ -261,8 +271,6 @@
                     <h4 class="item-box__title">冬も安心のロードヒーティング</h4>
                     <p class="text text_small">エントランスアプローチや、駐車場・敷地内の歩道の一部、車路にはロードヒーティングを敷設。</p>
                 </div>
-            </li>
-            <li class="box box_3">
             </li>
 
         </ul>

@@ -20,11 +20,12 @@
 				<ul>
 					<li><a href="<?php print URL; ?>/entrance/">充実の共用施設</a></li>
 					<li class="mt20">
-						<div><a href="<?php print URL; ?>/entrance/index.php?active-tab=tab-1">エントランス</a></div>
-						<div><a href="<?php print URL; ?>/entrance/index.php?active-tab=tab-2">コンシェルジュ</a></div>
+						<div><a href="<?php print URL; ?>/entrance/index.php?active-tab=tab-1">コンシェルジュ</a></div>
+						<div><a href="<?php print URL; ?>/entrance/index.php?active-tab=tab-2">シアター＆カラオケ</a></div>
 						<div><a href="<?php print URL; ?>/entrance/index.php?active-tab=tab-3">テレワークルーム</a></div>
-						<div><a href="<?php print URL; ?>/entrance/index.php?active-tab=tab-4">スカイガーデン</a></div>
-						<div><a href="<?php print URL; ?>/entrance/index.php?active-tab=tab-5">ペット対応</a></div>
+						<div><a href="<?php print URL; ?>/entrance/index.php?active-tab=tab-4">フィットネスジム</a></div>
+						<div><a href="<?php print URL; ?>/entrance/index.php?active-tab=tab-5">スカイガーデン</a></div>
+						<div><a href="<?php print URL; ?>/entrance/index.php?active-tab=tab-6">ペット対応</a></div>
 					</li>
 				</ul>
 				<ul>

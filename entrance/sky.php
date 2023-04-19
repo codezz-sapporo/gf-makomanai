@@ -42,7 +42,7 @@
 						</picture>
 					</p>
 					<div class="left sky__text">
-						<h3 class="sky__title">光の南欧風ガーデン<br><span class="fgara">SOUTHERN EUROPEAN GARDEN</span></h3>
+						<h3 class="sky__title">光の南欧風ガーデン<br><span class="text_small-en">SOUTHERN EUROPEAN GARDEN</span></h3>
 						<p class="text">温かみあるウッドデザイン。暑い日差しを避けて、午後のティータイムはいかがですか。周囲の緑に溶け込むように全体を南欧風デザインに仕上げました。夜になると光が織りなすガーデンファニチャーがいっそう安らぎを演出してくれます。</p>
 					</div>
 				</div>

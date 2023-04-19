@@ -20,27 +20,8 @@
 			</li>
 			<li class="box box_2">
 				<picture class="item-box__photo">
-					<source type="image/webp" srcset="../assets/webp/eco/construction/sec2_2.webp">
-					<img src="../assets/img/eco/construction/sec2_2.jpg" alt="溶接閉鎖型フープ筋の採用" class="">
-				</picture>
-				<div class="right-box">
-					<h4 class="item-box__title ta_left">溶接閉鎖型フープ筋の採用</h4>
-					<p class="text text_small">「グランファーレ真駒内フォレスト」では、耐震性を高めるため柱の帯筋（フープ筋）を溶接閉鎖型としています。従来の普通筋によるフック付きフープ筋ではなく、溶接閉鎖型で継ぎ目が無く、大地震の際に柱を押しつぶそうとする力に対して、柱が膨らまないようコルセットのように働き、強力に抵抗します。</p>
-				</div>
-			</li>
-			<li class="box box_2">
-				<picture class="item-box__photo">
-					<img src="../assets/svg/eco/construction/sec2_3.svg" alt="地震や火災に強いRC（鉄筋コンクリート）構造溶接閉鎖型筋（帯筋）">
-				</picture>
-				<div class="right-box">
-					<h4 class="item-box__title ta_left">地震や火災に強いRC<br>（鉄筋コンクリート）<br>構造溶接閉鎖型筋（帯筋）</h4>
-					<p class="text text_small">「グランファーレ真駒内フォレスト」で採用されているRC構造は、引っ張られる力に強い「鉄」と、押される力に強い「コンクリート」との互いの長所を組み合わせて粘り強く強度を保ちます。また酸化すると錆びてしまう鉄をアルカリ性のコンクリートがしっかりとくるんでいます。このように鉄とコンクリートの特性を巧みに組み合わせたRC造の建物は、耐火・耐震に優れた耐久性の高い堅牢な構造物です。また柱の帯筋には、鉄筋をあらかじめ溶接して繋ぎ合わせた溶接閉鎖型筋。地震の横揺れに対して柱が粘りを持ち、高い耐震性を発揮します。</p>
-				</div>
-			</li>
-			<li class="box box_2">
-				<picture class="item-box__photo">
 					<source media="(min-width: 768px)" srcset="../assets/svg/eco/construction/sec2_4_pc.svg">
-					<img src="../assets/svg/eco/construction/sec2_4_sp.svg" alt="二重に鉄筋を配したダブル配筋で高い構造強度">
+					<img src="../assets/svg/eco/construction/sec2_4_sp.svg" alt="二重に鉄筋を配したダブル配筋で高い構造強度" class="">
 				</picture>
 				<div class="right-box">
 					<h4 class="item-box__title ta_left">二重に鉄筋を配したダブル配筋で高い構造強度</h4>
@@ -49,18 +30,26 @@
 			</li>
 			<li class="box box_2">
 				<picture class="item-box__photo">
-					<source media="(min-width: 768px)" srcset="../assets/webp/eco/construction/sec2_5.webp">
-					<img src="../assets/img/eco/construction/sec2_5.png" alt="綿密な地質調査から安定した直接基礎構造">
+					<img src="../assets/svg/eco/construction/sec2_5.svg" alt="柱状地盤改良工法">
 				</picture>
 				<div class="right-box">
-					<h4 class="item-box__title ta_left">綿密な地質調査から安定した直接基礎構造</h4>
-					<p class="text text_small">支持地盤が深さ約1.3mと比較的浅い、非常に良好な地層に位置しています。建物の基礎は深さ2.25mにてＮ値50以上の硬い地盤（支持層）で建物を支える直接基礎を採用しています。建物直下で面的に建物を支える安定した基礎構造です。</p>
+					<h4 class="item-box__title ta_left">柱状地盤改良工法</h4>
+					<p class="text text_small">支持地盤が深い場合、基礎部分のみを単純に深くすることがありますが、建物構造上は不経済になりがちです。グランファーレ東札幌プレイスコートでは、支持層まで杭状（柱状）地盤改良を行い、長期に建物の重さを伝えて、建物の安定に寄与するという最新の工法を採用しています。</p>
 				</div>
 			</li>
 			<li class="box box_2">
 				<picture class="item-box__photo">
 					<source type="image/webp" srcset="../assets/webp/eco/construction/sec2_6.webp">
-					<img src="../assets/img/eco/construction/sec2_6.jpg" alt="遮音性に配慮した排水竪管とパイプスペース廻り" class="">
+					<img src="../assets/img/eco/construction/sec2_6.jpg" alt="建設現場での品質管理">
+				</picture>
+				<div class="right-box">
+					<h4 class="item-box__title ta_left">建設現場での品質管理</h4>
+					<p class="text text_small">〈高品質の維持のために〉<br>完成してしまうとコンクリートの品質の良し悪しは外見からではわかりません。そこで大切なのが建設現場での品質管理です。基礎工事の段階から監理者による、配筋の確認等の各種検査、受入検査や圧縮強度試験等の試験結果の確認など厳しいチェックを実施。目に見えない部分の品質の維持に努めています。</p>
+				</div>
+			</li>
+			<li class="box box_2">
+				<picture class="item-box__photo">
+					<img src="../assets/img/eco/construction/sec2_15.jpg" alt="遮音性に配慮した排水竪管とパイプスペース廻り">
 				</picture>
 				<div class="right-box">
 					<h4 class="item-box__title ta_left">遮音性に配慮した排水竪管とパイプスペース廻り</h4>
@@ -69,23 +58,12 @@
 			</li>
 			<li class="box box_2">
 				<picture class="item-box__photo">
-					<source media="(min-width: 768px)" srcset="../assets/svg/eco/construction/sec2_7_pc.svg">
-					<img src="../assets/svg/eco/construction/sec2_7_sp.svg" alt="鉄筋コンクリートの劣化対策">
-				</picture>
-				<div class="right-box">
-					<h4 class="item-box__title ta_left">鉄筋コンクリートの劣化対策</h4>
-					<p class="text text_small">コンクリートの中性化が極度に進むと、中の鉄筋が錆びて体積が増し、コンクリートを押出してついには構造躯体の破損を招きます。この躯体の劣化を防ぐには、コンクリートの水セメント比の設定と「かぶり厚さ」（鉄筋を包むコンクリートの厚さ）の確保が有効な方策です。「グランファーレ真駒内フォレスト」では、住宅性能評価最上級の等級3に該当する水セメント比50％と別表にあるかぶり厚さを確保して、劣化対策を施しています。</p>
-				</div>
-			</li>
-
-			<li class="box box_2">
-				<picture class="item-box__photo">
 					<source media="(min-width: 768px)" srcset="../assets/svg/eco/construction/sec2_8_pc.svg">
 					<img src="../assets/svg/eco/construction/sec2_8_sp.svg" alt="強度コンクリートの供用限界100年">
 				</picture>
 				<div class="right-box">
 					<h4 class="item-box__title ta_left">強度コンクリートの供用限界100年</h4>
-					<p class="text text_small">「グランファーレ真駒内フォレスト」ではコンクリートの耐久設計基準強度24N／㎟以上を採用しています。これは、1㎡で2400トンもの圧縮力に耐える強度を表し、構造体の大規模補修なしで約65年、大規模な補修が必要となる供用限界期間として約100年の耐久性が認められています。別項のかぶり厚さの確保と相乗して、建物の長寿命化を図っています。また、コンクリートの劣化を大きく左右する水セメント比を50％以下に設定し、コンクリートの収縮と中性化の進行を低く抑えています。</p>
+					<p class="text text_small">「グランファーレ東札幌プレイスコート」ではコンクリートの耐久設計基準強度24N／mm2以上を採用しています。これは、1㎡で2400トンもの圧縮力に耐える強度を表し、構造体の大規模補修なしで約65年、大規模な補修が必要となる供用限界期間として約100年の耐久性が認められています。別項のかぶり厚さの確保と相乗して、建物の長寿命化を図っています。</p>
 				</div>
 			</li>
 			<li class="box box_full">
@@ -96,31 +74,52 @@
 				<div class="right-box">
 					<h4 class="item-box__title ta_left">コンクリート躯体の保護対策</h4>
 					<div class="text-wrapper">
-						<p class="text text_small">①タイルによるコンクリートのガード。（一部）コンクリートは風雨にさらされると、化学反応で中の鉄筋が錆びてしまい躯体の劣化を招きます。「グランファーレ真駒内フォレスト」で採用されている外壁の磁器質タイルや吹付タイルはコンクリート躯体をしっかりガードし、寿命を延ばす重要な役目を担っています。</p>
-						<p class="text text_small">②誘発目地によるひび割れ対策。<br>外壁の要所にはあらかじめ躯体に目地を入れて、熱による外壁の収縮によるひび割れを誘発させて、その他の部分でのひび割れを抑制します。この誘発目地部分はシーリング材が打たれ、漏水による事故を未然に防ぎます。</p>
-						<p class="text text_small">③開口部のクラック防止補強と外壁の増打。「グランファーレ真駒内フォレスト」では、もっとも構造クラックの発生し易い開口部の4隅に補強筋を充分に入れると共に、外壁部分はすべて建築基準法の基準よりコンクリートを10mm以上厚く増し打ちして耐久性の向上を図っています。</p>
+						<p class="text text_small">①タイルによるコンクリートのガード。（一部）コンクリートは風雨にさらされると、化中の鉄筋が錆びてしまい躯体の劣化を招きます。「グランファーレ東札幌プレイスコート」で採用されている外壁の磁器質タイルや吹付タイルはコンクリート躯体をしっかりガードし、寿命を延ばす重要な役目を担っています。</p>
+						<p class="text text_small">②誘発目地によるひび割れ対策。外壁の要所にはあらかじめ躯体に目地を入れて、熱による外壁の収縮によるひび割れを誘発させて、その他の部分でのひび割れを抑制します。この誘発目地部分はシーリング材が打たれ、漏水による事故を未然に防ぎます。</p>
+						<p class="text text_small">③開口部のクラック防止補強と外壁の増打。「グランファーレ東札幌プレイスコート」では、もっとも構造クラックの発生し易い開口部の4隅に補強筋を充分に入れると共に、外壁部分はすべて建築基準法の基準よりコンクリートを10mm以上厚く増し打ちして耐久性の向上を図っています。</p>
 					</div>
 				</div>
 			</li>
 			<li class="box box_2">
 				<picture class="item-box__photo">
-					<source media="(min-width: 768px)" srcset="../assets/svg/eco/construction/sec2_10_pc.svg">
-					<img src="../assets/svg/eco/construction/sec2_10_sp.svg" alt="外壁部分（内壁）は、高い断熱・結露対策のGL工法を採用">
+					<img src="../assets/svg/eco/construction/sec2_11.svg" alt="遮音性に優れた直貼フローリング+スラブ工法">
+				</picture>
+				<div class="right-box">
+					<h4 class="item-box__title item-box__title_max ta_left">遮音性に優れた直貼フローリング+スラブ工法</h4>
+					<p class="text text_small">「グランファーレ東札幌プレイスコート」では、厚さ約180mm以上のスラブを採用しました。小梁を設けずことにより振動が発生しにくくなっております。また、遮音性の高いフローリングと組み合わせる事で快適さを高めています。</p>
+				</div>
+			</li>
+
+			<li class="box box_2">
+				<picture class="item-box__photo">
+					<source media="(min-width: 768px)" srcset="../assets/svg/eco/construction/sec2_12_pc.svg">
+					<img src="../assets/svg/eco/construction/sec2_12_sp.svg" alt="外壁部分（内壁）は、高い断熱・結露対策のGL工法を採用">
 				</picture>
 				<div class="right-box">
 					<h4 class="item-box__title item-box__title_max ta_left">外壁部分（内壁）は、高い断熱・結露対策のGL工法を採用</h4>
-					<p class="text text_small">外壁は寒気・熱気を遮断する二重構造のGL工法を採用しています。外壁に面する内壁には、厚さ60mmの硬質発泡ウレタンフォームを施工し、最下階スラブ下には厚さ60mmの硬質発泡ウレタンフォームを吹き付けることで断熱対策を施しています。また、配管等のメンテナンスに配慮した地下ピットの採用は、地面からの湿気等による影響を受けやすい最下階スラブが直接土に接しないため、断熱性能を高めるうえでも効果を発揮します。</p>
+					<p class="text text_small">「グランファーレシリーズ」の外壁は寒気・熱気を遮断する二重構造のGL工法を採用しています。外壁に面する内壁には、厚さ60mmの硬質発泡ウレタンフォームを施工し、最下階スラブ下には厚さ50mmの硬質発泡ウレタンフォームを吹き付けることで断熱対策を施しています。また、配管等のメンテナンスに配慮した地下ピットの採用は、地面からの湿気等による影響を受けやすい最下階スラブが直接土に接しないため、断熱性能を高めるうえでも効果を発揮します。太陽の熱に常時さらされることで、より高い断熱性能が求められる屋根スラブ下には、厚さ60㎜の発砲ウレタンを施しています。（一部）</p>
 				</div>
 			</li>
 			<li class="box box_2">
 				<picture class="item-box__photo">
-					<img src="../assets/svg/eco/construction/sec2_11.svg" alt="地下ピットの断熱">
+					<img src="../assets/svg/eco/construction/sec2_13.svg" alt="地下ピットの断熱">
 				</picture>
 				<div class="right-box">
 					<h4 class="item-box__title ta_left">地下ピットの断熱</h4>
 					<p class="text text_small">土から冷気等もシャットアウトするために最下階の床のスラブ（コンクリート）の下にも、ポリスチレン系断熱材などを採用。断熱効果を高めるとともに、結露対策としても効果を発揮します。また、最下階のスラブ下と地面の間には、配管等のメンテナンスのための地下ピット空間があるため、土からの湿気などの影響を直接受けにくくなっています。</p>
 				</div>
 			</li>
+			<li class="box box_2">
+				<picture class="item-box__photo">
+					<source media="(min-width: 768px)" srcset="../assets/svg/eco/construction/sec2_14_pc.svg">
+					<img src="../assets/svg/eco/construction/sec2_14_sp.svg" alt="屋上の外断熱">
+				</picture>
+				<div class="right-box">
+					<h4 class="item-box__title item-box__title_max ta_left">屋上の外断熱</h4>
+					<p class="text text_small">屋上は、建物の部分で最も直射日光・雨水・雪の影響を受けやすく、過酷な気象条件にさらされています。そこで外気の影響から守るために、屋上スラブコンクリートの上を優れた断熱性能ある材料で覆って、躯体の劣化の軽減に努めています。最上階は、断熱材を屋上のコンクリートスラブの外側に50mm、その上に、アスファルト防水を施した外断熱方式を採用。屋上外断熱方式は防水性、耐久性、耐紫外線性、遮熱性、省エネルギー性に優れたシステムです。さらに、室内の天井は二重とし、コンクリート下は約60mmの断熱材を設けるW断熱方式も採用でさらに断熱性を高めています。</p>
+				</div>
+			</li>
+
 		</ul>
 	</div><!-- /.sec2 -->
 	<div class="tab-section">

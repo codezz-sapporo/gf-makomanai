@@ -34,6 +34,7 @@
             <li class="one_tab js-tab-switch" data-tab="tab-4">フィットネスジム</li>
             <li class="one_tab js-tab-switch" data-tab="tab-5">スカイガーデン</li>
             <li class="one_tab js-tab-switch" data-tab="tab-6">ペット対応</li>
+            <li class="one_tab js-tab-switch" data-tab="tab-7">ピットインガレージ</li>
           </ul>
         </div>
 
@@ -63,6 +64,10 @@
           <?php
             include_once('pet.php');
           ?>
+          <?php
+            include_once('garage.php');
+          ?>
+
         </div><!--contents-->
 
         <!-- ▼Tab under▼ -->
@@ -74,6 +79,7 @@
             <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-4">フィットネスジム</li>
             <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-5">スカイガーデン</li>
             <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-6">ペット対応</li>
+            <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-7">ピットインガレージ</li>
           </ul>
 
         </div>

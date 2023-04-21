@@ -23,8 +23,8 @@
 				<div class="clearfix sky__flex">
 					<p class="sky__photo">
 						<picture>
-							<source type="image/webp" srcset="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/webp/entrance/sky/sec3_img1.webp">
-							<img src="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/img/entrance/sky/sec3_img1.jpg" alt="屋上バーベキューコーナーの使用状況の｢確認｣と｢予約｣をスマートフォンから行えるサービス" class="">
+							<source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/sky/sec3_img1.webp">
+							<img src="<?php print URL; ?>/assets/img/entrance/sky/sec3_img1.jpg" alt="屋上バーベキューコーナーの使用状況の｢確認｣と｢予約｣をスマートフォンから行えるサービス" class="">
 						</picture>
 					</p>
 					<div class="sky__text">
@@ -37,8 +37,8 @@
 				<div class="clearfix sky__flex sky__flex_reverse">
 					<p class="sky__photo">
 						<picture>
-							<source type="image/webp" srcset="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/webp/entrance/sky/sec3_img2.webp">
-							<img src="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/img/entrance/sky/sec3_img2.jpg" alt="光の南欧風ガーデン" class="">
+							<source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/sky/sec3_img2.webp">
+							<img src="<?php print URL; ?>/assets/img/entrance/sky/sec3_img2.jpg" alt="光の南欧風ガーデン" class="">
 						</picture>
 					</p>
 					<div class="left sky__text">
@@ -51,10 +51,10 @@
 		<div class="sec4 sky">
 			<p class="photo">
 				<picture>
-					<source media="(min-width: 768px)" type="image/webp" srcset="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/webp/entrance/sky/sec4_img_pc.webp">
-					<source media="(min-width: 768px)" type="image/jpeg" srcset="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/img/entrance/sky/sec4_img_pc.jpg">
-					<source type="image/webp" srcset="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/webp/entrance/sky/sec4_img_sp.webp">
-					<img src="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/img/entrance/sky/sec4_img_sp.jpg" alt="家族と友人と楽しむ、バーベキューコーナー。" class="">
+					<source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/sky/sec4_img_pc.webp">
+					<source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/img/entrance/sky/sec4_img_pc.jpg">
+					<source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/sky/sec4_img_sp.webp">
+					<img src="<?php print URL; ?>/assets/img/entrance/sky/sec4_img_sp.jpg" alt="家族と友人と楽しむ、バーベキューコーナー。" class="">
 				</picture>
 			</p>
 			<h3 class="sky__title ta_c">家族と友人と楽しむ、<br class="sp">バーベキューコーナー。</h3>
@@ -70,8 +70,8 @@
 							<dd class="green-unit__text text">春の季節、若葉の下に壺型の白い花が吊り下げたようにつきます。秋には紅葉が大変に美しく、庭園など広く用いられています。</dd>
 							<dd class="green-unit__photo">
 								<picture>
-									<source type="image/webp" srcset="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/webp/entrance/sky/sec5_1_img.webp">
-									<img src="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/img/entrance/sky/sec5_1_img.jpg" alt="ドウダンツツジ" class="">
+									<source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/sky/sec5_1_img.webp">
+									<img src="<?php print URL; ?>/assets/img/entrance/sky/sec5_1_img.jpg" alt="ドウダンツツジ" class="">
 								</picture>
 							</dd>
 						</dl>
@@ -82,8 +82,8 @@
 							<dd class="green-unit__text text">サツキツツジ（皐月躑躅）などとも呼ばれており、生け垣や道路の植え込みなど、多く用いられています。</dd>
 							<dd class="green-unit__photo">
 								<picture>
-									<source type="image/webp" srcset="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/webp/entrance/sky/sec5_2_img.webp">
-									<img src="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/img/entrance/sky/sec5_2_img.jpg" alt="サツキ" class="">
+									<source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/sky/sec5_2_img.webp">
+									<img src="<?php print URL; ?>/assets/img/entrance/sky/sec5_2_img.jpg" alt="サツキ" class="">
 								</picture>
 							</dd>
 						</dl>
@@ -97,8 +97,8 @@
 				<p class="text">屋上緑化は都市の環境改善効果だけでなく、建築物の保護や人間の心理に及ぼす効果があります。屋上緑化は景観の向上や園芸セラピー、最近ではエコロジーの多方面で発揮されています。特に、ヒートアイランド現象の緩和効果に加え、断熱効果における冷暖房効率が高まることによるCO2排出量の削減効果があります。また、最上階への照り返し防止や大気の浄化などがあげられます。</p>
 			</div>
 			<picture class="sky__photo">
-				<source type="image/webp" srcset="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/webp/entrance/sky/sec6_img.webp">
-				<img src="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/img/entrance/sky/sec6_img.jpg" alt="地球と暮らしにやさしい屋上緑化の効果。" class="">
+				<source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/sky/sec6_img.webp">
+				<img src="<?php print URL; ?>/assets/img/entrance/sky/sec6_img.jpg" alt="地球と暮らしにやさしい屋上緑化の効果。" class="">
 			</picture>
 		</div>
 		<div class="sec7 sky sky_flex">
@@ -107,8 +107,8 @@
 				<p class="text">四季折々、夜は屋上庭園「スカイガーデン」で天体観測が楽しめます。夏は大三角形と呼ばれるデネブ、ベガ、アルタイルをはじめ、星々が輝き始め、夜空の星を見ているとロマンや夢が広がります。</p>
 			</div>
 			<picture class="sky__photo">
-				<source type="image/webp" srcset="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/webp/entrance/sky/sec7_img.webp">
-				<img src="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/img/entrance/sky/sec7_img.jpg" alt="スカイガーデンで天体観測。子供たちと満天の星空を。" class="">
+				<source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/sky/sec7_img.webp">
+				<img src="<?php print URL; ?>/assets/img/entrance/sky/sec7_img.jpg" alt="スカイガーデンで天体観測。子供たちと満天の星空を。" class="">
 			</picture>
 		</div>
 	</section>

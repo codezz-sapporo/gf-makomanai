@@ -780,3 +780,8 @@
     width: calc((100% - 60px) / 4);
   }
 }
+
+/* ピットインガレージ */
+.title-h2_garage::before {
+  content: "PIT IN GARAGE";
+}

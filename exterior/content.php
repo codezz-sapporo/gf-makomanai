@@ -1,96 +1,118 @@
 <section class="tab_main js-tab-cts is-active" data-tab="tab-1">
-    <div class="exterior__section">
-        <div class="exterior__flex-wrapper exterior__flex-wrapper_01">
-            <picture class="exterior__photo exterior__photo_01 zoomInTrigger">
-                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-01.webp">
-                <img src="<?php print URL; ?>/assets/img/exterior/img-01.jpg" alt="外観" class="">
-            </picture>
-            <div class="exterior__text-area exterior__text-area_01">
-                <p class="exterior__lead">ヨーロッパの感性が息づく<br class="br_lead">欧風デザインの美。</p>
-                <p class="text exterior__text">ヨーロッパ建築のもつ様式美や普遍性、品格を継承し、さらに独自の発想と技術で新しい居住スタイルを創造すること。私たちがお届けする「グランファーレ真駒内フォレスト」には、常にこのコンセプトが息づき、ヨーロッパ建築のデザイン・モチーフが活かされています。外観の一部にはカラータイルを施し建物の表情にさらなる深みをプラス。タイル貼りは見た目に高級感があり、耐久性にも優れているため年数が経っても色褪せることなく、美しさを保ち続けます。デザイン性の高さが冴えるファサードには天然御影石を採用。素材の織り成す外観美が住まう方を迎え、シャープなフォルムが上空に向かって伸びていく姿は此処に住む誇りを十分に体現しています。</p>
+    <h2 class="title-h2 title-h2_exterior fadeUpTrigger">エクステリア</h2>
+    <section class="tab-section tab-section_column european-grace">
+        <h2 class="european-grace__h2 flipRightTrigger">
+          <picture class="european-grace__photo">
+            <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-01_pc.webp">
+            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-01_sp.webp">
+            <source media="(min-width: 768px)" type="image/png" srcset="<?php print URL; ?>/assets/img/exterior/img-01_sp.png">
+            <img src="<?php print URL; ?>/assets/img/exterior/img-01_sp.png" alt="european grace" class="european-grace__img">
+          </picture>
+        </h2>
+        <p class="text european-grace__text fadeUpTrigger">
+          ヨーロッパの伝統的な建築物の内部に足を踏み入れると、そこに漂うのは凛とした空気。それを大切にしたくて、意匠のディティールにはヨーロピアンテイストを随所に散りばめました。ヨーロッパの優れた建造物が多くの人を魅了するのは、意匠に対する理想と思想に妥協を許さず、時代性や文化、伝統の先進性を意識しつつ、環境にも配慮したデザインが背景にあるからです。
+        </p>
+    </section>
+    <section class="tab-section">
+        <div class="massege-photo-wapper lineTrigger">
+            <div class="line2">
+                <picture class="massege-photo blurTrigger_02">
+                    <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-02.webp">
+                    <img src="<?php print URL; ?>/assets/img/exterior/img-02.jpg" alt="ヨーロッパの完成が息づく迎賓の思想。それは宮殿のような聖なる邸宅。" class="massege-photo__img">
+                </picture>
             </div>
         </div>
-    </div>
-    <div class="exterior__section">
-        <div class="exterior__flex-wrapper">
-            <picture class="exterior__photo exterior__photo_02 zoomInTrigger">
-                <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-02-01_pc.webp">
-                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-02-01_sp.webp">
-                <source media="(min-width: 768px)" srcset="<?php print URL; ?>/assets/webp/exterior/img-02-01_pc.jpg">
-                <img src="<?php print URL; ?>/assets/img/exterior/img-02-01_sp.jpg" alt="外観" class="">
+        <div class="intro intro_massage fadeUpTrigger delay-time06">
+            <p class="section__lead">欧風建築の美学を求めて。<br>迎賓と安らぎの日常へ、ようこそ。</p>
+            <p class="text">
+                そこに、想像を遥かに超える別世界が幕を開けようとしています。<br>
+                ご提案するのは、時を越え、誇りの象徴であり続ける頂の地。<br>
+                時とともに輝きを増す家族の日々。時を経ても色あせることのない開放感。<br>
+                そして、ここにしか流れない時間と、ここだから手に入る贅沢なまでのゆとり。
+            </p>
+        </div>
+    </section>
+    <section class="tab-section euro-arch">
+        <h2 class="section__lead section__lead_euro-arch fadeUpTrigger">欧風建築の美学をこの地に再現。</h2>
+        <picture class="euro-arch__photo rotateYTrigger">
+          <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-06.webp">
+          <img src="<?php print URL; ?>/assets/img/exterior/img-06.jpg" alt="欧風建築の美学をこの地に再現。" class="euro-arch__photo-img">
+        </picture>
+        <p class="text euro-arch__text fadeUpTrigger">外観は、太陽や青空に映え、周囲の街並みとも美しく調和するブラウン調の磁器質タイルをベースにし、グレーカラーで上質なアクセントを加えました。建物の随所に、ヨーロッパ建築のデザイン・モチーフが活かされていることも大きな特徴。時代の流れに磨かれて、なお輝きを増していくヨーロッパの建築物。その根底には、建築は街の景観美を創造することであるという確固とした思想が息づいています。</p>
+        <ul class="euro-arch__photo-list">
+          <li class="euro-arch__item fadeInTrigger">
+            <picture>
+              <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/ea-01.webp">
+              <img src="<?php print URL; ?>/assets/img/exterior/ea-01.jpg" alt="欧風建築イメージ画像" class="euro-arch__photo-img">
             </picture>
-            <div class="exterior__text-area exterior__text-area_02 ">
-                <p class="exterior__lead exterior__lead_02">洗練された意匠と快適性を求めた<br class="br_lead">まるでホテルのようなマンション。</p>
-                <div class="exterior__float-area">
-                    <div class="space"></div>
-                    <picture class="exterior__float-photo zoomInTrigger">
-                        <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-02-02.webp">
-                        <img src="<?php print URL; ?>/assets/img/exterior/img-02-02.png" alt="外観" class="">
-                    </picture>
-                    <p class="text exterior__float-text">この地を選び、四季の自然と共生し、ともに高め合う存在であるために。外観フォルムには、そんな住まいの在り方の予感が潜んでいます。「グランファーレ真駒内フォレスト」ではイタリア「ミラノ」で人気の4つ星リゾートホテルをモチーフにクラシカルな雰囲気を創出しました。格調漂う高品位レジデンス。住むことによってブランドが生まれ、そして癒される空間環境。日々育まれていくコミュニティも、心地よい生活のリズムとなることでしょう。</p>
-                </div>
+          </li>
+          <li class="euro-arch__item fadeInTrigger delay-time03">
+            <picture>
+              <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/ea-02.webp">
+              <img src="<?php print URL; ?>/assets/img/exterior/ea-02.jpg" alt="欧風建築イメージ画像" class="euro-arch__photo-img">
+            </picture>
+          </li>
+          <li class="euro-arch__item fadeInTrigger delay-time04">
+            <picture>
+              <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/ea-03.webp">
+              <img src="<?php print URL; ?>/assets/img/exterior/ea-03.jpg" alt="欧風建築イメージ画像" class="euro-arch__photo-img">
+            </picture>
+          </li>
+          <li class="euro-arch__item fadeInTrigger delay-time05">
+            <picture>
+              <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/ea-04.webp">
+              <img src="<?php print URL; ?>/assets/img/exterior/ea-04.jpg" alt="欧風建築イメージ画像" class="euro-arch__photo-img">
+            </picture>
+          </li>
+          <li class="euro-arch__item fadeInTrigger delay-time06">
+            <picture>
+              <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/ea-05.webp">
+              <img src="<?php print URL; ?>/assets/img/exterior/ea-05.jpg" alt="欧風建築イメージ画像" class="euro-arch__photo-img">
+            </picture>
+          </li>
+          <li class="euro-arch__item fadeInTrigger delay-time07">
+            <picture>
+              <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/ea-06.webp">
+              <img src="<?php print URL; ?>/assets/img/exterior/ea-06.jpg" alt="欧風建築イメージ画像" class="euro-arch__photo-img">
+            </picture>
+          </li>
+          <li class="euro-arch__item fadeInTrigger delay-time08">
+            <picture>
+              <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/ea-07.webp">
+              <img src="<?php print URL; ?>/assets/img/exterior/ea-07.jpg" alt="欧風建築イメージ画像" class="euro-arch__photo-img">
+            </picture>
+          </li>
+          <li class="euro-arch__item fadeInTrigger delay-time09">
+            <picture>
+              <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/ea-08.webp">
+              <img src="<?php print URL; ?>/assets/img/exterior/ea-08.jpg" alt="欧風建築イメージ画像" class="euro-arch__photo-img">
+            </picture>
+          </li>
+        </ul>
+        <div class="section__inner-wrapper">
+          <section class="euro-arch__section">
+            <picture class="euro-arch__section-photo fadeLeftTrigger">
+              <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-07.webp">
+              <img src="<?php print URL; ?>/assets/img/exterior/img-07.jpg" alt="お届けしたいのは、ヨーロッパ建築の伝統が香るアーティスティックなデザイン。" class="euro-arch__photo-img">
+            </picture>
+            <div class="euro-arch__text-area fadeRightTrigger">
+              <h3 class="title-h3">お届けしたいのは、<br>
+                ヨーロッパ建築の伝統が香る<br>
+                アーティスティックなデザイン。</h3>
+              <p class="text">ヨーロッパ建築の持つ様式美や普遍性、品格を継承し、さらに独自の発想と技術で、新しい居住スタイルを創造すること。私たちがお届けする「グランファーレ真駒内グランフォレスト」には、常にこのコンセプトが息づいています。合理性や流行だけに左右されず、都市景観と融合する上質な美しさを、その佇まいは雄弁に語ります。</p>
             </div>
-        </div>
-        <div class="exterior__inner exterior__inner_02">
-            <picture class="exterior__inner-photo zoomInTrigger">
-                <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-02-03_pc.webp">
-                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-02-03_sp.webp">
-                <source media="(min-width: 768px)" srcset="<?php print URL; ?>/assets/webp/exterior/img-02-03_pc.png">
-                <img src="<?php print URL; ?>/assets/img/exterior/img-02-03_sp.png" alt="外観" class="">
+          </section>
+          <section class="euro-arch__section">
+            <picture class="euro-arch__section-photo fadeRightTrigger">
+              <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-08.webp">
+              <img src="<?php print URL; ?>/assets/img/exterior/img-08.jpg" alt="格調とモダンが調和する憧憬邸宅。" class="euro-arch__photo-img">
             </picture>
-            <div class="exterior__inner-text-area">
-                <p class="exterior__lead exterior__lead_inner">COLLABORATE WITH ITALY</p>
-                <p class="text exterior__text">何百年の時を経ても色褪せることのない、ヨーロッパの伝統的な建築技法。イタリア・フィレンツェではルネサンス様式が、フランス・パリといえばバロック様式などが、今の時代でも美しい街並みを魅せています。その美しさを求め、屋上に設けたカリヨン（釣り鐘塔）のようなドームや、アンティーク飾りなどでヨーロッパ建築の優美さを忠実に再現しました。</p>
+            <div class="euro-arch__text-area fadeLeftTrigger">
+              <h3 class="title-h3">格調とモダンが調和する憧憬邸宅。</h3>
+              <p class="text">伝統を感じさせる作品は、時代を超えてもなお、その輝きを増すもの。そして、いつの時代においても瑞々しい感性と響き合う。この歴史ある「真駒内」の地に立つ「グランファーレ真駒内グランフォレスト」は、どこまでも気高く、いつまでも愛され続ける住まいを目指します。</p>
             </div>
+          </section>
         </div>
-    </div>
-    <div class="exterior__section">
-        <div class="exterior__flex-wrapper exterior__flex-wrapper_03">
-            <picture class="exterior__photo exterior__photo_03 zoomInTrigger">
-                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-03-01.webp">
-                <img src="<?php print URL; ?>/assets/img/exterior/img-03-01.jpg" alt="外観" class="">
-            </picture>
-            <div class="exterior__text-area exterior__text-area_03">
-                <p class="exterior__lead">美しい外観デザインと贅を尽くした佇まい。次代とともに語られる邸を。</p>
-                <p class="text exterior__text">周囲の街並みとの調和を図りながら、独自の個性を発揮し、街のランドマークとなり得る、洗練された美しさとセンス。それが、私たちが目指した外観デザインに対する美意識です。周辺の環境と美しく調和するカラーを用い、直線的なフォルムに丸みのあるドームを巧みに取り入れた意匠に対し、アーティスティックなその表情は集合住宅にありがちな画一的な構成を避けて、いつまでも新鮮な感動を与えてくれます。</p>
-            </div>
-        </div>
-        <div class="exterior__inner exterior__inner_03">
-            <picture class="exterior__inner-photo zoomInTrigger">
-                <source media="(min-width: 1050px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-03-02_pc.webp">
-                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-03-02_sp.webp">
-                <source media="(min-width: 1050px)" srcset="<?php print URL; ?>/assets/webp/exterior/img-03-02_pc.png">
-                <img src="<?php print URL; ?>/assets/img/exterior/img-03-02_sp.png" alt="外観" class="">
-            </picture>
-            <p class="text exterior__text exterior__text_03">流行を追うのではなく、ディティールに至るまで本物の上質を追求し、いつの時代にも人々を魅了してきたヨーロピアンテイストのデザインの数々。その欧風美学の真髄を取り入れた「グランファーレ真駒内フォレスト」は永住を考える方々へ捧げる確かな結論となるはずです。</p>
-        </div>
-    </div>
-    <div class="exterior__section">
-        <div class="exterior__flex-wrapper exterior__flex-wrapper_04">
-            <picture class="exterior__photo exterior__photo_04 zoomInTrigger">
-                <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-04_pc.webp">
-                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-04_sp.webp">
-                <source media="(min-width: 768px)" srcset="<?php print URL; ?>/assets/webp/exterior/img-04_pc.jpg">
-                <img src="<?php print URL; ?>/assets/img/exterior/img-04_sp.jpg" alt="外観" class="">
-            </picture>
-            <div class="exterior__text-area exterior__text-area_04">
-                <p class="exterior__lead">ヨーロッパの様式美を継承する、<br class="br_lead">新たな居住スタイルの創造。</p>
-                <p class="text exterior__text">ヨーロッパの伝統的な建築物の内部に足を踏み入れると、そこに漂うのは凛とした空気。それを大切にしたくて、意匠のディティールにはヨーロピアンテイストを随所に散りばめました。ヨーロッパの優れた建築物が多くの人を魅了するのは、意匠に対する理想と思想に妥協を許さず、時代性や文化、伝統や先進性を意識しつつ、環境にも配慮したデザインが背景にあるからです。</p>
-            </div>
-        </div>
-    </div>
-    <div class="exterior__section">
-        <div class="exterior__flex-wrapper">
-            <picture class="exterior__photo zoomInTrigger">
-                <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-05_pc.webp">
-                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/exterior/img-05_sp.webp">
-                <source media="(min-width: 768px)" srcset="<?php print URL; ?>/assets/webp/exterior/img-05_pc.jpg">
-                <img src="<?php print URL; ?>/assets/img/exterior/img-05_sp.jpg" alt="外観" class="">
-            </picture>
-            <div class="exterior__text-area exterior__text-area_05">
-                <p class="exterior__lead">天空の爽快感を愉しみ、<br class="br_lead">眺望を享受する卓越したフォルム。</p>
-                <p class="text exterior__text">この地の恵みと空の広がりを体現すべく、のびやかにそびえるレジデンス。景観デザインにもこだわり、蒼く澄んだ空に映えるような外観タイルの色合いをはじめ、バルコニーのガラス手摺やマリオン（飾り柱）の配列まで細やかに配慮しました。閑静な住宅街に、モダンで格調ある街並景観を描きだしています。</p>
-            </div>
-        </div>
-    </div>
+    </section>
+
 </section>

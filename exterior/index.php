@@ -23,18 +23,42 @@
                 <img src="<?php print URL; ?>/assets/img/exterior/mv_sp.jpg" alt="エクステリア" class="mainvisual__img">
             </picture>
         </h1>
+        <div class="mainvisual-text-area mainvisual-text-area_exterior fadeInTrigger_slow02 delay-time05">
+          <p class="mainvisual-large-lead mainvisual-large-lead_exterior">THE CONFIDENCE</p>
+          <p class="mainvisual-lead mainvisual-lead_exterior">ここでしかできない暮らしがあります。</p>
+        </div>
+
         <p class="mainvisual-title mainvisual-title_exterior fadeInTrigger delay-time03"><span class="title-text">エクステリア</span></p>
     </div>
 
 
-    <div class="tab-area tab-area_sub">
+    <div class="tab-area tab-area_exterior" id="intro">
+
+        <div class="tabBox">
+          <ul class="tab-list">
+            <li class="one_tab js-tab-switch is-active" data-tab="tab-1">エクステリア</li>
+            <li class="one_tab js-tab-switch" data-tab="tab-2">エントランス</li>
+          </ul>
+        </div>
+
 
         <div class="contents contents_exterior">
             <?php
             include_once('content.php');
-          ?>
+            ?>
+            <?php
+            include_once('entrance.php');
+            ?>
+
         </div>
 
+        <div class="tabBox">
+          <ul class="tab-list tab-list_bottom bottom">
+            <li class="one_tab js-tab-switch js-tab-switch_bottom is-active" data-tab="tab-1">エクステリア</li>
+            <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-2">エントランス</li>
+          </ul>
+
+        </div>
 
     </div>
 

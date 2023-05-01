@@ -1071,6 +1071,9 @@ figcaption {
   padding: 10px 10px 40px;
   margin-bottom: 80px;
 }
+.tab-section:last-of-type {
+  margin-bottom: 0;
+}
 .tab-area_sub .tab-section {
   max-width: 1008px;
   background-color: unset;
@@ -1084,9 +1087,9 @@ figcaption {
 .tab-section_intro {
   margin-bottom: 40px;
 }
-.tab_main .tab-section:last-child {
+/* .tab_main .tab-section:last-child {
   margin: 0 auto;
-}
+} */
 .tab_main:last-child {
   margin-bottom: 0;
 }
@@ -1348,4 +1351,34 @@ figcaption {
   line-height: 1.6;
   color: #747474;
   margin: 0 auto;
+}
+
+/* 赤ページmvテキスト */
+.mainvisual-text-area {
+  width: max-content;
+  font-weight: 500;
+  text-align: center;
+  color: #fff;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.mainvisual-large-lead {
+  display: block;
+  width: max-content;
+  font-size: 7vw;
+  line-height: 1;
+  font-family: "Cinzel", serif;
+  font-weight: 500;
+  margin: 0 auto 3.2vw;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.9);
+}
+@media (min-width: 768px) {
+  .mainvisual-large-lead {
+    font-size: 3.4722vw;
+    margin-bottom: 1.388vw;
+  }
+  .mainvisual-lead {
+    font-size: 1.736vw;
+  }
 }

@@ -636,6 +636,7 @@ html.hidden {
   font-size: 1.3rem;
   font-weight: 500;
   line-height: 2;
+  letter-spacing: 0.1em;
   text-align: center;
   color: #fff;
   border-bottom: #fff solid 1px;
@@ -651,72 +652,22 @@ html.hidden {
 
 .feature__item_normal {
   font-size: 2rem;
-  line-height: 1.4;
+  line-height: 1.5;
   color: #fffb97;
 }
 .feature__item_number {
   font-size: 3rem;
-  line-height: 0.95;
+  line-height: 1.1;
   font-family: "Playfair Display", "Noto Serif JP", serif;
   font-style: italic;
-  letter-spacing: 0.1em;
   font-weight: 700;
   color: #fffb97;
 }
 @media (min-width: 768px) {
   .feature {
-    padding: 20px 65px 30px;
-    margin-bottom: 150px;
-  }
-  .feature__logo-area {
-    margin: 0 auto 15px;
-  }
-  .feature__list {
-    width: 100%;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-  .feature__item {
-    width: 49%;
-    font-size: 1.6rem;
-    padding-top: 15px;
-    margin-bottom: 0;
-  }
-  .feature__item:first-of-type {
-    font-size: 1.4rem;
-  }
-  .feature__item:last-of-type {
-    width: 100%;
-  }
-
-  .feature__item_normal {
-    font-size: 2.2rem;
-    line-height: 1.4;
-  }
-  .ls-small {
-    letter-spacing: -0.09em;
-  }
-  .feature__item_number {
-    font-size: 3.5rem;
-    line-height: 0.95;
-    letter-spacing: 0.1em;
-  }
-}
-
-@media (min-width: 1000px) {
-  .feature {
-    padding: 20px 0;
     position: relative;
-  }
-  .feature__logo-area {
-    display: none;
-  }
-  .feature__list {
-    max-width: 1730px;
-    justify-content: center;
-    margin: 0 auto;
-    position: unset;
+    padding: 0 15px;
+    margin-bottom: 150px;
   }
   .feature::before {
     display: block;
@@ -731,34 +682,68 @@ html.hidden {
     transform: translate(-50%, -50%);
   }
 
+  .feature__logo-area {
+    margin: 0 auto 15px;
+  }
+  .feature__list {
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
   .feature__item {
+    width: calc(100% / 3);
+    font-size: calc((22 / 1440) * 100vw);
+    letter-spacing: unset;
+    border: none;
+    padding-top: 15px;
+    margin-bottom: 0;
+  }
+  .feature__item:nth-last-of-type(2),
+  .feature__item:last-of-type {
     width: max-content;
-    font-size: calc((16 / 1440) * 100vw);
+    margin: 0 10px;
+  }
+  .feature__item_normal {
+    font-size: calc((28 / 1440) * 100vw);
+  }
+  .ls-small {
+    letter-spacing: -0.09em;
+  }
+  .feature__item_number {
+    font-size: calc((50 / 1440) * 100vw);
+  }
+}
+
+@media (min-width: 1000px) {
+  .feature {
+    padding: 20px 0;
+  }
+  .feature__logo-area {
+    display: none;
+  }
+  .feature__list {
+    max-width: 1730px;
+    justify-content: center;
+    margin: 0 auto;
+    position: unset;
+  }
+
+  .feature__item {
     text-align: center;
     color: #fff;
-    border-bottom: none;
     padding: 0;
     margin-bottom: 30px;
   }
-  .feature__item:nth-of-type(2) {
-    margin: 0 4vw 30px;
-  }
   .feature__item:last-of-type {
-    width: max-content;
     margin-left: 2.5vw;
   }
   .feature__item:nth-last-of-type(2) {
-    width: max-content;
     border-bottom: none;
     margin: 0 2.5vw 0 0;
   }
 
-  .feature__item_normal {
-    font-size: calc((22 / 1440) * 100vw);
-  }
-  .feature__item_number {
-    font-size: calc((35 / 1440) * 100vw);
-  }
   .br_feature-01 {
     display: none;
   }
@@ -770,12 +755,9 @@ html.hidden {
   }
   .feature__item_normal {
     font-size: 2.2rem;
-    line-height: 1.4;
   }
   .feature__item_number {
     font-size: 3.5rem;
-    line-height: 0.95;
-    letter-spacing: 0.1em;
   }
 }
 @media (min-width: 1840px) {
@@ -788,11 +770,12 @@ html.hidden {
 
   .feature__list {
     flex-wrap: nowrap;
-    width: 90%;
+    width: 95%;
     max-width: unset;
     justify-content: space-between;
   }
   .feature__item {
+    width: max-content;
     border-bottom: none;
     padding: 0;
     margin: 0;
@@ -914,7 +897,7 @@ html.hidden {
 }
 .beauty-knowledg {
   width: fit-content;
-  margin: 0 auto;
+  margin: 0 auto 50px;
 }
 .beauty-knowledg__photo {
   display: block;
@@ -946,17 +929,18 @@ html.hidden {
   }
   .exterior__inner-wrapper {
     display: flex;
-    margin-bottom: 60px;
+    justify-content: space-between;
+    margin: 0;
   }
   .exterior__inner-wrapper_reverse {
     flex-direction: row-reverse;
   }
   .exterior__text-area {
-    flex: 1;
+    width: calc((375 / 1004) * 100%);
   }
   .exterior__inner-photo {
     width: calc((564 / 1004) * 100%);
-    margin: 0 5% 0 0;
+    margin: 0;
   }
 
   .exterior__inner-photo_05 {
@@ -968,12 +952,13 @@ html.hidden {
     margin-bottom: 55px;
   }
   .exterior__text {
-    margin-bottom: 25px;
+    margin-bottom: 0;
   }
   .beauty-knowledg {
     display: flex;
     align-items: center;
     width: fit-content;
+    margin-bottom: 80px;
   }
   .beauty-knowledg__photo {
     display: block;
@@ -984,33 +969,11 @@ html.hidden {
     font-size: 2rem;
   }
   .exterior__section {
-    margin-bottom: 50px;
+    margin-bottom: 80px;
   }
 
-  /* グリッド */
-  .exterior__inner-wrapper_03 {
-    display: grid;
-    grid-template:
-      "... ... photo" auto
-      "text ... photo"
-      "... ... photo" 20px
-      "btn ... photo"
-      "... ... photo" auto
-      / 50% 5% 1fr;
-  }
-  .exterior__text-area_03 {
-    grid-area: text;
-    width: 100%;
-    margin: 0;
-  }
-  .exterior__inner-photo_03 {
-    grid-area: photo;
-    width: 100%;
-    margin: 0;
-  }
-  .top-section__btn_european {
-    grid-area: btn;
-    margin: 0 0 0 auto;
+  .top-section__btn_exterior {
+    margin: 100px auto 0;
   }
 }
 
@@ -1020,7 +983,7 @@ html.hidden {
 }
 .facilities__list {
   width: 95%;
-  max-width: 1025px;
+  max-width: 1280px;
   margin: 0 auto 50px;
 }
 .facilities__item {
@@ -1037,6 +1000,7 @@ html.hidden {
 .facilities-card__title {
   font-size: 1.6rem;
   line-height: 1.5;
+  text-align: center;
   background-color: #fff;
   padding: 8px 5%;
 }
@@ -1055,13 +1019,15 @@ html.hidden {
   }
   .facilities__list {
     display: flex;
+    width: 100%;
     flex-wrap: wrap;
     justify-content: center;
     margin: 0 auto 60px;
   }
   .facilities__item {
-    width: 320px;
-    min-width: 320px;
+    width: 280px;
+    min-width: 280px;
+    max-width: 300px;
     margin: 10px;
   }
   .facilities__item:last-of-type {
@@ -1073,8 +1039,12 @@ html.hidden {
     justify-content: end;
   }
   .facilities-card__title {
+    font-size: 1.4rem;
     height: 100%;
-    padding: 8px 5%;
+    padding: 8px;
+  }
+  .facilities-card__title-small {
+    font-size: 1.3rem;
   }
 }
 @media (min-width: 1110px) {

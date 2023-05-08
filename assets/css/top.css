@@ -646,7 +646,6 @@ html.hidden {
 }
 .feature__item:last-of-type {
   border-bottom: none;
-  padding-bottom: 0;
   margin-bottom: 0;
 }
 
@@ -690,15 +689,19 @@ html.hidden {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+    padding-bottom: 10px;
   }
 
   .feature__item {
     width: calc(100% / 3);
-    font-size: calc((22 / 1440) * 100vw);
-    letter-spacing: unset;
+    font-size: calc((16 / 1440) * 100vw);
     border: none;
     padding-top: 15px;
     margin-bottom: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
   .feature__item:nth-last-of-type(2),
   .feature__item:last-of-type {
@@ -718,7 +721,7 @@ html.hidden {
 
 @media (min-width: 1000px) {
   .feature {
-    padding: 20px 0;
+    padding: 10px 0;
   }
   .feature__logo-area {
     display: none;
@@ -761,9 +764,6 @@ html.hidden {
   }
 }
 @media (min-width: 1840px) {
-  .feature {
-    padding: 15px 0;
-  }
   .feature::before {
     display: none;
   }

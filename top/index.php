@@ -80,25 +80,25 @@
       </div>
       <div class="feature">
         <ul class="feature__list">
-          <li class="feature__item fadeInTrigger delay-time03">
-            地下鉄南北線<span class="feature__item_normal">「真駒内」</span>駅徒歩<span class="feature__item_number">9</span> 分<br>
-            <span class="feature__item_normal">「大通」</span>駅まで乗車 <span class="feature__item_number">16</span> 分
-          </li>
-          <li class="feature__item fadeInTrigger delay-time06">
-            <span class="feature__item_normal">屋上庭園</span>や<span class="feature__item_normal">フィットネス</span>など<br>
-            日々の生活を彩る充実の共用施設。
-          </li>
-          <li class="feature__item fadeInTrigger delay-time06">
-            <span class="feature__item_normal">オープンペントハウス付きタイプ</span>、<br>
-            <span class="feature__item_normal">専用庭・テラス付きタイプ</span>をご用意。
-          </li>
           <li class="feature__item fadeInTrigger delay-time12">
-            不凍散水栓「多目的スロップシンク」採用で、<br>
-            <span class="feature__item_normal">ガーデニングも快適</span>です。
+            <div>地下鉄南北線<span class="feature__item_normal">「真駒内」</span>駅徒歩<span class="feature__item_number">9</span> 分</div>
+            <div><span class="feature__item_normal">「大通」</span>駅まで乗車 <span class="feature__item_number">16</span> 分</div>
           </li>
           <li class="feature__item fadeInTrigger delay-time15">
-            <span class="feature__item_normal">真駒内駅前</span>のバス乗り場から<br>
-            <span class="feature__item_normal">新千歳空港</span>や<span class="feature__item_normal">市内各所</span>へ快適アクセス。
+            <div><span class="feature__item_normal">屋上庭園</span>や<span class="feature__item_normal">フィットネス</span>など</div>
+            <div>日々の生活を彩る<span class="feature__item_normal">充実の共用施設</span>。</div>
+          </li>
+          <li class="feature__item fadeInTrigger delay-time18">
+            <div><span class="feature__item_normal">オープンペントハウス付き</span>タイプ、</div>
+            <div><span class="feature__item_normal">専用庭</span>・<span class="feature__item_normal">テラス付き</span>タイプをご用意。</div>
+          </li>
+          <li class="feature__item fadeInTrigger delay-time12">
+            <div>不凍散水栓「多目的スロップシンク」採用で、</div>
+            <div><span class="feature__item_normal">ガーデニングも快適</span>です。</div>
+          </li>
+          <li class="feature__item fadeInTrigger delay-time15">
+            <div><span class="feature__item_normal">真駒内駅前</span>のバス乗り場から</div>
+            <div><span class="feature__item_normal">新千歳空港</span>や市内各所へ快適アクセス。</div>
           </li>
         </ul>
       </div>
@@ -196,7 +196,7 @@
           多彩な共用施設が揃いました。
         </p>
         <ul class="facilities__list">
-          <li class="facilities__item fadeInTrigger delay-time06">
+          <li class="facilities__item fadeInTrigger">
             <dl class="facilities-card">
               <dt class="facilities-card__title"><span class="facilities-card__title-small">もっと健康に、美しく。</span><br>最新マシーンを備えたフィットネスジム</dt>
               <dd class="facilities-card__photo">
@@ -219,7 +219,7 @@
               </dd>
             </dl>
           </li>
-          <li class="facilities__item fadeInTrigger">
+          <li class="facilities__item fadeInTrigger delay-time04">
             <dl class="facilities-card">
               <dt class="facilities-card__title"><span class="facilities-card__title-small">新しいライフスタイルに応える</span><br>
                 共用テレワークルーム</dt>
@@ -231,7 +231,7 @@
               </dd>
             </dl>
           </li>
-          <li class="facilities__item fadeInTrigger delay-time03">
+          <li class="facilities__item fadeInTrigger delay-time05">
             <dl class="facilities-card">
               <dt class="facilities-card__title">屋上庭園「スカイガーデン」<br>
                 <span class="facilities-card__title-small">バーベキューコーナー</span>
@@ -256,7 +256,7 @@
               </dd>
             </dl>
           </li>
-          <li class="facilities__item fadeInTrigger delay-time06">
+          <li class="facilities__item fadeInTrigger delay-time07">
             <dl class="facilities-card">
               <dt class="facilities-card__title"><span class="facilities-card__title-small">永住にふさわしいホスピタリティ。</span><br>
               フロントコンシェルジュサービス</dt>
@@ -268,8 +268,7 @@
               </dd>
             </dl>
           </li>
-
-          <li class="facilities__item fadeInTrigger delay-time06">
+          <li class="facilities__item fadeInTrigger delay-time08">
             <dl class="facilities-card">
               <dt class="facilities-card__title"><span class="facilities-card__title-small">ペットとの楽しい暮らしのための</span><br>
                 グルーミングルーム</dt>

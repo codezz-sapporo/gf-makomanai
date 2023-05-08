@@ -14,10 +14,10 @@
   background-image: url(../svg/location/vacinity-map.svg);
   background-size: cover;
 }
-.title-h2_streetcar::before {
-  width: 279px;
-  height: 34px;
-  background-image: url(../svg/location/streetcar-area.svg);
+.title-h2_south::before {
+  width: 227px;
+  height: 40px;
+  background-image: url(../svg/location/south.svg);
   background-size: contain;
 }
 
@@ -69,9 +69,9 @@
     width: 270px;
     height: 45px;
   }
-  .title-h2_streetcar::before {
-    width: 341px;
-    height: 40px;
+  .title-h2_south::before {
+    width: 270px;
+    height: 50px;
   }
 }
 
@@ -156,9 +156,6 @@
   max-width: 1010px;
   margin: 0 auto 60px;
 }
-.shop-section:last-of-type {
-  margin-bottom: 0;
-}
 .shop-section__photo {
   margin-bottom: 10px;
 }
@@ -178,94 +175,43 @@
 }
 @media (min-width: 768px) {
   .shop-section__photo {
-    margin-bottom: 0;
-  }
-  .shop-section__photo:last-of-type {
-    margin-bottom: 0;
-  }
-  .shop-section__photo_top {
-    width: 100%;
   }
   .shop-section__title {
-    width: max-content;
     font-size: 3.5rem;
   }
   .shop-section__title_small {
     font-size: 2.5rem;
   }
-  .shop-section {
-    display: grid;
-    margin-bottom: 100px;
-  }
   .shop-section__text-area {
-    grid-area: text-area;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    width: calc((440 / 1010) * 100%);
     max-width: 440px;
   }
-  /* 最寄りエリア */
-  .shop-section_nearby {
-    grid-template:
-      "photo-top photo-top photo-top" auto
-      "... ... ..." 10px
-      "photo-bottom ... text-area" auto
-      / 1fr 30px 1fr;
-  }
-  .shop-section_nearby > .shop-section__photo:first-of-type {
-    grid-area: photo-top;
-  }
-  .shop-section_nearby > .shop-section__photo:last-of-type {
-    grid-area: photo-bottom;
-  }
-
-  /* 西線エリア */
-  .shop-section_nishisen {
-    grid-template:
-      "photo-first ... photo-middle" auto
-      "... ... ..." 10px
-      "text-area ... photo-last" auto
-      / 1fr 10px 1fr;
-  }
-  .shop-section_nishisen > .shop-section__photo:first-of-type {
-    grid-area: photo-first;
-  }
-  .shop-section_nishisen > .shop-section__photo:nth-of-type(2) {
-    grid-area: photo-middle;
-  }
-  .shop-section_nishisen > .shop-section__photo:last-of-type {
-    grid-area: photo-last;
-  }
-  .shop-section__text_nishisen {
-    text-align: end;
-  }
-  .shop-section__text-area_nishisen {
-    align-items: flex-end;
-  }
-  /* 行啓エリア */
-  .shop-section_gyokei {
-    grid-template:
-      "photo-first ... photo-last" auto
-      "... ... ..." 10px
-      "text-area text-area text-area" auto
-      / 1fr 10px 1fr;
-  }
-  .shop-section_gyokei > .shop-section__photo:first-of-type {
-    grid-area: photo-first;
-  }
-  .shop-section_gyokei > .shop-section__photo:last-of-type {
-    grid-area: photo-last;
-  }
-  .shop-section_gyokei > .shop-section__text-area {
-    max-width: 925px;
-    flex-direction: row;
+  .shop-section__text-area_full {
+    width: 100%;
     max-width: unset;
   }
-  .shop-section_gyokei > .shop-section__text-area > .shop-section__title {
-    margin-right: 30px;
+  .shop-section__text-area_end {
+    text-align: end;
   }
-  .shop-section_gyokei > .shop-section__text-area > .shop-section__text {
-    flex: 1;
+  .shop-section__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .shop-section__inner_rev {
+    flex-direction: row-reverse;
+  }
+  .shop-section__photo_flex {
+    width: calc((500 / 1010) * 100%);
+  }
+  .shop-section-wrapper {
+    display: flex;
+    max-width: 1010px;
+    justify-content: space-between;
+    margin: 0 auto;
+  }
+  .shop-section_flex {
+    width: calc((100% - 50px) / 2);
   }
 }
 
@@ -588,12 +534,15 @@
     margin: 0 -20px 0 55px;
   }
   .area-section__text-area {
-    width: calc((370 / 1150) * 100%);
+    width: calc((390 / 1150) * 100%);
     margin: 0 0 0 auto;
   }
   .area-section__title {
-    width: max-content;
     margin: 0 0 30px auto;
+  }
+  .area-section__title-span {
+    display: inline-block;
+    letter-spacing: -0.1em;
   }
   .area-section:nth-of-type(even) {
     margin: 0 auto 100px 20px;

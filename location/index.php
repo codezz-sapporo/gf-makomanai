@@ -31,19 +31,17 @@
         <div class="tabBox">
           <ul class="tab-list">
             <li class="one_tab js-tab-switch is-active" data-tab="tab-1">周辺案内図</li>
-            <li class="one_tab js-tab-switch" data-tab="tab-2">市電エリア</li>
+            <li class="one_tab js-tab-switch" data-tab="tab-2">南区エリア</li>
           </ul>
         </div>
 
         <div class="contents">
-          <!-- VICINITY -->
           <?php
             include_once('vacinity.php');
           ?>
 
-          <!-- STREETCAR -->
           <?php
-            include_once('streetcar.php');
+            include_once('south.php');
           ?>
 
         </div><!--contents-->
@@ -52,7 +50,7 @@
         <div class="tabBox">
           <ul class="tab-list tab-list_bottom bottom">
             <li class="one_tab js-tab-switch js-tab-switch_bottom is-active" data-tab="tab-1">周辺案内図</li>
-            <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-2">市電エリア</li>
+            <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-2">南区エリア</li>
           </ul>
         </div>
 

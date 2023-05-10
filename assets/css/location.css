@@ -212,6 +212,7 @@
   }
   .shop-section_flex {
     width: calc((100% - 50px) / 2);
+    margin: 0;
   }
 }
 

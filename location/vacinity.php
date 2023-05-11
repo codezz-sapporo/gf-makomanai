@@ -44,14 +44,14 @@
                 <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-01_pc.webp">
                 <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-01_sp.webp">
                 <source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/img/location/shop-01_pc.jpg">
-                <img src="<?php print URL; ?>/assets/img/location/shop-01_sp.jpg" alt="スーパーアークス山鼻店" class="shop-section__img">
+                <img src="<?php print URL; ?>/assets/img/location/shop-01_sp.jpg" alt="大通公園" class="shop-section__img">
             </picture>
             <div class="shop-section__inner">
                 <picture class="shop-section__photo shop-section__photo_flex">
                     <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-02_pc.webp">
                     <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-02_sp.webp">
                     <source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/img/location/shop-02_pc.jpg">
-                    <img src="<?php print URL; ?>/assets/img/location/shop-02_sp.jpg" alt="サツドラ南11条店・ダイソー札幌南11条店" class="shop-section__img">
+                    <img src="<?php print URL; ?>/assets/img/location/shop-02_sp.jpg" alt="札幌駅" class="shop-section__img">
                 </picture>
                 <div class="shop-section__text-area">
                     <h4 class="shop-section__title">大通・さっぽろ</h4>
@@ -61,37 +61,37 @@
         </section>
         <section class="shop-section">
             <picture class="shop-section__photo">
-                <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-04_pc.webp">
-                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-04_sp.webp">
-                <source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/img/location/shop-04_pc.jpg">
-                <img src="<?php print URL; ?>/assets/img/location/shop-04_sp.jpg" alt="サツドラ山鼻南14条店" class="shop-section__img">
+                <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-03_pc.webp">
+                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-03_sp.webp">
+                <source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/img/location/shop-03_pc.jpg">
+                <img src="<?php print URL; ?>/assets/img/location/shop-03_sp.jpg" alt="地下鉄真駒内駅" class="shop-section__img">
             </picture>
             <div class="shop-section__inner shop-section__inner_rev">
                 <picture class="shop-section__photo shop-section__photo_flex">
-                    <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-05_pc.webp">
-                    <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-05_sp.webp">
-                    <source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/img/location/shop-05_pc.jpg">
-                    <img src="<?php print URL; ?>/assets/img/location/shop-05_sp.jpg" alt="ツルハドラッグ南14条店" class="shop-section__img">
+                    <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-04_pc.webp">
+                    <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-04_sp.webp">
+                    <source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/img/location/shop-04_pc.jpg">
+                    <img src="<?php print URL; ?>/assets/img/location/shop-04_sp.jpg" alt="新千歳空港" class="shop-section__img">
                 </picture>
                 <div class="shop-section__text-area shop-section__text-area_end">
                     <h4 class="shop-section__title">真駒内駅</h4>
-                    <p class="text shop-section__text">真駒内のメインシンボル「北海道立真駒内公園」。豊平川が流れる広大な敷地内には運動やコンサートを楽しめる「真駒内セキスイハイムアリーナ」などが充実。</p>
+                    <p class="text shop-section__text">地下鉄南北線の始発駅「真駒内駅」。<br>駅前のバスターミナルから市内主要スポットや新千歳空港など多方面への軽快アクセスが魅力。</p>
                 </div>
             </div>
         </section>
         <section class="shop-section">
             <picture class="shop-section__photo">
-                <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-04_pc.webp">
-                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-04_sp.webp">
-                <source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/img/location/shop-04_pc.jpg">
-                <img src="<?php print URL; ?>/assets/img/location/shop-04_sp.jpg" alt="サツドラ山鼻南14条店" class="shop-section__img">
+                <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-05_pc.webp">
+                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-05_sp.webp">
+                <source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/img/location/shop-05_pc.jpg">
+                <img src="<?php print URL; ?>/assets/img/location/shop-05_sp.jpg" alt="サツドラ山鼻南14条店" class="shop-section__img">
             </picture>
             <div class="shop-section__inner">
                 <picture class="shop-section__photo shop-section__photo_flex">
-                    <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-05_pc.webp">
-                    <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-05_sp.webp">
-                    <source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/img/location/shop-05_pc.jpg">
-                    <img src="<?php print URL; ?>/assets/img/location/shop-05_sp.jpg" alt="ツルハドラッグ南14条店" class="shop-section__img">
+                    <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-06_pc.webp">
+                    <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-06_sp.webp">
+                    <source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/img/location/shop-06_pc.jpg">
+                    <img src="<?php print URL; ?>/assets/img/location/shop-06_sp.jpg" alt="真駒内公園" class="shop-section__img">
                 </picture>
                 <div class="shop-section__text-area">
                     <h4 class="shop-section__title">真駒内公園</h4>
@@ -102,10 +102,10 @@
         <div class="shop-section-wrapper">
             <section class="shop-section shop-section_flex">
                 <picture class="shop-section__photo">
-                    <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-06_pc.webp">
-                    <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-06_sp.webp">
-                    <source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/img/location/shop-06_pc.jpg">
-                    <img src="<?php print URL; ?>/assets/img/location/shop-06_sp.jpg" alt="東光ストア行啓通店" class="shop-section__img">
+                    <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-07_pc.webp">
+                    <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-07_sp.webp">
+                    <source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/img/location/shop-07_pc.jpg">
+                    <img src="<?php print URL; ?>/assets/img/location/shop-07_sp.jpg" alt="エドウィン・ダン記念公園" class="shop-section__img">
                 </picture>
                 <div class="shop-section__text-area shop-section__text-area_full">
                     <h4 class="shop-section__title">エドウィン・ダン記念公園</h4>
@@ -114,10 +114,10 @@
             </section>
             <section class="shop-section shop-section_flex">
                 <picture class="shop-section__photo">
-                    <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-06_pc.webp">
-                    <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-06_sp.webp">
-                    <source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/img/location/shop-06_pc.jpg">
-                    <img src="<?php print URL; ?>/assets/img/location/shop-06_sp.jpg" alt="東光ストア行啓通店" class="shop-section__img">
+                    <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-08_pc.webp">
+                    <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-08_sp.webp">
+                    <source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/img/location/shop-08_pc.jpg">
+                    <img src="<?php print URL; ?>/assets/img/location/shop-08_sp.jpg" alt="藻南公園" class="shop-section__img">
                 </picture>
                 <div class="shop-section__text-area shop-section__text-area_full">
                     <h4 class="shop-section__title">藻南公園</h4>

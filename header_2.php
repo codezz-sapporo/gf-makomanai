@@ -2,7 +2,7 @@
 	include dirname(__FILE__).'/conf/conf.php';
 	$folderName = basename(dirname($_SERVER["SCRIPT_NAME"]));
 ?> -->
-    <link rel="icon" href="<?php print URL; ?>/favicon.ico" />
+<link rel="icon" href="<?php print URL; ?>/favicon.ico" />
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-62351659-33"></script>
@@ -14,13 +14,14 @@
   gtag('config', 'UA-62351659-33');
 </script> -->
 
-  </head>
-  <body class="">
+</head>
 
-<!-- Google Tag Manager (noscript) -->
-<!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5534RBS"
+<body class="">
+
+    <!-- Google Tag Manager (noscript) -->
+    <!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5534RBS"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
-<!-- End Google Tag Manager (noscript) -->
+    <!-- End Google Tag Manager (noscript) -->
 
     <header class="header">
         <a href="<?php print URL; ?>/top/" class="header__link">
@@ -38,7 +39,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li class="link-area__item"><a class="link-area__text link-area__text_user" href="<?php print URL; ?>/contact/tour-reservation">来場予約</a></li>
             </ul>
             <div class="link-area__nav">
-                <input type="checkbox" name="" id="nav-btn" class="checkbox">
+                <input type="checkbox" id="nav-btn" class="checkbox">
                 <label class="humburger link-area__text link-area__text_menu" for="nav-btn">
                     <span class="humburger__line humburger__line_top"></span>
                     <span class="humburger__line humburger__line_middle"></span>

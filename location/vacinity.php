@@ -135,7 +135,7 @@
                 <dd class="life-info__main-info"></dd>
                 <dd class="life-info__main-photo">
                     <picture>
-                        <img src="<?php print URL; ?>/assets/img/location/life-info-01.webp" alt="ラルズマート 真駒内店" title="距離:約250ｍm 　徒歩:約4分" class="life-info__main-img">
+                        <img src="<?php print URL; ?>/assets/img/location/life-info-01.webp" alt="ラルズマート 真駒内店" title="距離:約250m 　徒歩:約4分" class="life-info__main-img">
                     </picture>
                 </dd>
                 <dd class="life-info__alt"></dd>
@@ -150,10 +150,10 @@
                     <li class="life-info__item">
                         <dl class="life-info-unit">
                             <dt class="life-info-unit__name">ラルズマート 真駒内店</dt>
-                            <dd class="life-info-unit__info">距離:約250ｍm 　徒歩:約4分</dd>
+                            <dd class="life-info-unit__info">距離:約250m 　徒歩:約4分</dd>
                             <dd class="life-info-unit__photo">
                                 <picture>
-                                    <img src="<?php print URL; ?>/assets/img/location/life-info-01.jpg" alt="ラルズマート 真駒内店" class="shop-section__img">
+                                    <img src="<?php print URL; ?>/assets/img/location/life-info-01.jpg" alt="ラルズマート 真駒内店" title="距離:約250m　徒歩4分" class=" shop-section__img">
                                 </picture>
                             </dd>
                         </dl>

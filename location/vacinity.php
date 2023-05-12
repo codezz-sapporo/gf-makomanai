@@ -2,6 +2,31 @@
     <h2 class="title-h2 title-h2_location title-h2_vacinity fadeUpTrigger">周辺案内図</h2>
     <section class="tab-section tab-section_column">
         <h3 class="tab-section__title">Access</h3>
+
+        <div class="access__inner">
+            <picture class="access__photo zoomInTrigger">
+                <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/sky_map.webp">
+                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/sky_map.webp">
+                <source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/img/location/sky_map.jpg">
+                <img src="<?php print URL; ?>/assets/img/location/sky_map.jpg" alt="スカイマップ" class="shop-section__img">
+            </picture>
+        </div>
+
+        <div class="access__inner">
+            <div class="access__text-area">
+                <p class="access__text access__text_lh-large">
+                    <span class="fs02">地下鉄南北線</span><br><span class="fs02">『真駒内』駅</span>
+                    <span class="pc space">&emsp;</span><br class="br_sp"><span class="fs05">徒歩</span><span class="fs01 number">9</span><span class="fs05">分。</span><span class="fs05">（540m）</span><br>
+                    <span class="fs05 d-block">大通</span><span class="fs06">まで</span><span class="fs05">快適アクセス。</span><br><span class="fs03">『大通』</span><span class="fs05">停まで乗車</span><span class="fs01 number">16</span><span class="fs06">分。</span><br><span class="fs03">『さっぽろ』</span><span class="fs05">停まで乗車</span><span class="fs01 number">18</span><span class="fs06">分。</span>
+                </p>
+            </div>
+            <picture class="access__photo zoomInTrigger">
+                <!-- <source media="(min-width: 768px)" srcset="<?php print URL; ?>/assets/svg/location/route-map.svg">
+                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/route-map_sp.webp"> -->
+                <img src="<?php print URL; ?>/assets/svg/location/route-map.svg" alt="ルートマップ" class="access__photo-img">
+            </picture>
+        </div>
+
         <div class="access__inner">
             <picture class="access__photo access__photo_map zoomInTrigger">
                 <source media="(min-width: 768px)" srcset="<?php print URL; ?>/assets/svg/location/map_pc.svg">
@@ -9,33 +34,6 @@
                 <img src="<?php print URL; ?>/assets/img/location/map_sp.jpg" alt="地図" class="access__photo-img">
             </picture>
         </div>
-
-        <div class="access__inner">
-            <picture class="access__photo zoomInTrigger">
-                <source media="(min-width: 768px)" srcset="<?php print URL; ?>/assets/svg/location/access-info_pc.svg">
-                <!-- <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/access-info_sp.webp"> -->
-                <img src="<?php print URL; ?>/assets/svg/location/access-info_sp.svg" alt="アクセス情報" class="access__photo-img">
-            </picture>
-            <div class="access__text-area">
-                <p class="access__text"><span class="fs05">札幌市電</span><span class="fs03">『西線11条』</span><span class="fs05">停</span><br><span class="fs05">徒歩</span><span class="fs01 number">6</span><span class="fs06">分。(480m)</span></p>
-                <p class="access__text"><span class="fs03">大通</span><span class="fs05">まで</span><span class="fs03">快適アクセス</span><span class="fs05">。</span><br><span class="fs03 ls-small">『西4丁目』</span><span class="fs06">停まで乗車</span><span class="fs01 number ls-small">15</span><span class="fs06">分。</span></p>
-            </div>
-        </div>
-        <div class="access__inner">
-            <picture class="access__photo zoomInTrigger">
-                <!-- <source media="(min-width: 768px)" srcset="<?php print URL; ?>/assets/svg/location/route-map.svg">
-                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/route-map_sp.webp"> -->
-                <img src="<?php print URL; ?>/assets/svg/location/route-map.svg" alt="ルートマップ" class="access__photo-img">
-            </picture>
-            <div class="access__text-area">
-                <p class="access__text access__text_lh-large">
-                    <span class="fs03">中心部・大通</span><span class="fs06">へ</span><br class="br_sp"><span class="fs03">乗り継ぎなし</span><span class="fs06">の</span><span class="fs03">快適アクセス</span><br>
-                    <span class="fs05 d-block">通勤ラッシュ時</span><span class="pc space">&emsp;</span><span class="fs05">計</span><span class="fs01 number">39</span><span class="fs05">本運行</span><br class="br_sp"><span class="pc space">&emsp;</span><span class="fs05">平均</span><span class="fs01 number">3</span><span class="fs06">分</span><span class="fs05">間隔</span><span class="fs06">で</span><span class="fs05">運転</span>
-                </p>
-            </div>
-            <p class="annotaion">※西線11条-西4丁目（外回り）間 /平日7時～8時台までの数値です。 ※記載の情報は2022年11月時点のものでダイヤ改正等により変更になる場合がございます。予めご了承ください</p>
-        </div>
-
     </section>
     <section class="tab-section tab-section_column">
         <h3 class="tab-section__title">Neighborhood</h3>
@@ -486,3 +484,5 @@
     </section>
 
 </section>
+
+<br class="br_sp"><span class="pc space">&emsp;</span>

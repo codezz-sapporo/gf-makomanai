@@ -96,7 +96,6 @@
 }
 .access__text-area {
   max-width: 816px;
-  border-top: 1px solid #9f934b;
   padding-top: 20px;
   margin: 0 auto;
 }
@@ -117,7 +116,7 @@
     margin-bottom: 100px;
   }
   .access__photo {
-    width: 90%;
+    flex: 1;
     margin-bottom: 20px;
   }
   .access__section {
@@ -125,10 +124,16 @@
     margin-bottom: 100px;
   }
   .access__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 816px;
+    margin: 0 auto;
     margin-bottom: 100px;
   }
   .access__text-area {
     display: flex;
+    width: max-content;
   }
   .access__text {
     flex: 1;

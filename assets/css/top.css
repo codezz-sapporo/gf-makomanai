@@ -408,7 +408,7 @@ html.hidden {
   width: 100vw;
   text-align: center;
   position: absolute;
-  bottom: 58%;
+  bottom: 43%;
   left: 50%;
   transform: translateX(-50%);
   animation: AnimationTitle 5s ease infinite;
@@ -417,39 +417,23 @@ html.hidden {
   background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
-  padding: 3px 10px;
-}
-.top-mainvisual__text-area::before {
-  display: block;
-  content: "";
-  width: 100%;
-  height: 3px;
-  background-color: #fff;
-  margin: 0 auto 3px;
-}
-.top-mainvisual__text-area::after {
-  display: block;
-  content: "";
-  width: 100%;
-  height: 3px;
-  background-color: #fff;
-  margin: 3px auto 0;
+  padding: 3px 8px;
 }
 
 .top-mainvisual__lead {
   font-family: "Cormorant Garamond", serif;
-  font-size: calc((35 / 375) * 100vw);
+  font-size: calc((28 / 375) * 100vw);
   font-weight: 600;
   text-align: center;
   color: #fff;
   filter: drop-shadow(0 0 5px var(--text-black));
   padding-top: 15px;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 .top-mainvisual__text {
-  font-size: calc((14 / 375) * 100vw);
+  font-size: calc((16 / 375) * 100vw);
   font-weight: 500;
-  line-height: 1.7;
+  line-height: 1.5;
   filter: drop-shadow(0 0 5px var(--text-black));
   padding-bottom: 15px;
 }

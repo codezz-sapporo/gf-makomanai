@@ -53,7 +53,7 @@
                 <span class="lead-one lead-one_8">創</span>
                 <span class="lead-one lead-one_9">出</span>
                 <span class="lead-one lead-one_10">し</span>
-                <span class="lead-one lead-one_11">、</span>
+                <span class="lead-one lead-one_11">、</span><br class="br_sp">
                 <span class="lead-one lead-one_12">街</span>
                 <span class="lead-one lead-one_13">の</span>
                 <span class="lead-one lead-one_14">景</span>
@@ -247,8 +247,8 @@
                         ピットインガレージ</dt>
                     <dd class="facilities-card__photo">
                         <picture class="">
-                            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/top/facility-05.webp">
-                            <img src="<?php print URL; ?>/assets/img/top/facility-05.jpg" alt="フロントコンシェルジュサービス" class="facilities-card____img">
+                            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/top/facility-06.webp">
+                            <img src="<?php print URL; ?>/assets/img/top/facility-06.jpg" alt="ピットインガレージ" class="facilities-card____img">
                         </picture>
                     </dd>
                 </dl>
@@ -259,8 +259,8 @@
                         フロントコンシェルジュサービス</dt>
                     <dd class="facilities-card__photo">
                         <picture class="">
-                            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/top/facility-05.webp">
-                            <img src="<?php print URL; ?>/assets/img/top/facility-05.jpg" alt="フロントコンシェルジュサービス" class="facilities-card____img">
+                            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/top/facility-07.webp">
+                            <img src="<?php print URL; ?>/assets/img/top/facility-07.jpg" alt="フロントコンシェルジュサービス" class="facilities-card____img">
                         </picture>
                     </dd>
                 </dl>
@@ -287,8 +287,8 @@
         <p class="section__lead fadeUpTrigger">外出先からわが家の住宅機器をリモートコントロールする“スマートモバイルセキュリティ”。<br>次世代セキュリティシステムを備えた<br class="br_sp">ITスマートマンション</p>
         <div class="top-section__inner">
             <picture class="top-section__photo fadeLeftTrigger">
-                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/top/concierge.webp">
-                <img src="<?php print URL; ?>/assets/img/top/concierge.jpg" alt="concierge" class="">
+                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/top/security-01.webp">
+                <img src="<?php print URL; ?>/assets/img/top/security-01.jpg" alt="concierge" class="">
             </picture>
             <div class="top-section__text-area fadeRightTrigger">
                 <p class="title-h3">遠隔操作でひろがる、快適・便利な暮らし</p>
@@ -302,8 +302,8 @@
         <p class="section__lead fadeUpTrigger">住まいの核となる、<br class="br_sp">洗練された設備と確かなクオリティ</p>
         <div class="top-section__inner top-section__inner_rev">
             <picture class="top-section__photo fadeLeftTrigger">
-                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/top/concierge.webp">
-                <img src="<?php print URL; ?>/assets/img/top/concierge.jpg" alt="プライベートエリア" class="">
+                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/top/privertarea-01.webp">
+                <img src="<?php print URL; ?>/assets/img/top/privertarea-01.jpg" alt="プライベートエリア" class="">
             </picture>
             <div class="top-section__text-area top-section__text-area_rev fadeRightTrigger">
                 <p class="title-h3 title-h3_rev">インテリアのような存在感のある空間。</p>
@@ -317,8 +317,8 @@
         <p class="section__lead fadeUpTrigger">ただ一つのお部屋に仕上げる<br class="br_sp">プライベートカスタマイズ</p>
         <div class="top-section__inner">
             <picture class="top-section__photo fadeLeftTrigger">
-                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/top/concierge.webp">
-                <img src="<?php print URL; ?>/assets/img/top/concierge.jpg" alt="自由設計・間取り" class="">
+                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/top/g-flex-01.webp">
+                <img src="<?php print URL; ?>/assets/img/top/g-flex-01.jpg" alt="自由設計・間取り" class="">
             </picture>
             <div class="top-section__text-area fadeRightTrigger">
                 <p class="title-h3">あなただけの住空間を創造します。</p>

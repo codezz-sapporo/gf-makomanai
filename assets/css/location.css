@@ -118,6 +118,7 @@
   .access__photo {
     flex: 1;
     margin-bottom: 20px;
+    background: transparent;
   }
   .access__section {
     padding: 0;
@@ -125,7 +126,6 @@
   }
   .access__inner {
     display: flex;
-    align-items: center;
     justify-content: space-between;
     max-width: 816px;
     margin: 0 auto;
@@ -133,10 +133,15 @@
   }
   .access__text-area {
     display: flex;
-    width: max-content;
+    flex-direction: column;
+    margin-right: 10px;
   }
   .access__text {
-    flex: 1;
+    text-align: left;
+  }
+  .access__text:last-child {
+    position: relative;
+    left: 10%;
   }
 }
 @media (min-width: 768px) and (max-width: 950px) {

@@ -15,9 +15,19 @@
         <div class="access__inner">
             <div class="access__text-area">
                 <p class="access__text access__text_lh-large">
-                    <span class="fs02">地下鉄南北線</span><br><span class="fs02">『真駒内』駅</span>
-                    <span class="pc space">&emsp;</span><br class="br_sp"><span class="fs05">徒歩</span><span class="fs01 number">9</span><span class="fs05">分。</span><span class="fs05">（540m）</span><br>
-                    <span class="fs05 d-block">大通</span><span class="fs06">まで</span><span class="fs05">快適アクセス。</span><br><span class="fs03">『大通』</span><span class="fs05">停まで乗車</span><span class="fs01 number">16</span><span class="fs06">分。</span><br><span class="fs03">『さっぽろ』</span><span class="fs05">停まで乗車</span><span class="fs01 number">18</span><span class="fs06">分。</span>
+                    <span class="fs02">地下鉄南北線</span><br><span class="fs05 bracket">『</span><span class="fs02">真駒内駅</span><span class="fs05">』</span>
+                    <span class="pc space">&emsp;</span><br class="br_sp"><span class="fs05">徒歩</span><span class="fs01 number">9</span><span class="fs05">分。</span><span class="fs06">（540m）</span><br>
+                </p>
+                <p class="access__text access__text_lh-large">
+                    <span class="fs05">大通</span><span class="fs06">まで</span><span class="fs05">快適アクセス。</span><br>
+                    <span class="fs05 bracket">『</span><span class="fs03">大通</span>
+                    <span class="fs05 ls-small">』</span>
+                    <span class="fs06">停まで乗車</span><span class="fs01 number">16</span><span class="fs06">分。</span><br>
+                </p>
+                <p class="access__text access__text_lh-large">
+                    <span class="fs05 bracket">『</span><span class="fs03">さっぽろ</span>
+                    <span class="fs05 ls-small">』</span>
+                    <span class="fs06">停まで乗車</span><span class="fs01 number">18</span><span class="fs06">分。</span>
                 </p>
             </div>
             <picture class="access__photo zoomInTrigger">

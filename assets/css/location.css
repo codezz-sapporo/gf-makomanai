@@ -134,14 +134,17 @@
   .access__text-area {
     display: flex;
     flex-direction: column;
-    margin-right: 10px;
+    margin-right: 40px;
   }
   .access__text {
     text-align: left;
   }
+  .access__text:first-child {
+    margin-bottom: 50px;
+  }
   .access__text:last-child {
     position: relative;
-    left: 10%;
+    left: 5%;
   }
 }
 @media (min-width: 768px) and (max-width: 950px) {

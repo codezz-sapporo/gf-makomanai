@@ -16,7 +16,7 @@
             <div class="access__text-area">
                 <p class="access__text access__text_lh-large">
                     <span class="fs02">地下鉄南北線</span><br><span class="fs05 bracket">『</span><span class="fs02">真駒内駅</span><span class="fs05">』</span>
-                    <span class="pc space">&emsp;</span><br class="br_sp"><span class="fs05">徒歩</span><span class="fs01 number">9</span><span class="fs05">分。</span><span class="fs06">（540m）</span><br>
+                    <br class="br_sp"><span class="fs05">徒歩</span><span class="fs01 number">9</span><span class="fs05">分</span><span class="fs06 ls-small">。(540m)</span><br>
                 </p>
                 <p class="access__text access__text_lh-large">
                     <span class="fs05">大通</span><span class="fs06">まで</span><span class="fs05">快適アクセス。</span><br>
@@ -33,7 +33,10 @@
             <picture class="access__photo zoomInTrigger">
                 <!-- <source media="(min-width: 768px)" srcset="<?php print URL; ?>/assets/svg/location/route-map.svg">
                 <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/route-map_sp.webp"> -->
-                <img src="<?php print URL; ?>/assets/svg/location/route-map.svg" alt="ルートマップ" class="access__photo-img">
+                <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/route-map.webp">
+                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/route-map.webp">
+                <source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/webp/location/route-map.png">
+                <img src="<?php print URL; ?>/assets/webp/location/route-map.png" alt="大通公園" class="shop-section__img">
             </picture>
         </div>
 

@@ -84,7 +84,7 @@
                 <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-05_pc.webp">
                 <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/location/shop-05_sp.webp">
                 <source media="(min-width: 768px)" type="image/jpeg" srcset="<?php print URL; ?>/assets/img/location/shop-05_pc.jpg">
-                <img src="<?php print URL; ?>/assets/img/location/shop-05_sp.jpg" alt="サツドラ山鼻南14条店" class="shop-section__img">
+                <img src="<?php print URL; ?>/assets/img/location/shop-05_sp.jpg" alt="真駒内公園桜並木" class="shop-section__img">
             </picture>
             <div class="shop-section__inner">
                 <picture class="shop-section__photo shop-section__photo_flex">

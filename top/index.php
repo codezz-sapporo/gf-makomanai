@@ -54,46 +54,46 @@
                 <span class="lead-one lead-one_9">出</span>
                 <span class="lead-one lead-one_10">し</span>
                 <span class="lead-one lead-one_11">、</span><br class="br_sp">
-                <span class="lead-one lead-one_13">街</span>
-                <span class="lead-one lead-one_14">の</span>
-                <span class="lead-one lead-one_15">景</span>
-                <span class="lead-one lead-one_16">観</span>
-                <span class="lead-one lead-one_17">に</span>
-                <span class="lead-one lead-one_18">も</span>
-                <span class="lead-one lead-one_19">調</span>
-                <span class="lead-one lead-one_20">和</span>
-                <span class="lead-one lead-one_21">す</span>
-                <span class="lead-one lead-one_22">る</span>
-                <span class="lead-one lead-one_23">低</span>
-                <span class="lead-one lead-one_24">層</span>
-                <span class="lead-one lead-one_25">レ</span>
-                <span class="lead-one lead-one_26">ジ</span>
-                <span class="lead-one lead-one_27">デ</span>
-                <span class="lead-one lead-one_28">ン</span>
-                <span class="lead-one lead-one_29">ス</span>
-                <span class="lead-one lead-one_30">。</span>
+                <span class="lead-one lead-one_12">街</span>
+                <span class="lead-one lead-one_13">の</span>
+                <span class="lead-one lead-one_14">景</span>
+                <span class="lead-one lead-one_15">観</span>
+                <span class="lead-one lead-one_16">に</span>
+                <span class="lead-one lead-one_17">も</span>
+                <span class="lead-one lead-one_18">調</span>
+                <span class="lead-one lead-one_19">和</span>
+                <span class="lead-one lead-one_20">す</span>
+                <span class="lead-one lead-one_21">る</span>
+                <span class="lead-one lead-one_22">低</span>
+                <span class="lead-one lead-one_23">層</span>
+                <span class="lead-one lead-one_24">レ</span>
+                <span class="lead-one lead-one_25">ジ</span>
+                <span class="lead-one lead-one_26">デ</span>
+                <span class="lead-one lead-one_27">ン</span>
+                <span class="lead-one lead-one_28">ス</span>
+                <span class="lead-one lead-one_29">。</span>
             </p>
         </div>
     </div>
     <div class="feature">
         <ul class="feature__list">
-            <li class="feature__item fadeInTrigger delay-time12">
+            <li class="feature__item fadeInTrigger delay-time04">
                 <div>地下鉄南北線<span class="feature__item_normal">「真駒内」</span>駅徒歩<span class="feature__item_number">9</span> 分</div>
                 <div><span class="feature__item_normal">「大通」</span>駅まで乗車 <span class="feature__item_number">16</span> 分</div>
             </li>
-            <li class="feature__item fadeInTrigger delay-time15">
+            <li class="feature__item fadeInTrigger delay-time05">
                 <div><span class="feature__item_normal">屋上庭園</span>や<span class="feature__item_normal">フィットネス</span>など</div>
                 <div>日々の生活を彩る<span class="feature__item_normal">充実の共用施設</span>。</div>
             </li>
-            <li class="feature__item fadeInTrigger delay-time18">
+            <li class="feature__item fadeInTrigger delay-time06">
                 <div><span class="feature__item_normal">オープンペントハウス付き</span>タイプ、</div>
                 <div><span class="feature__item_normal">専用庭</span>・<span class="feature__item_normal">テラス付き</span>タイプをご用意。</div>
             </li>
-            <li class="feature__item fadeInTrigger delay-time21">
+            <li class="feature__item fadeInTrigger delay-time07">
                 <div>不凍散水栓「多目的スロップシンク」採用で、</div>
                 <div><span class="feature__item_normal">ガーデニングも快適</span>です。</div>
             </li>
-            <li class="feature__item fadeInTrigger delay-time24">
+            <li class="feature__item fadeInTrigger delay-time08">
                 <div><span class="feature__item_normal">真駒内駅前</span>のバス乗り場から</div>
                 <div><span class="feature__item_normal">新千歳空港</span>や市内各所へ快適アクセス。</div>
             </li>

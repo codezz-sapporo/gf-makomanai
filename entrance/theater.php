@@ -45,8 +45,10 @@
                 </div>
                 <div class="presence-unit presence-unit_column presence__section">
                     <figure class="presence__photo presence__photo_03">
-                        <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/theater/presence_img3.webp">
-                        <img src="<?php print URL; ?>/assets/img/entrance/theater/presence_img3.jpg" alt="グランファーレ札幌伏見プレシアヴェールENTRANCE HALL" class="mainvisual__img">
+                        <picture>
+                            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/theater/presence_img3.webp">
+                            <img src="<?php print URL; ?>/assets/img/entrance/theater/presence_img3.jpg" alt="グランファーレ札幌伏見プレシアヴェールENTRANCE HALL" class="mainvisual__img">
+                        </picture>
                         <figcaption class="photo-cap">グランファーレ札幌伏見プレシアヴェールシアター＆カラオケルーム</figcaption>
                     </figure>
                     <dl>
@@ -73,8 +75,10 @@
                     </picture>
                 </h3>
                 <figure class="presence__photo presence__photo_03">
-                    <source type="image/webp" srcset="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/webp/entrance/theater/tv_img.webp">
-                    <img src="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/img/entrance/theater/tv_img.jpg" alt="フロントコンシェルジュサービス" class="hikaritv__img">
+                    <picture>
+                        <source type="image/webp" srcset="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/webp/entrance/theater/tv_img.webp">
+                        <img src="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/img/entrance/theater/tv_img.jpg" alt="フロントコンシェルジュサービス" class="hikaritv__img">
+                    </picture>
                     <figcaption class="photo-cap">グランファーレ円山公園南コートハウス</figcaption>
                 </figure>
                 <p class="text">ひかりTVのシアターサービスは、合計50以上の専門 チャンネル放送をお楽しみいただけるサービス。最新の海外ドラマや映画、子供も楽しめるアニメ、旬のエンタメ、ワールドワイドなスポーツ、音楽など、みんなのひかりTVのシアターサービスで、もっと楽しもう!(無料) </p>

@@ -1376,12 +1376,18 @@ figcaption {
   margin: 0 auto 3.2vw;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.9);
 }
+.mainvisual-large-lead {
+  font-size: calc((34 / 375) * 100vw);
+}
+.mainvisual-lead {
+  font-size: calc((16 / 375) * 100vw);
+}
 @media (min-width: 768px) {
   .mainvisual-large-lead {
-    font-size: 3.4722vw;
+    font-size: calc((45 / 1440) * 100vw);
     margin-bottom: 1.388vw;
   }
   .mainvisual-lead {
-    font-size: 1.736vw;
+    font-size: calc((17 / 1440) * 100vw);
   }
 }

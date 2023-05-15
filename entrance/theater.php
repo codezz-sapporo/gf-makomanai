@@ -13,16 +13,16 @@
 
     <div class="tab-section tab-section_column">
         <picture class="tab-section__photo tab-section__photo_column tab-section__photo_top">
-			<source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/theater/img2.webp">
-			<img src="<?php print URL; ?>/assets/img/entrance/theater/img2.jpg" alt="" class="mainvisual__img">
-		</picture>
+            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/theater/img2.webp">
+            <img src="<?php print URL; ?>/assets/img/entrance/theater/img2.jpg" alt="" class="mainvisual__img">
+        </picture>
         <h3 class="title-h3 ta_c">迫力の通信カラオケでにぎやかに<br>楽しく過ごせる、コミュニケーションの輪も広がります。</h3>
         <p class="text tab-section__text">大きな音が心配なカラオケもここでなら安心。そうした、住まいの中で叶えることが難しいことも、この空間ならすべて可能です。気の合う仲間とワイワイと楽しんでください。圧倒的な映像ラインナップと高音質な楽曲を多数搭載。さらに最新のヒット曲や、話題の曲を毎月更新。人気アーティストのライブ音源・映像で、臨場感あふれる最高峰の｢JOYSOUND｣は何度でも観たくなる、ファンにはたまらないという映像コンテンツです。(無料)</p>
         <section class="presence">
             <div class="presence__inner">
                 <div class="presence__section">
                     <h4 class="section__lead">目指したのは、<br class="br_sp">歌いたいという欲求に<br>臨場感ある音で応えること。</h4>
-                    <div id="" class="presence-unit">
+                    <div class="presence-unit">
                         <picture class="presence__photo presence__photo_01">
                             <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/theater/presence_img1.webp">
                             <img src="<?php print URL; ?>/assets/img/entrance/theater/presence_img1.png" alt="フロントコンシェルジュサービス" class="mainvisual__img">
@@ -32,7 +32,7 @@
                             <dd class="presence-unit__text">大きく見やすい8.5インチのワイド液晶タッチパネルなので各種ダイレクト操作が楽々とできます。映像フルHD対応で、今まで以上に迫力ある映像をクラス最高水準の圧倒的楽曲数の中から楽しむことができます。</dd>
                         </dl>
                     </div>
-                    <div id="" class="presence-unit  presence-unit_reverse">
+                    <div class="presence-unit  presence-unit_reverse">
                         <picture class="presence__photo presence__photo_02">
                             <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/theater/presence_img2.webp">
                             <img src="<?php print URL; ?>/assets/img/entrance/theater/presence_img2.jpg" alt="フロントコンシェルジュサービス" class="mainvisual__img">
@@ -49,13 +49,13 @@
                         <img src="<?php print URL; ?>/assets/img/entrance/theater/presence_img3.jpg" alt="グランファーレ札幌伏見プレシアヴェールENTRANCE HALL" class="mainvisual__img">
                         <figcaption class="photo-cap">グランファーレ札幌伏見プレシアヴェールシアター＆カラオケルーム</figcaption>
                     </figure>
-                    <dl class="">
+                    <dl>
                         <dt class="presence-unit__title">最高の満足を実現する、最強の設備仕様</dt>
                         <dd class="presence-unit__text">
-                            <sapn class="presence-unit__text-list">・総曲数約203000曲(2019年2月時点)</sapn>
-                            <sapn class="presence-unit__text-list">・ハイビジョン映像対応(HDMIケーブル使用の場合)</sapn>
-                            <sapn class="presence-unit__text-list">・世代を問わず誰でも楽しめる、多彩なジャンルの本人出演映像を多数塔載。</sapn>
-                            <sapn class="presence-unit__text-list">・JOYSOUND fRは採点機能が充実。</sapn>
+                            <span class="presence-unit__text-list">・総曲数約203000曲(2019年2月時点)</span>
+                            <span class="presence-unit__text-list">・ハイビジョン映像対応(HDMIケーブル使用の場合)</span>
+                            <span class="presence-unit__text-list">・世代を問わず誰でも楽しめる、多彩なジャンルの本人出演映像を多数塔載。</span>
+                            <span class="presence-unit__text-list">・JOYSOUND fRは採点機能が充実。</span>
                         </dd>
                     </dl>
                 </div>

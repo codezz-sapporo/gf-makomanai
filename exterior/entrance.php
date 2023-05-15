@@ -4,9 +4,9 @@
         <p class="intro__title">美と英知を纏い、<br class="br_sp">限りない誇りを具現化した<br>“アクロスゲート”にみる、迎賓館</p>
         <picture class="fadeInTrigger_slow entrance__manvisual">
             <!-- <source media="(min-width: 768px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/img-01_pc.webp"> -->
-            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/img-01.webp">
+            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/mv1.webp">
             <!-- <source media="(min-width: 768px)" srcset="<?php print URL; ?>/assets/webp/entrance/img-01_pc.jpg"> -->
-            <img src="<?php print URL; ?>/assets/img/entrance/img-01.jpg" alt="グランファーレ真駒内フォレスト" class="mainvisual__img">
+            <img src="<?php print URL; ?>/assets/img/entrance/mv1.jpg" alt="グランファーレ真駒内ゲート" class="mainvisual__img">
         </picture>
         <p class="text">あたかも宮廷を彷彿とさせるアクロスゲート。ラテン語で中心・頂上を意味するこの〈ACRO〉を冠したゲートは、時を経ても輝きを失わないヨーロッパ建築を内包する、まさに限りない誇りを具現化した「アクロスゲート」に見る、迎賓館です。建築デザイン意匠にはギリシア建築の中でも、ドーリア式の代表とされるパルテノン神殿をイメージモチーフとしており、陰影を帯びた造形美が重厚かつ荘厳な佇まいを見せています。</p>
     </div>
@@ -15,8 +15,8 @@
 
         <div class="tab-section tab-section_column">
             <picture class="tab-section__photo tab-section__photo_column tab-section__photo_top">
-                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/img-02.webp">
-                <img src="<?php print URL; ?>/assets/img/entrance/img-02.jpg" alt="" class="">
+                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/sec2.webp">
+                <img src="<?php print URL; ?>/assets/img/entrance/sec2.jpg" alt="エントランスホール１" class="">
             </picture>
             <div class="">
                 <p class="title-h3 ta_c">誇り高きステイタスに包まれた<br class="br_sp">エントランスホール。</p>
@@ -25,8 +25,8 @@
         </div>
         <div class="tab-section tab-section_column">
             <picture class="tab-section__photo tab-section__photo_column tab-section__photo_top">
-                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/img-02.webp">
-                <img src="<?php print URL; ?>/assets/img/entrance/img-02.jpg" alt="" class="">
+                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/sec3.webp">
+                <img src="<?php print URL; ?>/assets/img/entrance/sec3.jpg" alt="エントランスホール２" class="">
             </picture>
             <div class="">
                 <p class="title-h3 ta_c">住まう人を格調高く包み込む、<br>リゾートホテルのような<br class="br_sp">エントランスホール。</p>
@@ -35,8 +35,8 @@
         </div>
         <div class="tab-section tab-section_column">
             <picture class="tab-section__photo tab-section__photo_column tab-section__photo_top">
-                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/img-02.webp">
-                <img src="<?php print URL; ?>/assets/img/entrance/img-02.jpg" alt="" class="">
+                <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/sec4.webp">
+                <img src="<?php print URL; ?>/assets/img/entrance/sec4.jpg" alt="グランファーレ真駒内フォレスト外観" class="">
             </picture>
             <div class="">
                 <p class="title-h3 ta_c">ヨーロッパの美しい建築美を継承する<br class="br_sp">新しい心地よさ。</p>

@@ -38,7 +38,7 @@
                     <img src="../assets/img/comfort/kitchen/sec3_1.jpg" alt="ビルトイン食器洗い乾燥機">
                 </picture>
                 <h5 class="item-box__title">ビルトイン食器洗い乾燥機</h5>
-                <p class="text text_small">食器用洗剤に含まれる酵素が活動しやすい温度にコントロールして洗浄する「バイタル除菌機能」搭載。手洗いでは不可能な約80℃の高温で洗浄するので衛生的です。</p>
+                <p class="text text_small">洗剤に含まれる酵素が活動しやすい40～45℃の温度で洗浄する「バイタル除菌洗浄機能」搭載。さらに除菌効果の高い70～80℃の高温洗浄で衛生的に仕上がります。</p>
             </li>
             <li class="box box_3">
                 <picture class="item-box__photo item-box__photo_faucet">

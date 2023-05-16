@@ -88,8 +88,8 @@
                         <source type="image/webp" srcset="../assets/webp/comfort/bath/sec2_9.webp">
                         <img src="../assets/img/comfort/bath/sec2_9.jpg" alt="ラクに開閉ができるレバーハンドル">
                     </picture>
-                    <h4 class="item-box__title">ラクに開閉ができるクロムメッキレバーハンドル</h4>
-                    <p class="text text_small">握りやすく開けやすい、シンプルな取っ手を採用しました。</p>
+                    <h4 class="item-box__title">丸洗いカウンター</h4>
+                    <p class="text text_small">壁から簡単に取り外して洗うことができる丸洗いカウンターなので、掃除のしづらいカウンター周りの悩みも解決です。カウンターは折りたたんで壁に掛けることもできます。</p>
                 </li>
             </ul>
         </div>

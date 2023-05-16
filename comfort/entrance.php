@@ -137,14 +137,7 @@
                     <h3 class="box-entrance__title">ホールクローゼット</h3>
                     <p class="text text_small">丈の長いコートやオーバー類の収納はもちろん、身近に置いておいて、すぐに取り出したい日用品や生活用品、比較的大きな物や長尺物でもラクに収まります。<span style="font-size: 75%;">(一部タイプ)</span></p>
                 </li>
-                <li class="box box_3 box-entrance">
-                    <picture class="item-box__photo">
-                        <source type="image/webp" srcset="../assets/webp/comfort/entrance/sec4_8.webp">
-                        <img src="../assets/img/comfort/entrance/sec4_8.jpg" alt="レジャー用品の収納に便利な納戸">
-                    </picture>
-                    <h3 class="box-entrance__title">レジャー用品の収納に便利な納戸</h3>
-                    <p class="text text_small">玄関ホールに収納力抜群の納戸を設けました。ゴルフ用品・スキー用品など大型の物も入れられる大容量スペースなので、置き場に困る心配なくいつでもすっきりとした室内で過ごせます。<span style="font-size: 75%;">（一部メニュータイプ）</span></p>
-                </li>
+                <li class="box box_3 box-entrance"></li>
                 <li class="box box-entrance">
                     <picture class="item-box__photo">
                         <source type="image/webp" srcset="../assets/webp/comfort/entrance/sec4_7.webp">

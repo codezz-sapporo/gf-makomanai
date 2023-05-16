@@ -135,6 +135,15 @@ label {
   height: 200px;
   background: linear-gradient(180deg, #1b763f 0%, #00290a 100%);
 }
+.mainvisual-pos {
+  position: absolute;
+  font-size: calc((10 / 375) * 100vw);
+  text-shadow: 7px 4px 4px rgba(0, 0, 0, 0.7);
+  text-align: right;
+  line-height: 2;
+  color: #fff;
+}
+
 sup {
   display: inline-block;
   font-size: 80%;
@@ -165,6 +174,11 @@ sup {
   }
   .text {
     font-size: 1.6rem;
+  }
+  .mainvisual-pos {
+    font-size: calc((32 / 1440) * 100vw);
+    line-height: 1.5;
+    letter-spacing: 0.25rem;
   }
 }
 @media (min-width: 1440px) {

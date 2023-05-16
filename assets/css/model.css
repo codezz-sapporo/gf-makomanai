@@ -18,6 +18,7 @@
 .model__map {
   width: 100%;
   margin: 0 auto 60px;
+  border: 2px solid #3b3b3b;
 }
 .covid {
   margin: 0 auto 60px;

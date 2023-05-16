@@ -7,7 +7,7 @@
 			$err1 = false;
 			$place = $_POST['place'];
 		}
-		
+
 		if(empty($_POST['know'])){
 			$err2 = true;
 			$err2 = "※必須項目です。";
@@ -15,7 +15,7 @@
 			$err2 = false;
 			$know = $_POST['know'];
 		}
-		
+
 		if(empty($_POST['month1']) && empty($_POST['day1']) && empty($_POST['hour1'])  && empty($_POST['time1'])){
 			$err3 = true;
 			$err3 = "※必須項目です。";
@@ -40,7 +40,7 @@
 		/*
 		}
 		*/
-		
+
 		if(empty($_POST['na1']) && empty($_POST['na2'])){
 			$err4 = true;
 			$err4 = "※必須項目です。";
@@ -54,7 +54,7 @@
 		$kana2 = htmlspecialchars($_POST['kana2'], ENT_QUOTES, "UTF-8");
 		$age = htmlspecialchars($_POST['age'], ENT_QUOTES, "UTF-8");
 		$mem = htmlspecialchars($_POST['mem'], ENT_QUOTES, "UTF-8");
-		
+
 		if($_POST['mail1']){
 			if(preg_match("/^([a-zA-Z0-9])+([a-zA-Z0-9\._-])*@([a-zA-Z0-9_-])+([a-zA-Z0-9\._-]+)+$/", $_POST['mail1'])) {
 				$err5 = false;
@@ -65,7 +65,7 @@
 		}else{
 			$err5 = "※必須項目です。";
 		}
-		
+
 		if($_POST['mail2']){
 			if(preg_match("/^([a-zA-Z0-9])+([a-zA-Z0-9\._-])*@([a-zA-Z0-9_-])+([a-zA-Z0-9\._-]+)+$/", $_POST['mail2'])){
 				if($mail1 == $_POST['mail2']){
@@ -88,7 +88,7 @@
 			$err7 = false;
 			$zip = htmlspecialchars($_POST['zip'], ENT_QUOTES, "UTF-8");
 		}
-		
+
 		if(empty($_POST['pref'])){
 			$err8 = true;
 			$err8 = "※必須項目です。";
@@ -96,7 +96,7 @@
 			$err8 = false;
 			$pref = $_POST['pref'];
 		}
-		
+
 		if(empty($_POST['address'])){
 			$err9 = true;
 			$err9 = "※必須項目です。";
@@ -104,7 +104,7 @@
 			$err9 = false;
 			$address = htmlspecialchars($_POST['address'], ENT_QUOTES, "UTF-8");
 		}
-		
+
 		if(empty($_POST['banchi'])){
 			$err10 = true;
 			$err10 = "※必須項目です。";
@@ -112,10 +112,10 @@
 			$err10 = false;
 			$banchi = htmlspecialchars($_POST['banchi'], ENT_QUOTES, "UTF-8");
 		}
-		
+
 		$roomname = htmlspecialchars($_POST['roomname'], ENT_QUOTES, "UTF-8");
 		$roomnum = htmlspecialchars($_POST['roomnum'], ENT_QUOTES, "UTF-8");
-		
+
 		if(!empty($_POST['tel1'])){
 			if(preg_match("/^(0{1}\d{9,10})$/", $_POST['tel1'])){
 				$err11 = false;
@@ -151,9 +151,9 @@
 
 	<link rel="stylesheet" href="<?php print URL; ?>/assets/css/contact.css" />
 
-	<title>来場予約 | グランファーレ真駒内フォレスト | 日本グランデ株式会社</title>
-	<meta name="description" content="日本グランデによる新しいスマートマンションが札幌市白石区菊水に誕生。地下鉄東西線「真駒内」駅徒歩6分、「菊水」駅徒歩9分。グランファーレ真駒内フォレスト">
-	<meta name="keywords" content="グランファーレ真駒内フォレスト,真駒内,菊水,札幌,白石区,新築分譲マンション,分譲マンション,北海道,東西線,日本グランデ">
+	<title>来場予約 | グランファーレ真駒内グランフォレスト | 日本グランデ株式会社</title>
+	<meta name="description" content="日本グランデによる新しいスマートマンションが札幌市白石区菊水に誕生。地下鉄東西線「真駒内」駅徒歩6分、「菊水」駅徒歩9分。グランファーレ真駒内グランフォレスト">
+	<meta name="keywords" content="グランファーレ真駒内グランフォレスト,真駒内,菊水,札幌,白石区,新築分譲マンション,分譲マンション,北海道,東西線,日本グランデ">
 
 <?php
 	include_once('../header_2.php');
@@ -189,7 +189,7 @@
 													<div class="radio-out l-height35 mt40 rel">
 														<div class="error"><?php print $err1; ?></div>
 														<div>
-															<input type="radio" name="place" value="グランファーレ真駒内フォレスト" id="place8" class="radio" <?php if(isset($_POST['place']) && ($_POST['place']=='グランファーレ真駒内フォレスト')){print " checked='checked'";} ?>><label for="place8" class="label">グランファーレ真駒内フォレスト</label>
+															<input type="radio" name="place" value="グランファーレ真駒内グランフォレスト" id="place8" class="radio" <?php if(isset($_POST['place']) && ($_POST['place']=='グランファーレ真駒内グランフォレスト')){print " checked='checked'";} ?>><label for="place8" class="label">グランファーレ真駒内グランフォレスト</label>
 														</div>
 														<!--<div>
 															<input type="radio" name="place" value="グランファーレ宮の森 コートハウス四季の杜" id="place8" class="radio" <?php if(isset($_POST['place']) && ($_POST['place']=='グランファーレ宮の森 コートハウス四季の杜')){print " checked='checked'";} ?>><label for="place8" class="label">グランファーレ宮の森 コートハウス四季の杜</label>

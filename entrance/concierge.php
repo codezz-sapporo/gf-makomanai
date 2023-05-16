@@ -9,7 +9,7 @@
             </picture>
             <figcaption class="concierge-caption"><span class="concierge-caption__text">グランファーレ豊平公園前パークフロント ENTRANCE HALL</span><span class="concierge-caption__text">グランファーレ平岸THEパークサイド ENTRANCE HALL</span></figcaption>
         </figure>
-        <p class="text tab-section__text">忙しい日々をバックアップするサービスから、安らぎのひとときを提供するもてなしのサービスまで。<br class="br_pc">「グランファーレ真駒内フォレスト」は、永く快適に暮すための都市生活を考えた、コンシェルジュサービスをご用意しています。フロントコンシェルジュカウンターには、様々なご要望にお応えする専任のコンシェルジュが控え、ゲスト対応やプレミアムサービス、セレクタリーサービス、アメニティサービス、デイリーサービスなど、全てのサービスを統括し、上質な日常を住まう方にご提供いたします。</p>
+        <p class="text tab-section__text">忙しい日々をバックアップするサービスから、安らぎのひとときを提供するもてなしのサービスまで。<br class="br_pc">「グランファーレ真駒内グランフォレスト」は、永く快適に暮すための都市生活を考えた、コンシェルジュサービスをご用意しています。フロントコンシェルジュカウンターには、様々なご要望にお応えする専任のコンシェルジュが控え、ゲスト対応やプレミアムサービス、セレクタリーサービス、アメニティサービス、デイリーサービスなど、全てのサービスを統括し、上質な日常を住まう方にご提供いたします。</p>
         <ul class="entrance-intro__photo-list">
             <li class="entrance-intro__photo-item">
                 <figure>

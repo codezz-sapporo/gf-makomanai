@@ -5,9 +5,9 @@
 <link rel="stylesheet" href="<?php print URL; ?>/assets/css/slick.css">
 <link rel="stylesheet" href="<?php print URL; ?>/assets/css/top.css" />
 
-<title>ホーム | グランファーレ真駒内フォレスト | 日本グランデ株式会社</title>
-<meta name="description" content="日本グランデによる新しいスマートマンションが札幌市白石区菊水に誕生。地下鉄東西線「真駒内」駅徒歩6分、「菊水」駅徒歩9分。グランファーレ真駒内フォレスト">
-<meta name="keywords" content="グランファーレ真駒内フォレスト,真駒内,菊水,札幌,白石区,新築分譲マンション,分譲マンション,北海道,東西線,日本グランデ">
+<title>ホーム | グランファーレ真駒内グランフォレスト | 日本グランデ株式会社</title>
+<meta name="description" content="日本グランデによる新しいスマートマンションが札幌市白石区菊水に誕生。地下鉄東西線「真駒内」駅徒歩6分、「菊水」駅徒歩9分。グランファーレ真駒内グランフォレスト">
+<meta name="keywords" content="グランファーレ真駒内グランフォレスト,真駒内,菊水,札幌,白石区,新築分譲マンション,分譲マンション,北海道,東西線,日本グランデ">
 
 <?php
 	include('../header_2.php');
@@ -22,7 +22,7 @@
                 <source media="(min-width: 835px)" type="image/webp" srcset="<?php print URL; ?>/assets/webp/top/mv-top_pc.webp">
                 <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/top/mv-top_sp.webp">
                 <source media="(min-width: 835px)" type="image/jpg" srcset="<?php print URL; ?>/assets/img/top/mv-top_pc.jpg">
-                <img src="<?php print URL; ?>/assets/img/top/mv-top_sp.jpg" alt="グランファーレ真駒内フォレスト" class="mainvisual__img">
+                <img src="<?php print URL; ?>/assets/img/top/mv-top_sp.jpg" alt="グランファーレ真駒内グランフォレスト" class="mainvisual__img">
             </picture>
         </h1>
         <div class="top-mainvisual__text-area">
@@ -115,10 +115,10 @@
 
     <div class="intro fadeUpTrigger">
         <p class="intro__title">
-            <span class="intro__title_small">低層レジデンス×真駒内</span><br>「グランファーレ真駒内フォレスト」
+            <span class="intro__title_small">低層レジデンス×真駒内</span><br>「グランファーレ真駒内グランフォレスト」
         </p>
         <p class="text">私たちは札幌市中央区内の第一種中高層住居専用地域で培ってきた壁式鉄筋コンクリート造の実績を生かし、この真駒内の地にふさわしい低層レジデンスを創造します。迎えてくれるのは、美しくもてなす格調高い迎賓の贅。幾何学模様のデザインをあしらったエントランスなど、ヨーロピアンテイストにこだわった設計意匠は、訪れる方に羨望を、住まう方には誇りをもたらします。<br>
-            「グランファーレ真駒内フォレスト」は、住まわれる方の気品を尊重することはもちろん、街並みの景観にも貢献する、美しさを極めた品質で大切なご家族とそのゲストをお迎えいたします。</p>
+            「グランファーレ真駒内グランフォレスト」は、住まわれる方の気品を尊重することはもちろん、街並みの景観にも貢献する、美しさを極めた品質で大切なご家族とそのゲストをお迎えいたします。</p>
     </div>
 
     <section class="top-section top-section_bg top-section_location">

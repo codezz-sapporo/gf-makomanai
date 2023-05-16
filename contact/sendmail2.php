@@ -36,7 +36,7 @@ if($_POST['type'] == "send"){
 	$reason = $_POST['reason'];
 	$parking = $_POST['parking'];
 	$purchase = $_POST['purchase'];
-	
+
 		date_default_timezone_set('Asia/Tokyo');
 	$senddate = $week.date("r");
 	$ua = $_SERVER['HTTP_USER_AGENT'];
@@ -105,7 +105,7 @@ EOM;
 
 ─ご送信内容の確認─────────────────
 [ 資料希望物件 ] {$place}
-[ 物件を何でお知りになりましたか ]{$know} 
+[ 物件を何でお知りになりましたか ]{$know}
 [ 姓 ] {$na1}
 [ 名 ] {$na2}
 [ セイ ] {$kana1}
@@ -117,10 +117,10 @@ EOM;
 [ 丁目番地 ] {$banchi}
 [ 電話番号 ] {$tel1}
 [ 年齢 ] {$age}
-[ 性別 ] {$jender} 
+[ 性別 ] {$jender}
 [ 現在の住居形態 ] {$current}
-[ ご希望の間取り ] {$layout} 
-[ 購入検討理由 ] {$reason} 
+[ ご希望の間取り ] {$layout}
+[ 購入検討理由 ] {$reason}
 ──────────────────────────
 
 このメールアドレスは配信専用となっております。
@@ -140,13 +140,13 @@ EOM;
 
 	mb_language("ja");
 	mb_internal_encoding("UTF-8");
-	$title = "【グランファーレ真駒内フォレスト】資料請求ありがとうございます";
-	$title2 = "【グランファーレ真駒内フォレスト】お客様より資料請求がありました。";
+	$title = "【グランファーレ真駒内グランフォレスト】資料請求ありがとうございます";
+	$title2 = "【グランファーレ真駒内グランフォレスト】お客様より資料請求がありました。";
 	//from管理者
 
 	$header = "From: " .mb_encode_mimeheader("日本グランデ株式会社") ."<grande@nippon-grande.co.jp>\r\n";
 	$header .= 'Return-Path: grande@nippon-grande.co.jp';
-	
+
 	$admin = "grande@nippon-grande.co.jp,k.yonemori@nippon-grande.co.jp,m.kuroiwa@nippon-grande.co.jp";
 
 	//管理者

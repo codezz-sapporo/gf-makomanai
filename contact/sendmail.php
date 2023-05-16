@@ -119,13 +119,13 @@ EOM;
 
 	mb_language("ja");
 	mb_internal_encoding("UTF-8");
-	$title = "【グランファーレ真駒内フォレスト】お問い合わせありがとうございました";
-	$title2 = "【グランファーレ真駒内フォレスト】お客様よりお問い合わせがありました。";
+	$title = "【グランファーレ真駒内グランフォレスト】お問い合わせありがとうございました";
+	$title2 = "【グランファーレ真駒内グランフォレスト】お客様よりお問い合わせがありました。";
 	//from管理者
 
 	$header = "From: " .mb_encode_mimeheader("日本グランデ株式会社") ."<grande@nippon-grande.co.jp>\r\n";
 	$header .= 'Return-Path: grande@nippon-grande.co.jp';
-	
+
 	$admin = "grande@nippon-grande.co.jp,k.yonemori@nippon-grande.co.jp,m.kuroiwa@nippon-grande.co.jp";
 
 	//管理者

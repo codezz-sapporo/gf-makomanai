@@ -4,9 +4,9 @@
   <link rel="stylesheet" href="<?php print URL; ?>/assets/css/slick-theme.css">
 	<link rel="stylesheet" href="<?php print URL; ?>/assets/css/slick.css">
 	<link rel="stylesheet" href="<?php print URL; ?>/assets/css/location.css" />
-	<title>周辺環境 | グランファーレ真駒内フォレスト | 日本グランデ株式会社</title>
-	<meta name="description" content="日本グランデによる新しいスマートマンションが札幌市白石区菊水に誕生。地下鉄東西線「真駒内」駅徒歩6分、「菊水」駅徒歩9分。グランファーレ真駒内フォレスト">
-	<meta name="keywords" content="グランファーレ真駒内フォレスト,真駒内,菊水,札幌,白石区,新築分譲マンション,分譲マンション,北海道,東西線,日本グランデ">
+	<title>周辺環境 | グランファーレ真駒内グランフォレスト | 日本グランデ株式会社</title>
+	<meta name="description" content="日本グランデによる新しいスマートマンションが札幌市白石区菊水に誕生。地下鉄東西線「真駒内」駅徒歩6分、「菊水」駅徒歩9分。グランファーレ真駒内グランフォレスト">
+	<meta name="keywords" content="グランファーレ真駒内グランフォレスト,真駒内,菊水,札幌,白石区,新築分譲マンション,分譲マンション,北海道,東西線,日本グランデ">
 
 <?php
 	include_once('../header_2.php');
@@ -83,6 +83,6 @@
     <?php
       include_once('../common-js.php');
     ?>
-    
+
 </body>
 </html>

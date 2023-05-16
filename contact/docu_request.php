@@ -7,7 +7,7 @@
 			$err1 = false;
 			$place = $_POST['place'];
 		}
-		
+
 		if(empty($_POST['know'])){
 			$err2 = true;
 			$err2 = "※必須項目です。";
@@ -15,7 +15,7 @@
 			$err2 = false;
 			$know = $_POST['know'];
 		}
-				
+
 		if(empty($_POST['na1']) && empty($_POST['na2'])){
 			$err3 = true;
 			$err3 = "※必須項目です。";
@@ -27,7 +27,7 @@
 
 		$kana1 = htmlspecialchars($_POST['kana1'], ENT_QUOTES, "UTF-8");
 		$kana2 = htmlspecialchars($_POST['kana2'], ENT_QUOTES, "UTF-8");
-		
+
 		if($_POST['mail1']){
 			if(preg_match("/^([a-zA-Z0-9])+([a-zA-Z0-9\._-])*@([a-zA-Z0-9_-])+([a-zA-Z0-9\._-]+)+$/", $_POST['mail1'])) {
 				$err4 = false;
@@ -38,7 +38,7 @@
 		}else{
 			$err4 = "※必須項目です。";
 		}
-		
+
 		if($_POST['mail2']){
 			if(preg_match("/^([a-zA-Z0-9])+([a-zA-Z0-9\._-])*@([a-zA-Z0-9_-])+([a-zA-Z0-9\._-]+)+$/", $_POST['mail2'])){
 				if($mail1 == $_POST['mail2']){
@@ -61,7 +61,7 @@
 			$err6 = false;
 			$zip = htmlspecialchars($_POST['zip'], ENT_QUOTES, "UTF-8");
 		}
-		
+
 		if(empty($_POST['pref'])){
 			$err7 = true;
 			$err7 = "※必須項目です。";
@@ -69,7 +69,7 @@
 			$err7 = false;
 			$pref = $_POST['pref'];
 		}
-		
+
 		if(empty($_POST['address'])){
 			$err8 = true;
 			$err8 = "※必須項目です。";
@@ -77,7 +77,7 @@
 			$err8 = false;
 			$address = htmlspecialchars($_POST['address'], ENT_QUOTES, "UTF-8");
 		}
-		
+
 		if(empty($_POST['banchi'])){
 			$err9 = true;
 			$err9 = "※必須項目です。";
@@ -85,10 +85,10 @@
 			$err9 = false;
 			$banchi = htmlspecialchars($_POST['banchi'], ENT_QUOTES, "UTF-8");
 		}
-		
+
 		$roomname = htmlspecialchars($_POST['roomname'], ENT_QUOTES, "UTF-8");
 		$roomnum = htmlspecialchars($_POST['roomnum'], ENT_QUOTES, "UTF-8");
-		
+
 		if(!empty($_POST['tel1'])){
 			if(preg_match("/^(0{1}\d{9,10})$/", $_POST['tel1'])){
 				$err10 = false;
@@ -111,11 +111,11 @@
 				$err11 = "※電話番号の形式が正しくありません。";
 			}
 		}
-//		
+//
 //		$age = htmlspecialchars($_POST['age'], ENT_QUOTES, "UTF-8");
 //		$jender = htmlspecialchars($_POST['jender'], ENT_QUOTES, "UTF-8");
 //		$job = htmlspecialchars($_POST['job'], ENT_QUOTES, "UTF-8");
-		
+
 		if(empty($_POST['current'])){
 			$err12 = true;
 			$err12 = "※必須項目です。";
@@ -123,9 +123,9 @@
 			$err12 = false;
 			$current = $_POST['current'];
 		}
-	
-		
-		
+
+
+
 		if(empty($_POST['layout'])){
 			$err13 = true;
 			$err13 = "※必須項目です。";
@@ -133,9 +133,9 @@
 			$err13 = false;
 			$layout = $_POST['layout'];
 		}
-	
-			
-		
+
+
+
 		if(empty($_POST['reason'])){
 			$err14 = true;
 			$err14 = "※必須項目です。";
@@ -143,7 +143,7 @@
 			$err14 = false;
 			$reason = $_POST['reason'];
 		}
-	
+
 
 		if($err1 || $err2 || $err3 || $err4 || $err5 || $err6 || $err7 || $err8 || $err9 || $err10 || $err11 || $err12 || $err13 || $err14){
 			$error = true;
@@ -157,9 +157,9 @@
 
 	<link rel="stylesheet" href="<?php print URL; ?>/assets/css/contact.css" />
 
-	<title>資料請求 | グランファーレ真駒内フォレスト | 日本グランデ株式会社</title>
-	<meta name="description" content="日本グランデによる新しいスマートマンションが札幌市白石区菊水に誕生。地下鉄東西線「真駒内」駅徒歩6分、「菊水」駅徒歩9分。グランファーレ真駒内フォレスト">
-	<meta name="keywords" content="グランファーレ真駒内フォレスト,真駒内,菊水,札幌,白石区,新築分譲マンション,分譲マンション,北海道,東西線,日本グランデ">
+	<title>資料請求 | グランファーレ真駒内グランフォレスト | 日本グランデ株式会社</title>
+	<meta name="description" content="日本グランデによる新しいスマートマンションが札幌市白石区菊水に誕生。地下鉄東西線「真駒内」駅徒歩6分、「菊水」駅徒歩9分。グランファーレ真駒内グランフォレスト">
+	<meta name="keywords" content="グランファーレ真駒内グランフォレスト,真駒内,菊水,札幌,白石区,新築分譲マンション,分譲マンション,北海道,東西線,日本グランデ">
 
 <?php
 	include_once('../header_2.php');
@@ -193,7 +193,7 @@
 													<div class="radio-out l-height35 mt40 rel">
 														<div class="error"><?php print $err1; ?></div>
 														<div>
-															<input type="radio" name="place" value="グランファーレ真駒内フォレスト" id="place8" class="radio" <?php if(isset($_POST['place']) && ($_POST['place']=='グランファーレ真駒内フォレスト')){print " checked='checked'";} ?>><label for="place8" class="label">グランファーレ真駒内フォレスト</label>
+															<input type="radio" name="place" value="グランファーレ真駒内グランフォレスト" id="place8" class="radio" <?php if(isset($_POST['place']) && ($_POST['place']=='グランファーレ真駒内グランフォレスト')){print " checked='checked'";} ?>><label for="place8" class="label">グランファーレ真駒内グランフォレスト</label>
 														</div>
 														<!--<div>
 															<input type="radio" name="place" value="グランファーレ宮の森 コートハウス四季の杜" id="place8" class="radio" <?php if(isset($_POST['place']) && ($_POST['place']=='グランファーレ宮の森 コートハウス四季の杜')){print " checked='checked'";} ?>><label for="place8" class="label">グランファーレ宮の森 コートハウス四季の杜</label>

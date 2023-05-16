@@ -7,7 +7,7 @@
         </div>
         <div class="info">
             <dl class="info__unit">
-                <dt class="info__title">グランファーレ真駒内フォレスト マンションギャラリー<br class="br_sp">いよいよ2月25日（土）よりプレオープン！</dt>
+                <dt class="info__title">グランファーレ真駒内グランフォレスト マンションギャラリー<br class="br_sp">いよいよ2月25日（土）よりプレオープン！</dt>
                 <dd class="text"></dd>
             </dl>
 
@@ -27,7 +27,7 @@
                 <img src="../assets/img/model-room/covid.png" alt="新型コロナウイルスに対して、マンションギャラリーにて感染予防対策を実施しております。">
             </picture>
             <h2 class="covid__title">【マンションギャラリーでの新型コロナウイルス感染症に対する対応について】</h2>
-            <p class="text">｢グランファーレ真駒内フォレスト｣では、ご来場予定の皆様のご見学にあたり以下の対策を行っております。</p>
+            <p class="text">｢グランファーレ真駒内グランフォレスト｣では、ご来場予定の皆様のご見学にあたり以下の対策を行っております。</p>
             <ol class="covid__list">
                 <li class="text covid__item">エントランスにアルコール消毒液を設置しております。</li>
                 <li class="text covid__item">毎回、接客スペースの机・椅子・マンションギャラリー内の消毒をしています。</li>

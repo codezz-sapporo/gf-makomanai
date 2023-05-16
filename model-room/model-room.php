@@ -7,17 +7,18 @@
         </div>
         <div class="info">
             <dl class="info__unit">
-                <dt class="info__title">グランファーレ真駒内グランフォレスト マンションギャラリー<br class="br_sp">いよいよ2月25日（土）よりプレオープン！</dt>
+                <dt class="info__title">グランファーレ真駒内グランフォレスト マンションギャラリー<br class="br_sp">いよいよ6月3日（土）よりプレオープン！</dt>
                 <dd class="text"></dd>
             </dl>
 
             <dl class="info__unit">
                 <dt class="info__title">住所</dt>
-                <dd class="text">札幌市中央区南6条西15丁目2-5 1F</dd>
+                <dd class="text">札幌市南区真駒内緑町1丁目3番</dd>
             </dl>
             <dl class="info__unit">
                 <dt class="info__title">営業時間</dt>
-                <dd class="text">平日：11:00～17:00（火曜・水曜定休）土日祝：10:00～17:00</dd>
+                <dd class="text">平日：11:00～17:00（火曜・水曜定休）土日祝：10:00～17:00<br>
+                    ※マンションギャラリーには駐車場をご用意しております。お車でお越しの際はご利用ください。</dd>
             </dl>
         </div>
 

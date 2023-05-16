@@ -31,7 +31,7 @@
             <li class="securiry-list__item">
                 <picture class="">
                     <source type="image/webp" srcset="../assets/webp/security/it/sec3_1.webp">
-                    <img src="../assets/img/security/it/sec3_1.jpg" alt="エントランス" class="">
+                    <img src="../assets/img/security/it/sec3_1.png" alt="エントランス" class="">
                 </picture>
             </li>
         </ul>
@@ -61,7 +61,7 @@
             </picture>
         </div>
     </section>
-	<div class="tab-section tab-section_bg">
+    <div class="tab-section tab-section_bg">
         <ul class="item-box item-box_it">
             <li class="box box_3">
                 <picture class="item-box__photo">

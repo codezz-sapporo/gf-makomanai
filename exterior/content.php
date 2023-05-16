@@ -24,7 +24,7 @@
         </div>
         <div class="intro intro_massage fadeUpTrigger delay-time06">
             <h3 class="section__lead">欧風建築の美学を求めて。<br>迎賓と安らぎの日常へ、ようこそ。</h3>
-            <p class="text">
+            <p class="text ta_c">
                 そこに、想像を遥かに超える別世界が幕を開けようとしています。<br>
                 ご提案するのは、時を越え、誇りの象徴であり続ける頂の地。<br>
                 時とともに輝きを増す家族の日々。時を経ても色あせることのない開放感。<br>

@@ -1131,6 +1131,13 @@ figcaption {
     align-items: center;
     flex-direction: row-reverse;
   }
+  .tab-section__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+    margin-bottom: 50px;
+  }
   .tab-section__photo {
     width: 47.5%;
     margin: 0;

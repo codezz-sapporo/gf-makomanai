@@ -66,35 +66,26 @@
     </div>
 
     <div class="tab-section">
-        <section class="hikaritv">
-            <div class="hikaritv__title">
-                <h3>
-                    <picture class="hikaritv__logo">
-                        <source type="image/webp" srcset="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/webp/entrance/theater/logo_hikaritv.webp">
-                        <img src="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/img/entrance/theater/logo_hikaritv.png" alt="ひかりTV" class="hikaritv__img">
-                    </picture>
-                </h3>
-                <figure class="presence__photo presence__photo_03">
-                    <picture>
-                        <source type="image/webp" srcset="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/webp/entrance/theater/tv_img.webp">
-                        <img src="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/img/entrance/theater/tv_img.jpg" alt="フロントコンシェルジュサービス" class="hikaritv__img">
-                    </picture>
-                    <figcaption class="photo-cap">グランファーレ円山公園南コートハウス</figcaption>
-                </figure>
-                <p class="text">ひかりTVのシアターサービスは、合計50以上の専門 チャンネル放送をお楽しみいただけるサービス。最新の海外ドラマや映画、子供も楽しめるアニメ、旬のエンタメ、ワールドワイドなスポーツ、音楽など、みんなのひかりTVのシアターサービスで、もっと楽しもう!(無料) </p>
-            </div>
-            <section class="hikaritv__contents">
-                <h4 class="title-h3 ta_c">豊富なライブラリーの中から視聴可能!<br>レンタルにさよなら!<br class="br_sp">ビデオ・オンデマンド!</h4>
-                <p class="text text_hikaritv hikaritv__text">今日は帰ってゆっくりビデオを見よう。休日を利用して見たかったTVシリーズを一気に見よう。そんなとき、あなたはどうしますか？レンタルビデオ店までひとっ走り？ちょっとお待ちください!ひかりTVのビデオサービスはビデオ・オン・デマンド(VOD)。約10,000本のビデオ作品が無料見放題のラインナップから、お好きな時間にお好きなだけ、レンタルビデオ感覚でビデオ作品をお楽しみいただけます。豊富なラインナップがそろっているから、楽しみ方はあなた次第。しかも随時タイトルが入れ替わるので、ずっと楽しめる!毎月、ジャンル別にご提供する｢ベーシック見放題ビデオ作品リスト｣を活用し、ぜひ色々なビデオ作品をお楽しみ下さい。パソコンで観る動画配信ではなく、シアターで観られる迫力だから、家族みんなで楽しめる。もちろん高画質なハイビジョンビデオも充実。</p>
-                <dl class="hikaritv-unit">
-                    <dt class="title-h3 ta_c">シアターサービス(50ch以上)<br class="pc">チャンネル<br class="br_sp">ラインナップ</dt>
-                    <dd class="text text_hikaritv hikaritv-unit__text">アクション、ドラマ、コメディ、ラブストーリーなど<br class="br_pc">厳選した 映画やドラマ約10,000本が見放題!</dd>
-                    <dd class="text text_hikaritv hikaritv-unit__text">合計50ch以上のバラエティ豊富なラインナップ </dd>
-                    <dd class="text text_hikaritv hikaritv-unit__text">全て高品質なハイビジョン対応!</dd>
-                </dl>
-                <p class="text text_hikaritv">シアターサービスは、地上波のテレビチャンネルと同じような感覚で、50ch以上ある映画やアニメ・音楽・韓流などの専門チャンネルから好きな番組を選べます。</p>
-            </section>
-        </section>
+        <div class="tab-section__wrapper">
+            <figure class="presence__photo presence__photo_03">
+                <picture>
+                    <source type="image/webp" srcset="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/webp/entrance/theater/tv_img.webp">
+                    <img src="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/img/entrance/theater/tv_img.jpg" alt="グランファーレ宮の森" class="hikaritv__img">
+                </picture>
+                <figcaption class="photo-cap">グランファーレ宮の森</figcaption>
+            </figure>
+            <figure class="presence__photo presence__photo_03">
+                <picture>
+                    <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/theater/tv_img2.webp">
+                    <img src="<?php print URL; ?>/assets/img/entrance/theater/tv_img2.jpg" alt="コートハウス四季の杜" class="hikaritv__img">
+                </picture>
+                <figcaption class="photo-cap">コートハウス四季の杜</figcaption>
+            </figure>
+        </div>
+        <picture>
+            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/theater/img3.webp">
+            <img src="<?php print URL; ?>/assets/img/entrance/theater/img3.jpg" alt="" class="mainvisual__img">
+        </picture>
     </div>
 
 </section>

@@ -137,7 +137,7 @@ label {
 }
 .mainvisual-pos {
   position: absolute;
-  font-size: calc((11 / 375) * 100vw);
+  font-size: calc((12 / 375) * 100vw);
   text-shadow: 7px 4px 4px rgba(0, 0, 0, 0.7);
   text-align: left;
   line-height: 2;

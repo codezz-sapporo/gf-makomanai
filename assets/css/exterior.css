@@ -31,10 +31,10 @@
 .mainvisual-large-lead_exterior::before {
   display: block;
   content: "";
-  width: calc((318 / 375) * 100vw);
-  height: calc(((340 / 375) / 10) * 100vw);
+  width: calc((348 / 375) * 100vw);
+  height: calc(((350 / 375) / 10) * 100vw);
   position: absolute;
-  top: 4%;
+  top: 3%;
   z-index: -1;
   background-repeat: no-repeat;
   background-size: cover;
@@ -59,11 +59,11 @@
 .mainvisual-lead_exterior::before {
   display: block;
   content: "";
-  width: calc((281 / 375) * 100vw);
-  height: 7vw;
+  width: calc((317 / 375) * 100vw);
+  height: 8vw;
   position: absolute;
   top: 4%;
-  left: 4%;
+  left: 3%;
   z-index: -1;
   background-repeat: no-repeat;
   background-size: contain;
@@ -83,16 +83,15 @@
     top: calc((117 / 1440) * 100vw);
   }
   .mainvisual-large-lead_exterior::before {
-    width: calc((424 / 1440) * 100vw);
-    height: 3.1vw;
+    width: calc((600 / 1440) * 100vw);
+    height: 4.5vw;
     top: 5%;
-    left: 1%;
   }
   .mainvisual-lead_exterior::before {
-    width: calc((304 / 1440) * 100vw);
-    height: 3vw;
-    top: 5%;
-    left: 13.5%;
+    width: calc((530 / 1440) * 100vw);
+    height: 4vw;
+    top: -3%;
+    left: 5.5%;
   }
 }
 

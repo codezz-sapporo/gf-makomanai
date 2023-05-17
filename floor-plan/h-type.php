@@ -1,58 +1,41 @@
-<section class="tab_main js-tab-cts" data-tab="tab-5">
+<section class="tab_main js-tab-cts" data-tab="tab-8">
 
-    <h2 class="sub__h1">E-type</h2>
+    <h2 class="sub__h1">H-type</h2>
 
     <div class="contents" id="symbol03s_center">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="e-type">
+                <li class="parent" id="h-type">
                     <div class="name_size fgara">
-                        <h3><span>E</span>type</h3>
-                        <p><span>67.43</span>m<sup>2</sup></p>
+                        <h3><span>H</span>type</h3>
+                        <p><span>83.94</span>m<sup>2</sup></p>
                     </div>
-                    <p class="floor fgara"><span>3LDK</span>+SIC+W+HS+AL+TR</p>
+                    <p class="floor fgara"><span>4LDK</span>+W+HC+KP+AL+TR</p>
                     <ul class="data">
-                        <li>専有面積／67.43㎡（20.39坪）</li>
-                        <li>バルコニー面積／13.67㎡（4.13坪）</li>
-                        <li>アルコーブ面積／1.71㎡（0.51坪）</li>
+                        <li>専有面積／83.94㎡（25.39坪）</li>
+                        <li>バルコニー面積／15.74㎡（4.76坪）</li>
+                        <li>アルコーブ面積／1.80㎡（0.54坪）</li>
                     </ul>
                     <p class="floorimg floorimg_02">
-                        <img src="../assets/svg/a-type/e-type.svg" width="700" height="718" alt="Etype">
+                        <img src="../assets/svg/a-type/h-type.svg" width="700" height="718" alt="Htype">
                     </p>
-                    <a href="e-type_detail.php" class="detail-label" id="e-type">間取りを拡大する</a>
+                    <a href="h-type_detail.php" class="detail-label" id="h-type">間取りを拡大する</a>
                 </li>
-                <li class="parent" id="e-type">
+                <li class="parent" id="h-type">
                     <div class="name_size fgara">
-                        <h3><span>E1</span>type</h3>
-                        <p><span>67.43</span>m<sup>2</sup></p>
+                        <h3><span>H2</span>type</h3>
+                        <p><span>83.94</span>m<sup>2</sup></p>
                     </div>
-                    <p class="floor fgara"><span>3LDK</span>+SIC+W+HS+PG+OS+AL+TR</p>
+                    <p class="floor fgara"><span>4LDK</span>+OP+W+HC+KP+AL+TR</p>
                     <ul class="data">
-                        <li>専有面積／67.43㎡（20.39坪）</li>
-                        <li>テラス面積／22.75㎡（6.88坪）</li>
-                        <li>専用庭面積／24.10㎡（7.29坪）</li>
-                        <li>アルコーブ面積／1.71㎡（0.51坪）</li>
+                        <li>専有面積／83.94㎡（25.39坪）</li>
+                        <li>バルコニー面積／15.74㎡（4.76坪）</li>
+                        <li>アルコーブ面積／1.80㎡（0.54坪）</li>
                     </ul>
                     <p class="floorimg floorimg_02">
-                        <img src="../assets/svg/a-type/e1-type.svg" width="700" height="718" alt="E1type">
+                        <img src="../assets/svg/a-type/h2-type.svg" width="700" height="718" alt="H1type">
                     </p>
-                    <a href="e1-type_detail.php" class="detail-label" id="e1-type">間取りを拡大する</a>
-                </li>
-                <li class="parent" id="e-type">
-                    <div class="name_size fgara">
-                        <h3><span>E2</span>type</h3>
-                        <p><span>67.43</span>m<sup>2</sup></p>
-                    </div>
-                    <p class="floor fgara"><span>3LDK</span>+OP+SIC+W+HS+AL+TR</p>
-                    <ul class="data">
-                        <li>専有面積／67.43㎡（20.39坪）</li>
-                        <li>バルコニー面積／13.67㎡（4.13坪）</li>
-                        <li>アルコーブ面積／1.71㎡（0.51坪）</li>
-                    </ul>
-                    <p class="floorimg floorimg_02">
-                        <img src="../assets/svg/a-type/e2-type.svg" width="700" height="718" alt="Ctype">
-                    </p>
-                    <a href="e2-type_detail.php" class="detail-label" id="e2-type">間取りを拡大する</a>
+                    <a href="h1-type_detail.php" class="detail-label" id="h-type">間取りを拡大する</a>
                 </li>
             </ul>
             <div class="func">

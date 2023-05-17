@@ -1,58 +1,25 @@
-<section class="tab_main js-tab-cts" data-tab="tab-5">
+<section class="tab_main js-tab-cts" data-tab="tab-7">
 
-    <h2 class="sub__h1">E-type</h2>
+    <h2 class="sub__h1">G-type</h2>
 
     <div class="contents" id="symbol03s_center">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="e-type">
+                <li class="parent" id="g-type">
                     <div class="name_size fgara">
-                        <h3><span>E</span>type</h3>
-                        <p><span>67.43</span>m<sup>2</sup></p>
+                        <h3><span>G</span>type</h3>
+                        <p><span>44.17</span>m<sup>2</sup></p>
                     </div>
-                    <p class="floor fgara"><span>3LDK</span>+SIC+W+HS+AL+TR</p>
+                    <p class="floor fgara"><span>1LDK</span>+SC+KP+AL+TR</p>
                     <ul class="data">
-                        <li>専有面積／67.43㎡（20.39坪）</li>
-                        <li>バルコニー面積／13.67㎡（4.13坪）</li>
-                        <li>アルコーブ面積／1.71㎡（0.51坪）</li>
+                        <li>専有面積／44.17㎡（13.36坪）</li>
+                        <li>バルコニー面積／8.95㎡（2.70坪）</li>
+                        <li>アルコーブ面積／0.83㎡（0.25坪）</li>
                     </ul>
                     <p class="floorimg floorimg_02">
-                        <img src="../assets/svg/a-type/e-type.svg" width="700" height="718" alt="Etype">
+                        <img src="../assets/svg/a-type/g-type.svg" width="700" height="718" alt="Ftype">
                     </p>
-                    <a href="e-type_detail.php" class="detail-label" id="e-type">間取りを拡大する</a>
-                </li>
-                <li class="parent" id="e-type">
-                    <div class="name_size fgara">
-                        <h3><span>E1</span>type</h3>
-                        <p><span>67.43</span>m<sup>2</sup></p>
-                    </div>
-                    <p class="floor fgara"><span>3LDK</span>+SIC+W+HS+PG+OS+AL+TR</p>
-                    <ul class="data">
-                        <li>専有面積／67.43㎡（20.39坪）</li>
-                        <li>テラス面積／22.75㎡（6.88坪）</li>
-                        <li>専用庭面積／24.10㎡（7.29坪）</li>
-                        <li>アルコーブ面積／1.71㎡（0.51坪）</li>
-                    </ul>
-                    <p class="floorimg floorimg_02">
-                        <img src="../assets/svg/a-type/e1-type.svg" width="700" height="718" alt="E1type">
-                    </p>
-                    <a href="e1-type_detail.php" class="detail-label" id="e1-type">間取りを拡大する</a>
-                </li>
-                <li class="parent" id="e-type">
-                    <div class="name_size fgara">
-                        <h3><span>E2</span>type</h3>
-                        <p><span>67.43</span>m<sup>2</sup></p>
-                    </div>
-                    <p class="floor fgara"><span>3LDK</span>+OP+SIC+W+HS+AL+TR</p>
-                    <ul class="data">
-                        <li>専有面積／67.43㎡（20.39坪）</li>
-                        <li>バルコニー面積／13.67㎡（4.13坪）</li>
-                        <li>アルコーブ面積／1.71㎡（0.51坪）</li>
-                    </ul>
-                    <p class="floorimg floorimg_02">
-                        <img src="../assets/svg/a-type/e2-type.svg" width="700" height="718" alt="Ctype">
-                    </p>
-                    <a href="e2-type_detail.php" class="detail-label" id="e2-type">間取りを拡大する</a>
+                    <a href="g-type_detail.php" class="detail-label" id="g-type">間取りを拡大する</a>
                 </li>
             </ul>
             <div class="func">

@@ -3,7 +3,7 @@
 ?>
 
 	<link rel="stylesheet" href="<?php print URL; ?>/assets/css/a-type.css" />
-	<title>A-type詳細 | 間取り | グランファーレ真駒内グランフォレスト | 日本グランデ株式会社</title>
+	<title>C1-type詳細 | 間取り | グランファーレ真駒内グランフォレスト | 日本グランデ株式会社</title>
 	<meta name="description" content="日本グランデによる新しいスマートマンションが札幌市中央区に誕生。地下鉄東西線｢西28丁目駅｣停徒歩9分。グランファーレ真駒内グランフォレスト">
 	<meta name="keywords" content="グランファーレ宮の森コートハウス,宮の森,札幌,中央区,新築分譲マンション,分譲マンション,北海道,東西線,日本グランデ">
 
@@ -20,12 +20,11 @@
 	                <div class="main">
 	                    <div class="head fgara">
 	                        <h3><span>C<span class="detail-title_small">1</span></span>type</h3>
-	                        <p class="size"><span>68.16</span>m<sup>2</sup></p>
-	                        <p class="floor"><span>3LDK</span>+W+HC+PG+OS+AL</p>
+	                        <p class="size"><span>52.02</span>m<sup>2</sup></p>
+	                        <p class="floor"><span>2LDK</span>+W+HC+PG+OS+AL</p>
 	                    </div>
 	                    <ul class="data">
 	                        <li>専有面積／52.02㎡（15.73坪）</li>
-	                        <li>バルコニー面積／10.77㎡（3.25坪）</li>
 	                        <li>テラス面積／10.77㎡（3.25坪）</li>
 	                        <li>専用庭面積／31.60㎡（9.55坪）</li>
 	                        <li>アルコーブ面積／0.94㎡（0.28坪）</li>

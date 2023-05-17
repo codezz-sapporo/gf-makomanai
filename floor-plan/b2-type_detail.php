@@ -24,14 +24,14 @@
                         <p class="floor"><span>3LDK</span>+OP+SIC+W+KP+AL+TR</p>
                     </div>
                     <ul class="data">
-                        <li>専有面積／70.42㎡（21.30坪）《TR面積1.30㎡（0.39坪）を含む》</li>
+                        <li>専有面積／70.42㎡（21.30坪）</li>
                         <li>バルコニー面積／14.13㎡（4.27坪）</li>
                         <li>アルコーブ面積／0.64㎡（0.19坪）</li>
                         <li>OP：オープンペントハウス　SIC：シューズインクローゼット　W：ウォークインクローゼット　KP：キッチンパントリー　AL：アルコーブ　TR：トランクルーム</li>
                     </ul>
                     <p class="cap">B2タイプはリビングダイニングがオープンペントハウスとなっています。高く設けた天井高約3.95mの開放的な吹抜けを演出し、その窓から差し込む光で部屋全体を明るく包み込みます。</p>
                     <p class="floorimg">
-                        <img src="../assets/svg/a-type/b-type2.svg" width="700" height="718" alt="Btype">
+                        <img src="../assets/svg/a-type/b2-type.svg" width="700" height="718" alt="B2type">
                     </p>
                 </div>
 

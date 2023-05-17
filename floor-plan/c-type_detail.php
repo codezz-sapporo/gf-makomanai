@@ -20,7 +20,7 @@
                 <div class="main">
                     <div class="head fgara">
                         <h3><span>C</span>type</h3>
-                        <p class="size"><span>72.06</span>m<sup>2</sup></p>
+                        <p class="size"><span>52.02</span>m<sup>2</sup></p>
                         <p class="floor"><span>2LDK</span>+W+HC+AL+TR </p>
                     </div>
                     <ul class="data">

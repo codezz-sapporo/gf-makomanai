@@ -116,14 +116,6 @@
                     </li>
                     <li class="box box_2">
                         <picture class="item-box__photo">
-                            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/sec3_2.webp">
-                            <img src="<?php print URL; ?>/assets/img/entrance/concierge/sec3_2.jpg" alt="ホームアテンダントサービス" class="mainvisual__img">
-                        </picture>
-                        <h5 class="item-box__title item-box__title_annotation">JRチケットの手配サービス</h5>
-                        <p class="text">旅行会社と提携。フロントにて乗車券、特急券、指定券などのJRチケットのご予約・手配を承ります。</p>
-                    </li>
-                    <li class="box box_2">
-                        <picture class="item-box__photo">
                             <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/sec3_3.webp">
                             <img src="<?php print URL; ?>/assets/img/entrance/concierge/sec3_3.jpg" alt="ホームアテンダントサービス" class="mainvisual__img">
                         </picture>
@@ -140,27 +132,11 @@
                     </li>
                     <li class="box box_2">
                         <picture class="item-box__photo">
-                            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/sec3_5.webp">
-                            <img src="<?php print URL; ?>/assets/img/entrance/concierge/sec3_5.jpg" alt="ホームアテンダントサービス" class="mainvisual__img">
-                        </picture>
-                        <h5 class="item-box__title item-box__title_annotation">インターネットサービス</h5>
-                        <p class="text">インターネットについての使い方やご質問などはフロントを通じてサポートいたします。</p>
-                    </li>
-                    <li class="box box_2">
-                        <picture class="item-box__photo">
                             <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/sec3_6.webp">
                             <img src="<?php print URL; ?>/assets/img/entrance/concierge/sec3_6.jpg" alt="ホームアテンダントサービス" class="mainvisual__img">
                         </picture>
                         <h5 class="item-box__title item-box__title_annotation">コピー・ファックスサービス</h5>
                         <p class="text">オーナーの方々にフロント備えつけのコピー機でモノクロコピー、ファクシミリの送信を承ります。</p>
-                    </li>
-                    <li class="box box_2">
-                        <picture class="item-box__photo">
-                            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/sec3_7.webp">
-                            <img src="<?php print URL; ?>/assets/img/entrance/concierge/sec3_7.jpg" alt="ホームアテンダントサービス" class="mainvisual__img">
-                        </picture>
-                        <h5 class="item-box__title item-box__title_annotation">航空券の手配サービス</h5>
-                        <p class="text">旅行会社と提携。フロントにて航空券のご予約と発券後の宅配サービスの手続きをいたします。</p>
                     </li>
                     <li class="box box_2">
                         <picture class="item-box__photo">
@@ -187,14 +163,6 @@
                         </picture>
                         <h5 class="item-box__title item-box__title_annotation">ハウスクリーニング紹介サービス</h5>
                         <p class="text">気になる汚れなど、住まいのクリーニングを、フロントにて専門業者をご紹介します。</p>
-                    </li>
-                    <li class="box box_2">
-                        <picture class="item-box__photo">
-                            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/sec4_2.webp">
-                            <img src="<?php print URL; ?>/assets/img/entrance/concierge/sec4_2.jpg" alt="飲食業者紹介サービス" class="mainvisual__img">
-                        </picture>
-                        <h5 class="item-box__title item-box__title_annotation">飲食業者紹介サービス</h5>
-                        <p class="text">温かで美味な食事を毎日、宅配サービスによってご提供する信頼の業者をフロントがご紹介いたします。</p>
                     </li>
                     <li class="box box_2">
                         <picture class="item-box__photo">
@@ -230,14 +198,6 @@
                     </li>
                     <li class="box box_2">
                         <picture class="item-box__photo">
-                            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/sec4_7.webp">
-                            <img src="<?php print URL; ?>/assets/img/entrance/concierge/sec4_7.jpg" alt="宅配スーパー紹介サービス" class="mainvisual__img">
-                        </picture>
-                        <h5 class="item-box__title item-box__title_annotation">宅配スーパー紹介サービス</h5>
-                        <p class="text">地域のスーパーと提携。新鮮な食材を毎日、宅配サービスする店舗をフロントがご紹介いたします。</p>
-                    </li>
-                    <li class="box box_2">
-                        <picture class="item-box__photo">
                             <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/sec4_8.webp">
                             <img src="<?php print URL; ?>/assets/img/entrance/concierge/sec4_8.jpg" alt="引越業者紹介サービス" class="mainvisual__img">
                         </picture>
@@ -267,14 +227,6 @@
                         </picture>
                         <h5 class="item-box__title item-box__title_annotation">ケータリング紹介サービス</h5>
                         <p class="text">ホームパーティーメニューなど、一流ホテルのケータリングをフロントにてご注文いただけます。</p>
-                    </li>
-                    <li class="box box_2">
-                        <picture class="item-box__photo">
-                            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/sec4_12.webp">
-                            <img src="<?php print URL; ?>/assets/img/entrance/concierge/sec4_12.jpg" alt="法定点検サービス" class="mainvisual__img">
-                        </picture>
-                        <h5 class="item-box__title item-box__title_annotation">法定点検サービス</h5>
-                        <p class="text">愛車のアフターメンテナンスのために信頼のおける整備業者と連携。フロントがご紹介いたします。</p>
                     </li>
                     <li class="box box_2">
                         <picture class="item-box__photo">
@@ -316,9 +268,22 @@
                         <h5 class="item-box__title item-box__title_annotation">食材・食事宅配サービス</h5>
                         <p class="text">一人暮らしや単身赴任・高齢者の方に栄養管理士が栄養バランスに配慮したお弁当配食サービスをご紹介します。</p>
                     </li>
-                    <li class="box box_2"></li>
-                    <li class="box box_2"></li>
-                    <li class="box box_2"></li>
+                    <li class="box box_2">
+                        <picture class="item-box__photo">
+                            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/sec4_18.webp">
+                            <img src="<?php print URL; ?>/assets/img/entrance/concierge/sec4_18.jpg" alt="サービス付き高齢者向け住宅・ご入居ご案内" class="mainvisual__img">
+                        </picture>
+                        <h5 class="item-box__title item-box__title_annotation">サービス付き高齢者向け住宅　ご入居ご案内</h5>
+                        <p class="text">両親・ご親戚等で高齢者住宅が必要となった場合に自社経営運営「グランウエルネスシリーズ」を優先的にご案内いたします。</p>
+                    </li>
+                    <li class="box box_2">
+                        <picture class="item-box__photo">
+                            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/sec4_19.webp">
+                            <img src="<?php print URL; ?>/assets/img/entrance/concierge/sec4_19.jpg" alt="「賃貸・売買」のサポート体制" class="mainvisual__img">
+                        </picture>
+                        <h5 class="item-box__title item-box__title_annotation">「賃貸・売買」のサポート体制</h5>
+                        <p class="text">お客様が所有する不動産にて、必要の際は当社エキスパートスタッフにより「売買・賃貸・管理」等のお手伝いをいたします。</p>
+                    </li>
                 </ul>
             </div>
         </section>
@@ -360,22 +325,6 @@
                         </picture>
                         <h5 class="item-box__title item-box__title_annotation">カタログギフトサービス</h5>
                         <p class="text">一流百貨店と提携。フロントに備えつけのギフトカタログにてお気に入りの商品をご注文できます。</p>
-                    </li>
-                    <li class="box box_2">
-                        <picture class="item-box__photo">
-                            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/sec5_5.webp">
-                            <img src="<?php print URL; ?>/assets/img/entrance/concierge/sec5_5.jpg" alt="DPEの受付サービス" class="mainvisual__img">
-                        </picture>
-                        <h5 class="item-box__title item-box__title_annotation">DPEの受付サービス</h5>
-                        <p class="text">地域のDPE業者と提携。フロントでフィルムをお預かりし、現像、プリントの手配を承ります。</p>
-                    </li>
-                    <li class="box box_2">
-                        <picture class="item-box__photo">
-                            <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/sec5_6.webp">
-                            <img src="<?php print URL; ?>/assets/img/entrance/concierge/sec5_6.jpg" alt="はがき印刷サービス" class="mainvisual__img">
-                        </picture>
-                        <h5 class="item-box__title item-box__title_annotation">はがき印刷サービス</h5>
-                        <p class="text">転居はがき、暑中見舞、年賀状の印刷を承ります。フロント常備のデザイン見本からお選びいただけます。</p>
                     </li>
                     <li class="box box_2"></li>
                     <li class="box box_2"></li>

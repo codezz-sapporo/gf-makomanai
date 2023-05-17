@@ -18,7 +18,7 @@
     <div class="tab-section">
         <div id="about" class="ta_c sdio-intro">
             <p class="sdio-intro__text">作業に集中したい、<br>リモート会議や電話の際、周囲の音や気配が気になる、<br>パソコンを設置するスペースが欲しい、<br>資料などを広げる作業スペースが欲しい等。</p>
-            <p class="sdio-intro__lead">新しい生活様式に合わせて、<br>最高のパフォーマンスでお仕事いただける<br class="br_sp">+αのテレワーク空間をご提供します。</p>
+            <p class="sdio-intro__lead">新しい生活様式に合わせて、<br>最高のパフォーマンスでお仕事いただける<br class="br_sp">+αのテレワーク空間2タイプをご提供します。</p>
             <h2 class="sdio-intro__title">Telework Room S-DIO</h2>
         </div>
     </div>
@@ -32,7 +32,7 @@
         </figure>
     </div>
     <div class="tab-section tab-section_column">
-        <h3 class="title-h3 ta_c">テレワークに快適、<br>リモートに対応した快適個室[S-DIO]完備</h3>
+        <h3 class="title-h3 ta_c">テレワークに快適、<br>リモートに対応した快適個室[S-DIO]2室完備</h3>
         <p class="text tab-section__text">仕事や勉強・趣味の部屋など、ワークスペース・テレワーク用にWi-Fi環境を完備した共用施設S-DIO[ストゥディオ]をご用意しました。</p>
         <ul class="clearfix homework__sdio-photo-list">
             <li class="homework__sdio-photo-item">

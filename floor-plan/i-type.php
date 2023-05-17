@@ -8,7 +8,7 @@
                 <li class="parent" id="h-type">
                     <div class="name_size fgara">
                         <h3><span>I</span>type</h3>
-                        <p><span>83.94</span>m<sup>2</sup></p>
+                        <p><span>70.70</span>m<sup>2</sup></p>
                     </div>
                     <p class="floor fgara"><span>3LDK</span>+HC+HS+AL+TR</p>
                     <ul class="data">

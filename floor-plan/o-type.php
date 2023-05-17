@@ -1,25 +1,26 @@
-<section class="tab_main js-tab-cts is-active" data-tab="tab-1">
+<section class="tab_main js-tab-cts" data-tab="tab-15">
 
-    <h2 class="sub__h1">A-type</h2>
+    <h2 class="sub__h1">O-type</h2>
 
     <div class="contents" id="symbol03s_center">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="a-type">
+                <li class="parent" id="n-type">
                     <div class="name_size fgara">
-                        <h3><span>A</span>type</h3>
-                        <p><span>85.47</span>m<sup>2</sup></p>
+                        <h3><span>O</span>type</h3>
+                        <p><span>54.80</span>m<sup>2</sup></p>
                     </div>
-                    <p class="floor fgara"><span>4LDK</span>+SIC+W+KP+AL+TR</p>
+                    <p class="floor fgara"><span>2LDK</span>+SC+KP+PG+OS+AL+TR</p>
                     <ul class="data">
-                        <li>専有面積／85.47㎡（25.85坪）</li>
-                        <li>バルコニー面積／14.68㎡（4.44坪）</li>
-                        <li>アルコーブ面積／2.56㎡（0.77坪）</li>
+                        <li>専有面積／54.80㎡（16.57坪）</li>
+                        <li>バルコニー面積／11.50㎡（3.47坪）</li>
+                        <li>ルーフバルコニー面積／33.67㎡（10.18坪）</li>
+                        <li>アルコーブ面積／0.83㎡（0.25坪）</li>
                     </ul>
-                    <p class="floorimg floorimg_01">
-                        <img src="../assets/svg/a-type/a-type.svg" width="700" height="718" alt="Atype">
+                    <p class="floorimg floorimg_02">
+                        <img src="../assets/svg/a-type/o-type.svg" width="700" height="718" alt="Mtype">
                     </p>
-                    <a href="a-type_detail.php" class="detail-label">間取りを拡大する</a>
+                    <a href="o-type_detail.php" class="detail-label" id="o-type">間取りを拡大する</a>
                 </li>
             </ul>
             <div class="func">
@@ -48,7 +49,6 @@
                     </div>
                 </div>
             </div>
-
         </div>
     </div><!-- /.contents -->
 

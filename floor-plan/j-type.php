@@ -5,7 +5,7 @@
     <div class="contents" id="symbol03s_center">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="h-type">
+                <li class="parent" id="j-type">
                     <div class="name_size fgara">
                         <h3><span>J</span>type</h3>
                         <p><span>90.16</span>m<sup>2</sup></p>
@@ -13,7 +13,7 @@
                     <p class="floor fgara"><span>4LDK</span>+W+HC+AL+TR</p>
                     <ul class="data">
                         <li>専有面積／90.16㎡（27.27坪）</li>
-                        <li>バルコニー面積／20.17㎡（6.10坪） </li>
+                        <li>バルコニー面積／20.17㎡（6.10坪）</li>
                         <li>アルコーブ面積／3.42㎡（1.03坪）</li>
                     </ul>
                     <p class="floorimg floorimg_02">

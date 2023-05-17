@@ -50,7 +50,7 @@
 	                    <div class="menu">
 	                        <dl>
 	                            <dt class="fgara">menu<span>2</span></dt>
-	                            <dd>リビングダイニングに洋室3を取り込んだ2LDKプランです。18.3帖大のリビングダ イニングを実現しました。 </dd>
+	                            <dd>リビングダイニングに洋室3を取り込んだ2LDKプランです。18.3帖大のリビングダイニングを実現しました。</dd>
 	                        </dl>
 	                        <p class="floorimg">
 	                            <img src="../assets/svg/a-type/d-type_menu2.svg" width="630" height="615" alt="menu2">
@@ -59,7 +59,7 @@
 	                    <div class="menu">
 	                        <dl>
 	                            <dt class="fgara">menu<span>3</span></dt>
-	                            <dd>洋室1と洋室2を1部屋にした2LDKプランです。また、リビングダイニングと洋室3の間に間仕切り壁を設けてプライバシーを確保しました。 </dd>
+	                            <dd>洋室1と洋室2を1部屋にした2LDKプランです。また、リビングダイニングと洋室3の間に間仕切り壁を設けてプライバシーを確保しました。</dd>
 	                        </dl>
 	                        <p class="floorimg">
 	                            <img src="../assets/svg/a-type/d-type_menu3.svg" width="630" height="615" alt="menu3">

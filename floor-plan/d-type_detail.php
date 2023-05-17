@@ -20,8 +20,8 @@
                 <div class="main">
                     <div class="head fgara">
                         <h3><span>D</span>type</h3>
-                        <p class="size"><span>72.06</span>m<sup>2</sup></p>
-                        <p class="floor"><span>3LDK</span>+W+HC+AL+TR </p>
+                        <p class="size"><span>67.43</span>m<sup>2</sup></p>
+                        <p class="floor"><span>3LDK</span>+SIC+W+HS+AL+TR</p>
                     </div>
                     <ul class="data">
                         <li>専有面積／67.43㎡（20.39坪）</li>

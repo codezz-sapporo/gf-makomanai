@@ -24,11 +24,12 @@
 	                        <p class="floor"><span>3LDK</span>+W+HC+PG+OS+AL</p>
 	                    </div>
 	                    <ul class="data">
-	                        <li>専有面積／68.16㎡（20.61坪）</li>
-	                        <li>テラス面積／21.22㎡（6.41坪）</li>
-	                        <li>専用庭面積／29.02㎡（8.77坪）</li>
-	                        <li>アルコーブ面積／0.71㎡（0.21坪）</li>
-	                        <li>W：ウォークインクローゼット　HC：ホールクローゼット　AL：アルコーブ　PG：プライベートガーデン　OS：オーニングシェード</li>
+	                        <li>専有面積／52.02㎡（15.73坪）</li>
+	                        <li>バルコニー面積／10.77㎡（3.25坪）</li>
+	                        <li>テラス面積／10.77㎡（3.25坪）</li>
+	                        <li>専用庭面積／31.60㎡（9.55坪）</li>
+	                        <li>アルコーブ面積／0.94㎡（0.28坪）</li>
+	                        <li>W：ウォークインクローゼット　HC：ホールクローゼット　AL：アルコーブ　TR：トランクルーム　PG：プライベートガーデン　OS：オーニングシェード</li>
 	                    </ul>
 	                    <p class="cap">テラスと専用庭付きのC1プランです。専用庭に設けたオーニングシェードは、最新の電動開閉式なので出し入れの操作がワンタッチで楽々です。広々とした専用庭にガーデンテーブルをセットすれば、オープンカフェとして楽しむことができます。ガーデニングスペースとしても、日々の暮らしのゆとりを広げます。</p>
 	                    <p class="floorimg">
@@ -36,47 +37,47 @@
 	                    </p>
 	                </div>
 
-	                <!--<div id="menuplan">
-					<h4>Menu Plan</h4>
-					<div class="menu">
-						<dl>
-							<dt class="fgara">menu<span>1</span></dt>
-							<dd>リビングダイニングに洋室4を取り込んだ3LDKプランです。20.5帖大のリビングダイニングを実現した他、リビングに収納を設けました。</dd>
-						</dl>
-						<p class="floorimg">
-							<img src="../../assets/svg/a-type/c-type_menu1.svg" width="630" height="615" alt="menu1">
-						</p>
-					</div>
-					<div class="menu">
-						<dl>
-							<dt class="fgara">menu<span>2</span></dt>
-							<dd>リビングダイニングと洋室4の間に間仕切り壁を設けプライバシーを確保しました。</dd>
-						</dl>
-						<p class="floorimg">
-							<img src="../../assets/svg/a-type/c-type_menu2.svg" width="630" height="615" alt="menu2">
-						</p>
-					</div>
-					<div class="menu">
-						<dl>
-							<dt class="fgara">menu<span>3</span></dt>
-							<dd>洋室2と洋室3を1部屋にし、洋室1も広く設けた3LDKプランです。洋室に広めのクローゼットを備えた他、リビングダイニングと洋室4の間に間仕切り壁を設けました。</dd>
-						</dl>
-						<p class="floorimg">
-							<img src="../../assets/svg/a-type/c-type_menu3.svg" width="630" height="615" alt="menu3">
-						</p>
-					</div>
-					<div class="menu">
-						<dl>
-							<dt class="fgara">menu<span>4</span></dt>
-							<dd>洋室１と洋室2を1部屋にした3LDKプランです。洋室にママ楽ファミリースルークローゼットを備えた他、リビングダイニングと洋室4の間に間仕切り壁を設けました。</dd>
-						</dl>
-						<p class="floorimg">
-							<img src="../../assets/svg/a-type/c-type_menu4.svg" width="630" height="615" alt="menu4">
-						</p>
-					</div>-->
+	                <div id="menuplan">
+	                    <h4>Menu Plan</h4>
+	                    <div class="menu">
+	                        <dl>
+	                            <dt class="fgara">menu<span>1</span></dt>
+	                            <dd>リビングダイニングと洋室2の間に間仕切り壁を設けてプライバシーを確保しました。 </dd>
+	                        </dl>
+	                        <p class="floorimg">
+	                            <img src="../assets/svg/a-type/c-type_menu1.svg" width="630" height="615" alt="menu1">
+	                        </p>
+	                    </div>
+	                    <div class="menu">
+	                        <dl>
+	                            <dt class="fgara">menu<span>2</span></dt>
+	                            <dd>リビングダイニングに洋室2を取り込んだ1LDKプランです。14.6帖大のリビングダイニングを実現しました。 </dd>
+	                        </dl>
+	                        <p class="floorimg">
+	                            <img src="../assets/svg/a-type/c-type_menu2.svg" width="630" height="615" alt="menu2">
+	                        </p>
+	                    </div>
+	                    <div class="menu">
+	                        <dl>
+	                            <dt class="fgara">menu<span>3</span></dt>
+	                            <dd>洋室1と洋室2を1部屋にした1LDKプランです。2つのクローゼットを1つの大きな収納に変更し、使い勝手の良さに配慮しました。 </dd>
+	                        </dl>
+	                        <p class="floorimg">
+	                            <img src="../assets/svg/a-type/c-type_menu3.svg" width="630" height="615" alt="menu3">
+	                        </p>
+	                    </div>
+	                    <div class="menu">
+	                        <dl>
+	                            <dt class="fgara">menu<span>4</span></dt>
+	                            <dd>洋室1と洋室2を1部屋にした1LDKプランです。洋室のウォークインをホールと行き来できる動線を確保した便利なママ楽ファミリースルークローゼットに変更しました。 </dd>
+	                        </dl>
+	                        <p class="floorimg">
+	                            <img src="../assets/svg/a-type/c-type_menu4.svg" width="630" height="615" alt="menu4">
+	                        </p>
+	                    </div>
+	                </div>
 	            </div>
 	        </div>
-	    </div>
 	    </div><!-- /.contents -->
 
 

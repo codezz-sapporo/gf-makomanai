@@ -8,17 +8,52 @@
                 <li class="parent" id="c-type">
                     <div class="name_size fgara">
                         <h3><span>C</span>type</h3>
-                        <p><span>72.06</span>m<sup>2</sup></p>
+                        <p><span>52.02</span>m<sup>2</sup></p>
                     </div>
-                    <p class="floor fgara"><span>3LDK</span>+SIC+W</p>
+                    <p class="floor fgara"><span>2LDK</span>+W+HC+AL+TR </p>
                     <ul class="data">
-                        <li>専有面積／72.06㎡（21.79坪）</li>
-                        <li>バルコニー面積／18.53㎡（5.60坪）</li>
+                        <li>専有面積／52.02㎡（15.73坪）</li>
+                        <li>バルコニー面積／10.77㎡（3.25坪）</li>
+                        <li>アルコーブ面積／0.94㎡（0.28坪）</li>
                     </ul>
                     <p class="floorimg floorimg_02">
                         <img src="../assets/svg/a-type/c-type.svg" width="700" height="718" alt="Ctype">
                     </p>
                     <a href="c-type_detail.php" class="detail-label" id="c1-type">間取りを拡大する</a>
+                </li>
+                <li class="parent" id="c-type">
+                    <div class="name_size fgara">
+                        <h3><span>C1</span>type</h3>
+                        <p><span>52.02</span>m<sup>2</sup></p>
+                    </div>
+                    <p class="floor fgara"><span>2LDK</span>+W+HC+PG+OS+AL+TR</p>
+                    <ul class="data">
+                        <li>専有面積／52.02㎡（15.73坪）</li>
+                        <li>バルコニー面積／10.77㎡（3.25坪）</li>
+                        <li>テラス面積／10.77㎡（3.25坪）</li>
+                        <li>専用庭面積／31.60㎡（9.55坪）</li>
+                        <li>アルコーブ面積／0.94㎡（0.28坪）</li>
+                    </ul>
+                    <p class="floorimg floorimg_02">
+                        <img src="../assets/svg/a-type/c1-type.svg" width="700" height="718" alt="Ctype">
+                    </p>
+                    <a href="c1-type_detail.php" class="detail-label" id="c1-type">間取りを拡大する</a>
+                </li>
+                <li class="parent" id="c-type">
+                    <div class="name_size fgara">
+                        <h3><span>C2</span>type</h3>
+                        <p><span>52.02</span>m<sup>2</sup></p>
+                    </div>
+                    <p class="floor fgara"><span>2LDK</span>+OP+W+HC+AL+TR</p>
+                    <ul class="data">
+                        <li>専有面積／52.02㎡（15.73坪）</li>
+                        <li>バルコニー面積／10.77㎡（3.25坪）</li>
+                        <li>アルコーブ面積／0.94㎡（0.28坪）</li>
+                    </ul>
+                    <p class="floorimg floorimg_02">
+                        <img src="../assets/svg/a-type/c2-type.svg" width="700" height="718" alt="Ctype">
+                    </p>
+                    <a href="c2-type_detail.php" class="detail-label" id="c1-type">間取りを拡大する</a>
                 </li>
                 <!-- <li class="parent">
                     <div class="name_size fgara">

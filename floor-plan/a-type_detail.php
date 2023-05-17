@@ -19,15 +19,15 @@
             <div class="main">
                 <div class="head fgara">
                     <h3><span>A</span>type</h3>
-                    <p class="size"><span>71.15</span>m<sup>2</sup></p>
+                    <p class="size"><span>85.47</span>m<sup>2</sup></p>
                     <p class="floor"><span>3LDK</span>+SIC+HS+KP</p>
                 </div>
                 <ul class="data">
-                    <li>専有面積／71.15㎡（21.52坪）</li>
-                    <li>バルコニー面積／15.81㎡（4.78坪）</li>
-                    <li>SIC：シューズインクローゼット　　HS：ホール収納　　KP：キッチンパントリー</li>
+                    <li>専有面積／71.5㎡（21.52坪）</li>
+                    <li>バルコニー面積／14.68㎡（4.44坪）</li>
+                    <li>SIC：シューズインクローゼット　　W：ウォークインクローゼット　　KP：キッチンパントリー　　AL：アルコーブ　　TR：トランクルーム</li>
                 </ul>
-                <p class="cap">リビングダイニングキッチン、全洋室がバルコニーに面した3LDKプランです。玄関にはコートや傘の他玄関に必要な物を出し入れできる玄関クロークをご用意。さらに廊下にホール収納、キッチンにパントリーを設け収納力に配慮しました。洋室３の引き戸を解放するとリビングダイニングキッチンと一体となった約19.2帖の広々とした空間を演出することも可能です。</p>
+                <p class="cap">リビングダイニングキッチン、全洋室がバルコニーに面した4LDKプランです。玄関にはコートや傘の他玄関に必要な物を出し入れできる玄関クロークとトール型の玄関収納をご用意。さらに洋室1、3にウォークインクローゼット、キッチンにパントリーを完備し収納力に配慮しました。洋室4の引き戸を解放するとリビングダイニングキッチンと一体となった約21.2帖の広々とした空間を演出することも可能です。</p>
                 <p class="floorimg">
                     <img src="../assets/svg/a-type/a-type.svg" width="700" height="718" alt="Atype">
                 </p>
@@ -38,7 +38,7 @@
                 <div class="menu">
                     <dl>
                         <dt class="fgara">menu<span>1</span></dt>
-                        <dd>リビングダイニングに洋室3を取り込んだ2LDKプランです。19.2帖大のリビングダイニングを実現しました。</dd>
+                        <dd>リビングダイニングと洋室4の間に間仕切り壁を設けてプライバシーを確保しました。</dd>
                     </dl>
                     <p class="floorimg">
                         <img src="../assets/svg/a-type/a-type_menu1.svg" width="630" height="615" alt="menu1">
@@ -47,7 +47,7 @@
                 <div class="menu">
                     <dl>
                         <dt class="fgara">menu<span>2</span></dt>
-                        <dd>リビングダイニングと洋室3の間に間仕切り壁を設けてプライバシーを確保しました。</dd>
+                        <dd>リビングダイニングに洋室4を取り込んだ3LDKプランです。クローゼットを広く設けながらも20.7帖大のリビングダイニングを実現しました。 </dd>
                     </dl>
                     <p class="floorimg">
                         <img src="../assets/svg/a-type/a-type_menu2.svg" width="630" height="615" alt="menu2">
@@ -56,7 +56,7 @@
                 <div class="menu">
                     <dl>
                         <dt class="fgara">menu<span>3</span></dt>
-                        <dd>洋室１と洋室2を1部屋にした2LDKプランです。クローゼットをビッグウォークインに変更した他、廊下に納戸を設けて収納力と使い勝手の良さに配慮しました。</dd>
+                        <dd>洋室1と洋室2を1部屋にした3LDKプランです。洋室のクローゼットをウォークインに変更、ホール収納を追加し収納スペースを確保しました。 </dd>
                     </dl>
                     <p class="floorimg">
                         <img src="../assets/svg/a-type/a-type_menu3.svg" width="630" height="615" alt="menu3">
@@ -65,7 +65,7 @@
                 <div class="menu">
                     <dl>
                         <dt class="fgara">menu<span>4</span></dt>
-                        <dd>洋室１と洋室2を1部屋にした2LDKプランです。クローゼットをビッグウォークインに変更した他、廊下にホールクローゼットを設けて収納力と使い勝手の良さに配慮しました。</dd>
+                        <dd>洋室2と洋室3を1部屋にした3LDKプランです。洋室4のクローゼット広く設けて使い勝手の良さに配慮しました。 </dd>
                     </dl>
                     <p class="floorimg">
                         <img src="../assets/svg/a-type/a-type_menu4.svg" width="630" height="615" alt="menu4">
@@ -79,8 +79,8 @@
     <?php
         include_once('../footer_upside-plan.php');
     ?>
-            <a href="<?php print URL; ?>/floor-plan/#a-type" class="detail-close" id="modal-close">閉じる</a>
-        </div>
+    <a href="<?php print URL; ?>/floor-plan/#a-type" class="detail-close" id="modal-close">閉じる</a>
+    </div>
     </div>
 
 </main>

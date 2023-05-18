@@ -82,7 +82,7 @@
     <?php
         include_once('../footer_upside-plan.php');
     ?>
-    <a href="<?php print URL; ?>/floor-plan/index.php?active-tab=tab-2#b-type" class="detail-close" id="modal-close">閉じる</a>
+    <a href="<?php print URL; ?>/floor-plan/index.php?active-tab=tab-2#b1-type" class="detail-close" id="modal-close">閉じる</a>
     </div>
 
 </main>

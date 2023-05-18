@@ -42,7 +42,6 @@
             <?php
                 include_once('a-type.php');
             ?>
-
             <?php
                 include_once('b-type.php');
             ?>

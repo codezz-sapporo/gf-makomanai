@@ -158,6 +158,12 @@ $(function () {
     "tab-7",
     "tab-8",
     "tab-9",
+    "tab-10",
+    "tab-11",
+    "tab-12",
+    "tab-13",
+    "tab-14",
+    "tab-15",
   ];
   let pram = getParam("active-tab");
   if (pram && $.inArray(pram, tabPram) !== -1) {

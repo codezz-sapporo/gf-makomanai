@@ -19,7 +19,7 @@
     <div class="tab-area tab-area_sub" id="intro">
 
         <div class="tabBox">
-            <ul class="tab-list tab-list_bottom bottom">
+            <ul class="tab-list bottom">
                 <li class="one_tab floor_tab js-tab-switch is-active" data-tab="tab-1">A-type</li>
                 <li class="one_tab floor_tab js-tab-switch" data-tab="tab-2">B-type</li>
                 <li class="one_tab floor_tab js-tab-switch" data-tab="tab-3">C-type</li>

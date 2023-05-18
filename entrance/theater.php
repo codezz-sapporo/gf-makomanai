@@ -72,14 +72,14 @@
                     <source type="image/webp" srcset="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/webp/entrance/theater/tv_img.webp">
                     <img src="https://grande.codezz.net/grandfare/higashisapporo-placecourt/assets/img/entrance/theater/tv_img.jpg" alt="グランファーレ宮の森" class="hikaritv__img">
                 </picture>
-                <figcaption class="photo-cap">グランファーレ宮の森</figcaption>
+                <figcaption class="photo-cap">グランファーレ円山公園南コートハウス</figcaption>
             </figure>
             <figure class="presence__photo presence__photo_03">
                 <picture>
                     <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/theater/tv_img2.webp">
                     <img src="<?php print URL; ?>/assets/img/entrance/theater/tv_img2.jpg" alt="コートハウス四季の杜" class="hikaritv__img">
                 </picture>
-                <figcaption class="photo-cap">コートハウス四季の杜</figcaption>
+                <figcaption class="photo-cap">グランファーレ宮の森　コートハウス四季の杜</figcaption>
             </figure>
         </div>
         <picture>

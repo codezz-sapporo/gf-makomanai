@@ -1053,10 +1053,6 @@ figcaption {
     margin: 0 2.5px 5px;
     transition: all 0.2s ease-out;
   }
-  .floor_tab {
-    min-width: 0;
-    width: calc((100% - 75px) / 15);
-  }
   .one_tab:hover {
     background-color: var(--btn-brown);
     transition: all 0.2s ease-out;

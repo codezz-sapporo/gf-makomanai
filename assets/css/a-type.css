@@ -3,7 +3,7 @@
 .mainvisual-title_plan::before {
   content: "FLOOR PLAN";
 }
-@media (max-width: 1299px) {
+@media (max-width: 1333px) {
   .js-tab-switch.is-active {
     bottom: unset;
   }

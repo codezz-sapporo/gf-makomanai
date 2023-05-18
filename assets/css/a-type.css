@@ -3,6 +3,20 @@
 .mainvisual-title_plan::before {
   content: "FLOOR PLAN";
 }
+@media (max-width: 1299px) {
+  .js-tab-switch.is-active {
+    bottom: unset;
+  }
+  .js-tab-switch_bottom.is-active {
+    top: unset;
+  }
+  .js-tab-switch.is-active::after {
+    display: none;
+  }
+  .js-tab-switch_bottom.is-active::after {
+    display: none;
+  }
+}
 .a-type .contents {
   border: none;
   padding: 50px 0 0 0;

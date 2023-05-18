@@ -79,7 +79,7 @@
                     <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/theater/tv_img2.webp">
                     <img src="<?php print URL; ?>/assets/img/entrance/theater/tv_img2.jpg" alt="コートハウス四季の杜" class="hikaritv__img">
                 </picture>
-                <figcaption class="photo-cap">グランファーレ宮の森　コートハウス四季の杜</figcaption>
+                <figcaption class="photo-cap">グランファーレ宮の森コートハウス四季の杜</figcaption>
             </figure>
         </div>
         <picture>

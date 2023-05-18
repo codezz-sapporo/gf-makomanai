@@ -17,7 +17,7 @@
                         <source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/concierge/img1.webp">
                         <img src="<?php print URL; ?>/assets/img/entrance/concierge/img1.jpg" alt="" class="entrance-intro__img">
                     </picture>
-                    <figcaption>グランファーレ札幌山鼻レガリアENTRANCE HAL</figcaption>
+                    <figcaption>グランファーレ札幌山鼻レガリアENTRANCE HALL</figcaption>
                 </figure>
             </li>
             <li class="entrance-intro__photo-item">

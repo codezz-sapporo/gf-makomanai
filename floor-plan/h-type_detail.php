@@ -19,9 +19,9 @@
             <div class="detail">
                 <div class="main">
                     <div class="head fgara">
-                        <h3><span>H2</span>type</h3>
+                        <h3><span>H</span>type</h3>
                         <p class="size"><span>83.94</span>m<sup>2</sup></p>
-                        <p class="floor"><span>4LDK</span>+OP+W+HC+KP+AL+TR</p>
+                        <p class="floor"><span>4LDK</span>+W+HC+KP+AL+TR</p>
                     </div>
                     <ul class="data">
                         <li>専有面積／83.94㎡（25.39坪）</li>
@@ -29,7 +29,7 @@
                         <li>アルコーブ面積／1.80㎡（0.54坪）</li>
                         <li>W：ウォークインクローゼット　　HC：ホールクローゼット　KP：キッチンパントリー　AL：アルコーブ　TR：トランクルーム </li>
                     </ul>
-                    <p class="cap">H2タイプはリビングダイニングがオープンペントハウスとなっています。高く設けた天井高約3.95mの開放的な吹抜けを演出し、その窓から差し込む光で部屋全体を明るく包み込みます。 。</p>
+                    <p class="cap">リビングダイニングキッチン、全洋室がバルコニーに面した4LDKプランです。玄関にはトール型の玄関収納とホールクローゼットをご用意。さらに洋室3にウォークインクローゼット、キッチンにパントリーを完備し収納力に配慮しました。洋室4の引き戸を解放するとリビングダイニングキッチンと一体となった約21.2帖の広々とした空間を演出することも可能です。</p>
                     <p class="floorimg">
                         <img src="../assets/svg/a-type/h-type.svg" width="700" height="718" alt="Htype">
                     </p>

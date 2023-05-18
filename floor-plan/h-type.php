@@ -35,7 +35,7 @@
                     <p class="floorimg floorimg_02">
                         <img src="../assets/svg/a-type/h2-type.svg" width="700" height="718" alt="H1type">
                     </p>
-                    <a href="h1-type_detail.php" class="detail-label" id="h-type">間取りを拡大する</a>
+                    <a href="h2-type_detail.php" class="detail-label" id="h2-type">間取りを拡大する</a>
                 </li>
             </ul>
             <div class="func">

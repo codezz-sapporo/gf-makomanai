@@ -160,11 +160,11 @@ sup {
     background-image: url(../img/base_bg_pc.jpg);
   }
   .mainvisual-title {
-    font-size: calc((25 / 1440) * 100vw);
+    font-size: calc((30 / 1440) * 100vw);
     bottom: calc((130 / 1440) * 100vw);
   }
   .mainvisual-title::before {
-    font-size: calc((50 / 1440) * 100vw);
+    font-size: calc((70 / 1440) * 100vw);
   }
   .mainvisual-title::after {
     bottom: calc((50 / 1440) * 100vw);

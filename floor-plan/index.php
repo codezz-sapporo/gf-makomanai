@@ -20,21 +20,21 @@
 
         <div class="tabBox">
             <ul class="tab-list bottom">
-                <li class="one_tab floor_tab js-tab-switch is-active" data-tab="tab-1">A-type</li>
-                <li class="one_tab floor_tab js-tab-switch" data-tab="tab-2">B-type</li>
-                <li class="one_tab floor_tab js-tab-switch" data-tab="tab-3">C-type</li>
-                <li class="one_tab floor_tab js-tab-switch" data-tab="tab-4">D-type</li>
-                <li class="one_tab floor_tab js-tab-switch" data-tab="tab-5">E-type</li>
-                <li class="one_tab floor_tab js-tab-switch" data-tab="tab-6">F-type</li>
-                <li class="one_tab floor_tab js-tab-switch" data-tab="tab-7">G-type</li>
-                <li class="one_tab floor_tab js-tab-switch" data-tab="tab-8">H-type</li>
-                <li class="one_tab floor_tab js-tab-switch" data-tab="tab-9">I-type</li>
-                <li class="one_tab floor_tab js-tab-switch" data-tab="tab-10">J-type</li>
-                <li class="one_tab floor_tab js-tab-switch" data-tab="tab-11">K-type</li>
-                <li class="one_tab floor_tab js-tab-switch" data-tab="tab-12">L-type</li>
-                <li class="one_tab floor_tab js-tab-switch" data-tab="tab-13">M-type</li>
-                <li class="one_tab floor_tab js-tab-switch" data-tab="tab-14">N-type</li>
-                <li class="one_tab floor_tab js-tab-switch" data-tab="tab-15">O-type</li>
+                <li class="one_tab js-tab-switch is-active" data-tab="tab-1">A-type</li>
+                <li class="one_tab js-tab-switch" data-tab="tab-2">B-type</li>
+                <li class="one_tab js-tab-switch" data-tab="tab-3">C-type</li>
+                <li class="one_tab js-tab-switch" data-tab="tab-4">D-type</li>
+                <li class="one_tab js-tab-switch" data-tab="tab-5">E-type</li>
+                <li class="one_tab js-tab-switch" data-tab="tab-6">F-type</li>
+                <li class="one_tab js-tab-switch" data-tab="tab-7">G-type</li>
+                <li class="one_tab js-tab-switch" data-tab="tab-8">H-type</li>
+                <li class="one_tab js-tab-switch" data-tab="tab-9">I-type</li>
+                <li class="one_tab js-tab-switch" data-tab="tab-10">J-type</li>
+                <li class="one_tab js-tab-switch" data-tab="tab-11">K-type</li>
+                <li class="one_tab js-tab-switch" data-tab="tab-12">L-type</li>
+                <li class="one_tab js-tab-switch" data-tab="tab-13">M-type</li>
+                <li class="one_tab js-tab-switch" data-tab="tab-14">N-type</li>
+                <li class="one_tab js-tab-switch" data-tab="tab-15">O-type</li>
             </ul>
         </div>
 

@@ -17,6 +17,12 @@
     display: none;
   }
 }
+@media (min-width: 768px) {
+  .one_tab {
+    min-width: 75px;
+    width: calc((100% - 75px) / 15);
+  }
+}
 .a-type .contents {
   border: none;
   padding: 50px 0 0 0;

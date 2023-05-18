@@ -18,9 +18,9 @@
 				<h2 class="information__title">information</h2>
 				<dl class="information-unit">
 					<dt class="information-unit__time">
-					<time datetime="2022-03-16"  class="information-unit__time-text">2022.3.25</time>
+					<time datetime="2023-06-03"  class="information-unit__time-text">2023.6.3</time>
 					</dt>
-					<dd class="information-unit__text">いよいよ7月16日（土）よりマンションギャラリープレOPEN！（予定）</dd>
+					<dd class="information-unit__text">いよいよ6月3日（土）よりマンションギャラリープレOPEN！（予定）</dd>
 				</dl>
 			</div>
 		</section>

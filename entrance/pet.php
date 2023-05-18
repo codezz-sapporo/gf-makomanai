@@ -6,7 +6,8 @@
 			<source type="image/webp" srcset="<?php print URL; ?>/assets/webp/entrance/pet/mv.webp">
 			<img src="<?php print URL; ?>/assets/img/entrance/pet/mv.jpg" alt="ペット対応" class="mainvisual__img">
 		</picture>
-		<p class="text">住まいでペットがお飼いになれるペット対応型マンションです。共用施設フロアの一角には、散歩から帰ったペット専用の足洗い場としても利用ができ、給湯完備のドッグバスも設置されていますのでお風呂やシャンプーが容易にできます。また大型のドライヤー、トリミング台も備えたグルーミングルームです。(無料)</p>
+		<p class="text">住まいでペットがお飼いになれるペット対応型マンションです。共用施設フロアの一角には、散歩から帰ったペット専用の足洗い場としても利用ができる給湯完備のドッグバスが設置されていますのでお風呂やシャンプーが容易にできます。また大型のドライヤー、トリミング台も備えたグルーミングルームです。(無料)</p>
+
 	</div>
 	<div class="tab-section">
 		<picture class="tab-section__photo tab-section__photo_full">

@@ -32,7 +32,7 @@
         </figure>
     </div>
     <div class="tab-section tab-section_column">
-        <h3 class="title-h3 ta_c">テレワークに快適、<br>リモートに対応した快適個室[S-DIO]2室完備</h3>
+        <h3 class="title-h3 ta_c">テレワークに最適、<br>リモートに対応した快適個室[S-DIO]2室完備</h3>
         <p class="text tab-section__text">仕事や勉強・趣味の部屋など、ワークスペース・テレワーク用にWi-Fi環境を完備した共用施設S-DIO[ストゥディオ]をご用意しました。</p>
         <ul class="clearfix homework__sdio-photo-list">
             <li class="homework__sdio-photo-item">

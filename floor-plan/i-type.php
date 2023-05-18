@@ -12,7 +12,7 @@
                     </div>
                     <p class="floor fgara"><span>3LDK</span>+HC+HS+AL+TR</p>
                     <ul class="data">
-                        <li>専有面積／70.70㎡（21.38坪）</li>
+                        <li>専有面積／70.70㎡（21.38坪）<br>《TR面積1.21㎡（0.36坪）を含む》</li>
                         <li>バルコニー面積／20.37㎡（6.16坪）</li>
                         <li>アルコーブ面積／2.12㎡（0.64坪）</li>
                     </ul>

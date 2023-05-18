@@ -12,7 +12,7 @@
                     </div>
                     <p class="floor fgara"><span>3LDK</span>+SIC+W+HS+AL+TR</p>
                     <ul class="data">
-                        <li>専有面積／67.43㎡（20.39坪）</li>
+                        <li>専有面積／67.43㎡（20.39坪）<br>《TR面積1.32㎡（0.39坪）を含む》 </li>
                         <li>バルコニー面積／13.67㎡（4.13坪）</li>
                         <li>アルコーブ面積／1.71㎡（0.51坪）</li>
                     </ul>
@@ -28,7 +28,7 @@
                     </div>
                     <p class="floor fgara"><span>3LDK</span>+SIC+W+HS+PG+OS+AL+TR</p>
                     <ul class="data">
-                        <li>専有面積／67.43㎡（20.39坪）</li>
+                        <li>専有面積／67.43㎡（20.39坪）<br>《TR面積1.32㎡（0.39坪）を含む》 </li>
                         <li>テラス面積／22.75㎡（6.88坪）</li>
                         <li>専用庭面積／24.10㎡（7.29坪）</li>
                         <li>アルコーブ面積／1.71㎡（0.51坪）</li>
@@ -45,7 +45,7 @@
                     </div>
                     <p class="floor fgara"><span>3LDK</span>+OP+SIC+W+HS+AL+TR</p>
                     <ul class="data">
-                        <li>専有面積／67.43㎡（20.39坪）</li>
+                        <li>専有面積／67.43㎡（20.39坪）<br>《TR面積1.32㎡（0.39坪）を含む》 </li>
                         <li>バルコニー面積／13.67㎡（4.13坪）</li>
                         <li>アルコーブ面積／1.71㎡（0.51坪）</li>
                     </ul>

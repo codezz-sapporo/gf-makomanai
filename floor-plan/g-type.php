@@ -12,7 +12,7 @@
                     </div>
                     <p class="floor fgara"><span>1LDK</span>+SC+KP+AL+TR</p>
                     <ul class="data">
-                        <li>専有面積／44.17㎡（13.36坪）</li>
+                        <li>専有面積／44.17㎡（13.36坪）<br>《TR面積1.45㎡（0.43坪）を含む》</li>
                         <li>バルコニー面積／8.95㎡（2.70坪）</li>
                         <li>アルコーブ面積／0.83㎡（0.25坪）</li>
                     </ul>

@@ -12,7 +12,7 @@
                     </div>
                     <p class="floor fgara"><span>2LDK</span>+W+HC+KP+AL+TR</p>
                     <ul class="data">
-                        <li>専有面積／55.29㎡（16.72坪）</li>
+                        <li>専有面積／55.29㎡（16.72坪）<br>《TR面積1.36㎡（0.41坪）を含む》</li>
                         <li>バルコニー面積／11.43㎡（3.45坪）</li>
                         <li>アルコーブ面積／0.94㎡（0.28坪）</li>
                     </ul>
@@ -28,7 +28,7 @@
                     </div>
                     <p class="floor fgara"><span>2LDK</span>+W+HC+KP+PG+OS+AL+TR</p>
                     <ul class="data">
-                        <li>専有面積／55.29㎡（16.72坪）</li>
+                        <li>専有面積／55.29㎡（16.72坪）<br>《TR面積1.36㎡（0.41坪）を含む》</li>
                         <li>テラス面積／11.43㎡（3.45坪）</li>
                         <li>専用庭面積／33.47㎡（10.12坪）</li>
                         <li>アルコーブ面積／0.94㎡（0.28坪）</li>
@@ -45,7 +45,7 @@
                     </div>
                     <p class="floor fgara"><span>2LDK</span>+OP+W+HC+KP+AL+TR</p>
                     <ul class="data">
-                        <li>専有面積／55.29㎡（16.72坪）</li>
+                        <li>専有面積／55.29㎡（16.72坪）<br>《TR面積1.36㎡（0.41坪）を含む》</li>
                         <li>バルコニー面積／11.43㎡（3.45坪）</li>
                         <li>アルコーブ面積／0.94㎡（0.28坪）</li>
                     </ul>

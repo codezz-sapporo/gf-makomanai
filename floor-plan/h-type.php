@@ -12,7 +12,7 @@
                     </div>
                     <p class="floor fgara"><span>4LDK</span>+W+HC+KP+AL+TR</p>
                     <ul class="data">
-                        <li>専有面積／83.94㎡（25.39坪）</li>
+                        <li>専有面積／83.94㎡（25.39坪）<br>《TR面積1.40㎡（0.42坪）を含む》</li>
                         <li>バルコニー面積／15.74㎡（4.76坪）</li>
                         <li>アルコーブ面積／1.80㎡（0.54坪）</li>
                     </ul>
@@ -28,7 +28,7 @@
                     </div>
                     <p class="floor fgara"><span>4LDK</span>+OP+W+HC+KP+AL+TR</p>
                     <ul class="data">
-                        <li>専有面積／83.94㎡（25.39坪）</li>
+                        <li>専有面積／83.94㎡（25.39坪）<br>《TR面積1.40㎡（0.42坪）を含む》</li>
                         <li>バルコニー面積／15.74㎡（4.76坪）</li>
                         <li>アルコーブ面積／1.80㎡（0.54坪）</li>
                     </ul>

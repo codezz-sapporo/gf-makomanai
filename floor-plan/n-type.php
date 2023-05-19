@@ -10,7 +10,7 @@
                         <h3><span>N</span>type</h3>
                         <p><span>76.06</span>m<sup>2</sup></p>
                     </div>
-                    <p class="floor fgara"><span>3LDK</span>+SIC+W+KP+PG+OS+PP+AL+TR</p>
+                    <p class="floor fgara"><span>3LDK</span>+SIC+W+KP+PG+PP+AL+TR</p>
                     <ul class="data">
                         <li>専有面積／76.06㎡（23.00坪）<br>《TR面積1.30㎡（0.39坪）を含む》</li>
                         <li>テラス面積／12.70㎡（3.84坪）</li>

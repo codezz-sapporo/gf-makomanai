@@ -67,6 +67,18 @@
                     <div><a href="<?php print URL; ?>/floor-plan/index.php?active-tab=tab-1">A-Type</a></div>
                     <div><a href="<?php print URL; ?>/floor-plan/index.php?active-tab=tab-2">B-Type</a></div>
                     <div><a href="<?php print URL; ?>/floor-plan/index.php?active-tab=tab-3">C-Type</a></div>
+                    <div><a href="<?php print URL; ?>/floor-plan/index.php?active-tab=tab-4">D-Type</a></div>
+                    <div><a href="<?php print URL; ?>/floor-plan/index.php?active-tab=tab-5">E-Type</a></div>
+                    <div><a href="<?php print URL; ?>/floor-plan/index.php?active-tab=tab-6">F-Type</a></div>
+                    <div><a href="<?php print URL; ?>/floor-plan/index.php?active-tab=tab-7">G-Type</a></div>
+                    <div><a href="<?php print URL; ?>/floor-plan/index.php?active-tab=tab-8">H-Type</a></div>
+                    <div><a href="<?php print URL; ?>/floor-plan/index.php?active-tab=tab-9">I-Type</a></div>
+                    <div><a href="<?php print URL; ?>/floor-plan/index.php?active-tab=tab-10">J-Type</a></div>
+                    <div><a href="<?php print URL; ?>/floor-plan/index.php?active-tab=tab-11">K-Type</a></div>
+                    <div><a href="<?php print URL; ?>/floor-plan/index.php?active-tab=tab-12">L-Type</a></div>
+                    <div><a href="<?php print URL; ?>/floor-plan/index.php?active-tab=tab-13">M-Type</a></div>
+                    <div><a href="<?php print URL; ?>/floor-plan/index.php?active-tab=tab-14">N-Type</a></div>
+                    <div><a href="<?php print URL; ?>/floor-plan/index.php?active-tab=tab-15">O-Type</a></div>
                 </li>
             </ul>
         </div><!-- /.f-menu -->

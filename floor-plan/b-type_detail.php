@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="<?php print URL; ?>/assets/css/a-type.css" />
 <title>B-type詳細 | 間取り | グランファーレ真駒内グランフォレスト | 日本グランデ株式会社</title>
 <meta name="description" content="日本グランデによる新しいスマートマンションが札幌市中央区に誕生。地下鉄東西線｢西28丁目駅｣停徒歩9分。グランファーレ真駒内グランフォレスト">
-<meta name="keywords" content="グランファーレ宮の森コートハウス,宮の森,札幌,中央区,新築分譲マンション,分譲マンション,北海道,東西線,日本グランデ">
+<meta name="keywords" content="グランファーレ真駒内グランフォレスト,宮の森,札幌,中央区,新築分譲マンション,分譲マンション,北海道,東西線,日本グランデ">
 
 <?php
 	include_once('../header_2.php');

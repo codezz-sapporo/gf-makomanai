@@ -13,8 +13,8 @@
                     <p class="floor fgara"><span>3LDK</span>+SIC+W+KP+PG+OS+PP+AL+TR</p>
                     <ul class="data">
                         <li>専有面積／76.06㎡（23.00坪）<br>《TR面積1.30㎡（0.39坪）を含む》</li>
-                        <li>バルコニー面積／12.70㎡（3.84坪）</li>
-                        <li>ルーフバルコニー面積／41.32㎡（12.49坪）</li>
+                        <li>テラス面積／12.70㎡（3.84坪）</li>
+                        <li>専用庭面積／41.32㎡（12.49坪）</li>
                         <li>アルコーブ面積／2.56㎡（0.77坪）</li>
                     </ul>
                     <p class="floorimg floorimg_02">

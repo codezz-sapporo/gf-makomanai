@@ -131,6 +131,12 @@
     margin: 0 auto;
     margin-bottom: 100px;
   }
+  .access__sky {
+    max-width: 1010px;
+  }
+  .access__sizeUp {
+    max-width: unset;
+  }
   .access__text-area {
     display: flex;
     flex-direction: column;

@@ -50,7 +50,7 @@
                         <li>アルコーブ面積／1.71㎡（0.51坪）</li>
                     </ul>
                     <p class="floorimg floorimg_02">
-                        <img src="../assets/svg/a-type/e2-type.svg" width="700" height="718" alt="Ctype">
+                        <img src="../assets/svg/a-type/e2-type.svg" width="700" height="718" alt="E2type">
                     </p>
                     <a href="e2-type_detail.php" class="detail-label" id="e2-type">間取りを拡大する</a>
                 </li>

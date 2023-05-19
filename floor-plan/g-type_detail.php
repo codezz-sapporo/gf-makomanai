@@ -19,7 +19,7 @@
             <div class="detail">
                 <div class="main">
                     <div class="head fgara">
-                        <h3><span>H</span>type</h3>
+                        <h3><span>G</span>type</h3>
                         <p class="size"><span>44.17</span>m<sup>2</sup></p>
                         <p class="floor"><span>1LDK</span>+SC+KP+AL+TR</p>
                     </div>

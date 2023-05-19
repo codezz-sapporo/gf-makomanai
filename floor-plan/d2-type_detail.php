@@ -3,7 +3,7 @@
 ?>
 
 <link rel="stylesheet" href="<?php print URL; ?>/assets/css/a-type.css" />
-<title>D-type詳細 | 間取り | グランファーレ真駒内グランフォレスト | 日本グランデ株式会社</title>
+<title>D2-type詳細 | 間取り | グランファーレ真駒内グランフォレスト | 日本グランデ株式会社</title>
 <meta name="description" content="日本グランデによる新しいスマートマンションが札幌市中央区に誕生。地下鉄東西線｢西28丁目駅｣停徒歩9分。グランファーレ真駒内グランフォレスト">
 <meta name="keywords" content="グランファーレ宮の森コートハウス,宮の森,札幌,中央区,新築分譲マンション,分譲マンション,北海道,東西線,日本グランデ">
 
@@ -21,7 +21,7 @@
                     <div class="head fgara">
                         <h3><span>D2</span>type</h3>
                         <p class="size"><span>67.43</span>m<sup>2</sup></p>
-                        <p class="floor"><span>3DK</span>+OP+SIC+W+HS+AL+TR</p>
+                        <p class="floor"><span>3LDK</span>+OP+SIC+W+HS+AL+TR</p>
                     </div>
                     <ul class="data">
                         <li>専有面積／67.43㎡（20.39坪）《TR面積1.32㎡（0.39坪）を含む》</li>
@@ -31,7 +31,7 @@
                     </ul>
                     <p class="cap">D2タイプはリビングダイニングがオープンペントハウスとなっています。高く設けた天井高約3.95mの開放的な吹抜けを演出し、その窓から差し込む光で部屋全体を明るく包み込みます。 </p>
                     <p class="floorimg">
-                        <img src="../assets/svg/a-type/d2-type.svg" width="700" height="718" alt="Ctype">
+                        <img src="../assets/svg/a-type/d2-type.svg" width="700" height="718" alt="Dtype">
                     </p>
                 </div>
 

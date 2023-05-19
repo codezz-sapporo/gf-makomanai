@@ -31,7 +31,7 @@
                     </ul>
                     <p class="cap">リビングダイニングキッチン、全洋室がバルコニーに面した3LDKプランです。玄関にはコートや傘の他玄関に必要な物を出し入れできる玄関クロークとホール収納をご用意。さらに洋室2にウォークインクローゼットを完備し収納力に配慮しました。洋室3の引き戸を解放するとリビングダイニングキッチンと一体となった約18.3帖の広々とした空間を演出することも可能です。 </p>
                     <p class="floorimg">
-                        <img src="../assets/svg/a-type/d-type.svg" width="700" height="718" alt="Ctype">
+                        <img src="../assets/svg/a-type/d-type.svg" width="700" height="718" alt="Dtype">
                     </p>
                 </div>
 

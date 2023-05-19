@@ -17,7 +17,7 @@
                         <li>アルコーブ面積／1.75㎡（0.52坪）</li>
                     </ul>
                     <p class="floorimg floorimg_02">
-                        <img src="../assets/svg/a-type/d-type.svg" width="700" height="718" alt="Ctype">
+                        <img src="../assets/svg/a-type/d-type.svg" width="700" height="718" alt="Dtype">
                     </p>
                     <a href="d-type_detail.php" class="detail-label" id="d-type">間取りを拡大する</a>
                 </li>
@@ -34,7 +34,7 @@
                         <li>アルコーブ面積／1.75㎡（0.52坪）</li>
                     </ul>
                     <p class="floorimg floorimg_02">
-                        <img src="../assets/svg/a-type/d1-type.svg" width="700" height="718" alt="Ctype">
+                        <img src="../assets/svg/a-type/d1-type.svg" width="700" height="718" alt="D1type">
                     </p>
                     <a href="d1-type_detail.php" class="detail-label" id="d1-type">間取りを拡大する</a>
                 </li>
@@ -50,7 +50,7 @@
                         <li>アルコーブ面積／1.75㎡（0.52坪）</li>
                     </ul>
                     <p class="floorimg floorimg_02">
-                        <img src="../assets/svg/a-type/d2-type.svg" width="700" height="718" alt="Ctype">
+                        <img src="../assets/svg/a-type/d2-type.svg" width="700" height="718" alt="D2type">
                     </p>
                     <a href="d2-type_detail.php" class="detail-label" id="d2-type">間取りを拡大する</a>
                 </li>

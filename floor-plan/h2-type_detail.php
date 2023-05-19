@@ -40,7 +40,7 @@
                     <div class="menu">
                         <dl>
                             <dt class="fgara">menu<span>1</span></dt>
-                            <dd>リビングダイニングと洋室4の間に間仕切り壁を設けてプライバシーを確保しました。 </dd>
+                            <dd>リビングダイニングと洋室4の間に間仕切り壁を設けてプライバシーを確保しました。</dd>
                         </dl>
                         <p class="floorimg">
                             <img src="../assets/svg/a-type/h-type_menu1.svg" width="630" height="615" alt="menu1">

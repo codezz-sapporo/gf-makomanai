@@ -59,7 +59,7 @@
                     <div class="menu">
                         <dl>
                             <dt class="fgara">menu<span>3</span></dt>
-                            <dd>洋室2のクローゼットをウォークインに変更した他、リビングダイニングと洋室4の間に間仕切り壁を設けてプライバシーを確保しました。 .7帖大のリビングダイニングを実現しました。</dd>
+                            <dd>洋室2のクローゼットをウォークインに変更した他、リビングダイニングと洋室4の間に間仕切り壁を設けてプライバシーを確保しました。</dd>
                         </dl>
                         <p class="floorimg">
                             <img src="../assets/svg/a-type/M-type_menu3.svg" width="630" height="615" alt="menu3">

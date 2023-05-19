@@ -16,13 +16,13 @@
             <div class="access__text-area">
                 <p class="access__text access__text_lh-large">
                     <span class="fs03">地下鉄南北線</span><br><span class="fs05 bracket">『</span><span class="fs02">真駒内駅</span><span class="fs05">』</span>
-                    <br class="br_sp"><span class="fs05">徒歩</span><span class="fs01 number">9</span><span class="fs05">分</span><span class="fs06 ls-small">。(720m)</span><br>
+                    <span class="fs05">徒歩</span><span class="fs01 number">9</span><span class="fs05">分</span><span class="fs06 ls-small">。(720m)</span>
                 </p>
                 <p class="access__text access__text_lh-large">
                     <span class="fs05">都心</span><span class="fs06">まで</span><span class="fs05">快適アクセス。</span><br>
                     <span class="fs05 bracket">『</span><span class="fs03">大通</span>
                     <span class="fs05 ls-small">』</span>
-                    <span class="fs06">駅まで乗車</span><span class="fs01 number">16</span><span class="fs06">分。</span><br>
+                    <span class="fs06">駅まで乗車</span><span class="fs01 number">16</span><span class="fs06">分。</span>
                 </p>
                 <p class="access__text access__text_lh-large">
                     <span class="fs05 bracket">『</span><span class="fs03">さっぽろ</span>

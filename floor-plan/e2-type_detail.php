@@ -31,7 +31,7 @@
                     </ul>
                     <p class="cap">E2タイプはリビングダイニングがオープンペントハウスとなっています。高く設けた天井高約3.95mの開放的な吹抜けを演出し、その窓から差し込む光で部屋全体を明るく包み込みます。 </p>
                     <p class="floorimg">
-                        <img src="../assets/svg/a-type/e-type.svg" width="700" height="718" alt="E2type">
+                        <img src="../assets/svg/a-type/e2-type.svg" width="700" height="718" alt="E2type">
                     </p>
                 </div>
 

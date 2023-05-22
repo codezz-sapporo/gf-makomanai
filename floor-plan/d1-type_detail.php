@@ -14,7 +14,7 @@
 
 	<main class="detail-main">
 
-	    <div class="contents" id="symbol02_right">
+	    <div class="contents" id="symbol_left">
 	        <div class="page">
 	            <div class="detail">
 	                <div class="main">

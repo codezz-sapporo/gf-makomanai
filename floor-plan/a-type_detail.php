@@ -14,7 +14,7 @@
 
 <main class="detail-main">
 
-    <div class="contents" id="symbol03_center">
+    <div class="contents" id="symbol_moreCenter">
         <div class="detail">
             <div class="main">
                 <div class="head fgara">

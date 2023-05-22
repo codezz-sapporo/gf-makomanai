@@ -2,6 +2,7 @@
 	include_once('../header_1b.php');
 ?>
 
+
 <link rel="stylesheet" href="<?php print URL; ?>/assets/css/a-type.css" />
 <title>B1-type詳細 | 間取り | グランファーレ真駒内グランフォレスト | 日本グランデ株式会社</title>
 <meta name="description" content="日本グランデによる新しいスマートマンションが札幌市中央区に誕生。地下鉄東西線｢西28丁目駅｣停徒歩9分。グランファーレ真駒内グランフォレスト">

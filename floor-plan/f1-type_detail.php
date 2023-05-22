@@ -32,7 +32,7 @@
                     </ul>
                     <p class="cap">テラスと専用庭付きのF1プランです。専用庭に設けたオーニングシェードは、最新の電動開閉式なので出し入れの操作がワンタッチで楽々です。広々とした専用庭にガーデンテーブルをセットすれば、オープンカフェとして楽しむことができます。ガーデニングスペースとしても、日々の暮らしのゆとりを広げます。</p>
                     <p class="floorimg">
-                        <img src="../assets/svg/a-type/f1-type.svg" width="700" height="718" alt="Ftype">
+                        <img src="../assets/svg/a-type/f1-type.svg" width="700" height="718" alt="F1type">
                     </p>
                 </div>
 

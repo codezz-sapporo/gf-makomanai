@@ -230,8 +230,8 @@
 #symbol_moreCenter .floorimg_left::after {
   display: block;
   content: "";
-  width: 49px;
-  height: 42px;
+  width: 42px;
+  height: 49px;
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
@@ -242,8 +242,8 @@
 #symbol_moreCenter .floorimg_right::after {
   display: block;
   content: "";
-  width: 49px;
-  height: 42px;
+  width: 42px;
+  height: 49px;
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;

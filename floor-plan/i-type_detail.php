@@ -30,7 +30,7 @@
                         <li>HC：ホールクローゼット　HS：ホール収納　AL：アルコーブ　TR：トランクルーム</li>
                     </ul>
                     <p class="cap">リビングダイニングキッチン、全洋室がバルコニーに面した3LDKプランです。玄関にトール型の玄関収納とホールクローゼット、ホール収納を完備し、すっきりとした空間を演出します。洋室3の引き戸を解放するとリビングダイニングキッチンと一体となった約17.9帖の広々とした空間を演出することも可能です。</p>
-                    <p class="floorimg">
+                    <p class="floorimg floorimg_right">
                         <img src="../assets/svg/a-type/i-type.svg" width="700" height="718" alt="Itype">
                     </p>
                 </div>

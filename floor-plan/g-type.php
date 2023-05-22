@@ -2,10 +2,10 @@
 
     <h2 class="sub__h1">G-type</h2>
 
-    <div class="contents" id="symbol03s_center">
+    <div class="contents">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="g-type">
+                <li class="parent" id="symbol_center">
                     <div class="name_size fgara">
                         <h3><span>G</span>type</h3>
                         <p><span>44.17</span>m<sup>2</sup></p>
@@ -17,9 +17,9 @@
                         <li>アルコーブ面積／0.83㎡（0.25坪）</li>
                     </ul>
                     <p class="floorimg floorimg_02">
-                        <img src="../assets/svg/a-type/g-type.svg" width="700" height="718" alt="Ftype">
+                        <img src="../assets/svg/a-type/g-type.svg" width="700" height="718" alt="Gtype">
                     </p>
-                    <a href="g-type_detail.php" class="detail-label" id="g-type">間取りを拡大する</a>
+                    <a href="g-type_detail.php" class="detail-label">間取りを拡大する</a>
                 </li>
             </ul>
             <div class="func">

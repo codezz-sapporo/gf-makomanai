@@ -2,10 +2,10 @@
 
     <h2 class="sub__h1">O-type</h2>
 
-    <div class="contents" id="symbol03s_center">
+    <div class="contents">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="n-type">
+                <li class="parent" id="symbol_center">
                     <div class="name_size fgara">
                         <h3><span>O</span>type</h3>
                         <p><span>54.80</span>m<sup>2</sup></p>
@@ -18,9 +18,9 @@
                         <li>アルコーブ面積／0.83㎡（0.25坪）</li>
                     </ul>
                     <p class="floorimg floorimg_02">
-                        <img src="../assets/svg/a-type/o-type.svg" width="700" height="718" alt="Mtype">
+                        <img src="../assets/svg/a-type/o-type.svg" width="700" height="718" alt="Otype">
                     </p>
-                    <a href="o-type_detail.php" class="detail-label" id="o-type">間取りを拡大する</a>
+                    <a href="o-type_detail.php" class="detail-label">間取りを拡大する</a>
                 </li>
             </ul>
             <div class="func">

@@ -2,10 +2,10 @@
 
     <h2 class="sub__h1">F-type</h2>
 
-    <div class="contents" id="symbol03s_center">
+    <div class="contents">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="e-type">
+                <li class="parent" id="symbol_center">
                     <div class="name_size fgara">
                         <h3><span>F</span>type</h3>
                         <p><span>55.29</span>m<sup>2</sup></p>
@@ -21,7 +21,7 @@
                     </p>
                     <a href="f-type_detail.php" class="detail-label" id="f-type">間取りを拡大する</a>
                 </li>
-                <li class="parent" id="f-type">
+                <li class="parent" id="symbol_center">
                     <div class="name_size fgara">
                         <h3><span>F1</span>type</h3>
                         <p><span>55.29</span>m<sup>2</sup></p>
@@ -38,7 +38,7 @@
                     </p>
                     <a href="f1-type_detail.php" class="detail-label" id="f1-type">間取りを拡大する</a>
                 </li>
-                <li class="parent" id="e-type">
+                <li class="parent" id="symbol_center">
                     <div class="name_size fgara">
                         <h3><span>F2</span>type</h3>
                         <p><span>55.29</span>m<sup>2</sup></p>

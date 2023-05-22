@@ -2,10 +2,10 @@
 
     <h2 class="sub__h1">I-type</h2>
 
-    <div class="contents" id="symbol03s_center">
+    <div class="contents">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="i-type">
+                <li class="parent" id="symbol01_right">
                     <div class="name_size fgara">
                         <h3><span>I</span>type</h3>
                         <p><span>70.70</span>m<sup>2</sup></p>
@@ -19,7 +19,7 @@
                     <p class="floorimg floorimg_02">
                         <img src="../assets/svg/a-type/i-type.svg" width="700" height="718" alt="Itype">
                     </p>
-                    <a href="i-type_detail.php" class="detail-label" id="i-type">間取りを拡大する</a>
+                    <a href="i-type_detail.php" class="detail-label">間取りを拡大する</a>
                 </li>
             </ul>
             <div class="func">

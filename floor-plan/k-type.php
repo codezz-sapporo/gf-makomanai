@@ -5,7 +5,7 @@
     <div class="contents" id="symbol03s_center">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="k-type">
+                <li class="parent" id="symbol01_right">
                     <div class="name_size fgara">
                         <h3><span>K</span>type</h3>
                         <p><span>61.65</span>m<sup>2</sup></p>
@@ -20,7 +20,7 @@
                     <p class="floorimg floorimg_02">
                         <img src="../assets/svg/a-type/k-type.svg" width="700" height="718" alt="Ktype">
                     </p>
-                    <a href="k-type_detail.php" class="detail-label" id="k-type">間取りを拡大する</a>
+                    <a href="k-type_detail.php" class="detail-label">間取りを拡大する</a>
                 </li>
             </ul>
             <div class="func">

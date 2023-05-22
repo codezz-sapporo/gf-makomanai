@@ -2,10 +2,10 @@
 
     <h2 class="sub__h1">A-type</h2>
 
-    <div class="contents" id="symbol03s_center">
+    <div class="contents">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="a-type">
+                <li class="parent" id="symbol_center">
                     <div class="name_size fgara">
                         <h3><span>A</span>type</h3>
                         <p><span>85.47</span>m<sup>2</sup></p>

@@ -2,10 +2,10 @@
 
     <h2 class="sub__h1">E-type</h2>
 
-    <div class="contents" id="symbol03s_center">
+    <div class="contents">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="e-type">
+                <li class="parent" id="symbol_center">
                     <div class="name_size fgara">
                         <h3><span>E</span>type</h3>
                         <p><span>67.43</span>m<sup>2</sup></p>
@@ -19,9 +19,9 @@
                     <p class="floorimg floorimg_02">
                         <img src="../assets/svg/a-type/e-type.svg" width="700" height="718" alt="Etype">
                     </p>
-                    <a href="e-type_detail.php" class="detail-label" id="e-type">間取りを拡大する</a>
+                    <a href="e-type_detail.php" class="detail-label">間取りを拡大する</a>
                 </li>
-                <li class="parent" id="e-type">
+                <li class="parent" id="symbol_left">
                     <div class="name_size fgara">
                         <h3><span>E1</span>type</h3>
                         <p><span>67.43</span>m<sup>2</sup></p>
@@ -38,7 +38,7 @@
                     </p>
                     <a href="e1-type_detail.php" class="detail-label" id="e1-type">間取りを拡大する</a>
                 </li>
-                <li class="parent" id="e-type">
+                <li class="parent" id="symbol_center">
                     <div class="name_size fgara">
                         <h3><span>E2</span>type</h3>
                         <p><span>67.43</span>m<sup>2</sup></p>

@@ -2,10 +2,10 @@
 
     <h2 class="sub__h1">H-type</h2>
 
-    <div class="contents" id="symbol03s_center">
+    <div class="contents">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="h-type">
+                <li class="parent" id="symbol_center">
                     <div class="name_size fgara">
                         <h3><span>H</span>type</h3>
                         <p><span>83.94</span>m<sup>2</sup></p>
@@ -19,9 +19,9 @@
                     <p class="floorimg floorimg_02">
                         <img src="../assets/svg/a-type/h-type.svg" width="700" height="718" alt="Htype">
                     </p>
-                    <a href="h-type_detail.php" class="detail-label" id="h-type">間取りを拡大する</a>
+                    <a href="h-type_detail.php" class="detail-label">間取りを拡大する</a>
                 </li>
-                <li class="parent" id="h-type">
+                <li class="parent" id="symbol_center">
                     <div class="name_size fgara">
                         <h3><span>H2</span>type</h3>
                         <p><span>83.94</span>m<sup>2</sup></p>

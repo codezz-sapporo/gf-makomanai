@@ -126,187 +126,68 @@
   display: block;
   margin: 0 auto;
 }
+#symbol_center .floorimg::after {
+  display: block;
+  content: "";
+  width: 51px;
+  height: 60px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 50%;
+  bottom: 2%;
+  transform: translateX(50%);
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
+#symbol_left .floorimg::after {
+  display: block;
+  content: "";
+  width: 51px;
+  height: 60px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  left: 0;
+  bottom: 2%;
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
+#symbol_right .floorimg::after {
+  display: block;
+  content: "";
+  width: 51px;
+  height: 60px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 0;
+  bottom: 2%;
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
 #symbol01_right .floorimg::after {
   display: block;
   content: "";
-  width: 50px;
-  height: 42px;
+  width: 60px;
+  height: 52px;
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
   right: 0;
-  bottom: 0;
-  background-image: url(../svg/a-type/direction-symbol.svg);
+  bottom: 2%;
+  background-image: url(../svg/a-type/direction-symbol_01.svg);
 }
-#symbol01s_right .floorimg::after {
+#symbol02_center .floorimg::after {
   display: block;
   content: "";
-  width: 50px;
-  height: 42px;
+  width: 60px;
+  height: 52px;
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
-  right: 0;
-  bottom: 20px;
-  background-image: url(../svg/a-type/direction-symbol.svg);
-}
-#symbol01_left .floorimg::after {
-  display: block;
-  content: "";
-  width: 50px;
-  height: 42px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 0;
-  left: 0;
-  bottom: 0;
+  right: 48.5%;
+  bottom: 2%;
   transform: translateX(50%);
-  background-image: url(../svg/a-type/direction-symbol.svg);
+  background-image: url(../svg/a-type/direction-symbol_02.svg);
 }
-#symbol01s_left .floorimg::after {
-  display: block;
-  content: "";
-  width: 50px;
-  height: 42px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 0;
-  left: 0;
-  bottom: 20px;
-  transform: translateX(50%);
-  background-image: url(../svg/a-type/direction-symbol.svg);
-}
-#symbol02_right .floorimg::after {
-  display: block;
-  content: "";
-  width: 50px;
-  height: 42px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  background-image: url(../svg/a-type/direction-symbol.svg);
-}
-#symbol02s_right .floorimg::after {
-  display: block;
-  content: "";
-  width: 50px;
-  height: 42px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 0;
-  bottom: 20px;
-  background-image: url(../svg/a-type/direction-symbol.svg);
-}
-#symbol03_right .floorimg::after {
-  display: block;
-  content: "";
-  width: 50px;
-  height: 42px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  background-image: url(../svg/a-type/direction-symbol.svg);
-}
-#symbol03s_right .floorimg::after {
-  display: block;
-  content: "";
-  width: 50px;
-  height: 42px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 0;
-  bottom: 20px;
-  background-image: url(../svg/a-type/direction-symbol.svg);
-}
-#symbol03_left .floorimg::after {
-  display: block;
-  content: "";
-  width: 50px;
-  height: 42px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 0;
-  left: 0;
-  bottom: 0;
-  transform: translateX(50%);
-  background-image: url(../svg/a-type/direction-symbol.svg);
-}
-#symbol03s_left .floorimg::after {
-  display: block;
-  content: "";
-  width: 50px;
-  height: 42px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 0;
-  left: 0;
-  bottom: 20px;
-  transform: translateX(50%);
-  background-image: url(../svg/a-type/direction-symbol.svg);
-}
-#symbol03_center .floorimg::after {
-  display: block;
-  content: "";
-  width: 45px;
-  height: 55px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 50%;
-  bottom: -5px;
-  transform: translateX(50%);
-  background-image: url(../svg/a-type/direction-symbol.svg);
-}
-#symbol03s_center .floorimg::after {
-  display: block;
-  content: "";
-  width: 45px;
-  height: 55px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 50%;
-  bottom: 15px;
-  transform: translateX(50%);
-  background-image: url(../svg/a-type/direction-symbol.svg);
-}
-#symbol04_center .floorimg::after {
-  display: block;
-  content: "";
-  width: 50px;
-  height: 42px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 50%;
-  bottom: 0;
-  transform: translateX(50%);
-  background-image: url(../svg/a-type/direction-symbol.svg);
-}
-#symbol04s_center .floorimg::after {
-  display: block;
-  content: "";
-  width: 50px;
-  height: 42px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 50%;
-  bottom: 20px;
-  transform: translateX(50%);
-  background-image: url(../svg/a-type/direction-symbol.svg);
-}
-
 .func .left {
   float: unset;
 }

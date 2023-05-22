@@ -2,10 +2,10 @@
 
     <h2 class="sub__h1">L-type</h2>
 
-    <div class="contents" id="symbol03s_center">
+    <div class="contents">
         <div class="page">
-            <ul class="typelist">
-                <li class="parent" id="l-type">
+            <ul class="typelist" id="symbol02_center">
+                <li class="parent">
                     <div class="name_size fgara">
                         <h3><span>L</span>type</h3>
                         <p><span>72.42</span>m<sup>2</sup></p>
@@ -20,7 +20,7 @@
                     <p class="floorimg floorimg_02">
                         <img src="../assets/svg/a-type/L-type.svg" width="700" height="718" alt="Ltype">
                     </p>
-                    <a href="l-type_detail.php" class="detail-label" id="l-type">間取りを拡大する</a>
+                    <a href="l-type_detail.php" class="detail-label">間取りを拡大する</a>
                 </li>
             </ul>
             <div class="func">

@@ -19,10 +19,10 @@
       <div id="loader-bg">
         <div id="loader">
           <div style="padding-top: 0;">
-            <video onended="location.href='<?php print URL; ?>/top/';" autoplay muted loop playsinline id="bgvid" class="sp video-frame" src="<?php print URL; ?>/assets/movie/kosai_sp_2.mp4"></video>
+            <video onended="location.href='<?php print URL; ?>/top/';" autoplay muted loop playsinline id="bgvid" class="sp video-frame" src="<?php print URL; ?>/assets/movie/makomanai_sp.mp4"></video>
           </div>
           <div style="">
-            <video onended="location.href='<?php print URL; ?>/top/';" autoplay muted loop playsinline id="bgvid" class="pc video-frame" src="<?php print URL; ?>/assets/movie/kosai_pc_2_1.mp4"></video>
+            <video onended="location.href='<?php print URL; ?>/top/';" autoplay muted loop playsinline id="bgvid" class="pc video-frame" src="<?php print URL; ?>/assets/movie/makomanai_pc.mp4"></video>
           </div>
         </div>
         <div class="skip c-text"><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>SKIP</div>
@@ -59,7 +59,7 @@
       });
       //72秒たったら強制的にロード画面を非表示
       $(function(){
-        setTimeout('stopload()',72000);
+        setTimeout('stopload()',66000);
       });
       function stopload(){
         // $('#loader-bg').delay(900).fadeOut(800);

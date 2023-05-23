@@ -417,7 +417,7 @@ html.hidden {
   background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
-  padding: 3px 8px;
+  padding: 3px;
 }
 
 .top-mainvisual__lead {

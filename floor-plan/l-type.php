@@ -18,7 +18,7 @@
                         <li>アルコーブ面積／2.05㎡（0.62坪）</li>
                     </ul>
                     <p class="floorimg floorimg_02">
-                        <img src="../assets/svg/a-type/L-type.svg" width="700" height="718" alt="Ltype">
+                        <img src="../assets/svg/a-type/l-type.svg" width="700" height="718" alt="Ltype">
                     </p>
                     <a href="l-type_detail.php" class="detail-label">間取りを拡大する</a>
                 </li>

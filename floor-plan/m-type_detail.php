@@ -44,7 +44,7 @@
                             <dd>リビングダイニングと洋室4の間に間仕切り壁を設けてプライバシーを確保しました。</dd>
                         </dl>
                         <p class="floorimg">
-                            <img src="../assets/svg/a-type/M-type_menu1.svg" width="630" height="615" alt="menu1">
+                            <img src="../assets/svg/a-type/m-type_menu1.svg" width="630" height="615" alt="menu1">
                         </p>
                     </div>
                     <div class="menu">
@@ -53,7 +53,7 @@
                             <dd>リビングダイニングに洋室4を取り込んだ3LDKプランです。クローゼットを広く設けながらも20.7帖大のリビングダイニングを実現しました。</dd>
                         </dl>
                         <p class="floorimg">
-                            <img src="../assets/svg/a-type/M-type_menu2.svg" width="630" height="615" alt="menu2">
+                            <img src="../assets/svg/a-type/m-type_menu2.svg" width="630" height="615" alt="menu2">
                         </p>
                     </div>
                     <div class="menu">
@@ -62,7 +62,7 @@
                             <dd>洋室2のクローゼットをウォークインに変更した他、リビングダイニングと洋室4の間に間仕切り壁を設けてプライバシーを確保しました。</dd>
                         </dl>
                         <p class="floorimg">
-                            <img src="../assets/svg/a-type/M-type_menu3.svg" width="630" height="615" alt="menu3">
+                            <img src="../assets/svg/a-type/m-type_menu3.svg" width="630" height="615" alt="menu3">
                         </p>
                     </div>
                     <div class="menu">
@@ -71,7 +71,7 @@
                             <dd>洋室2と洋室3を1部屋にした3LDKプランです。クローゼットをホール収納に変更した他、リビングダイニングと洋室4の間に間仕切り壁を設けてプライバシーを確保しました。</dd>
                         </dl>
                         <p class="floorimg">
-                            <img src="../assets/svg/a-type/M-type_menu4.svg" width="630" height="615" alt="menu4">
+                            <img src="../assets/svg/a-type/m-type_menu4.svg" width="630" height="615" alt="menu4">
                         </p>
                     </div>
                 </div>

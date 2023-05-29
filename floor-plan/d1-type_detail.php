@@ -21,23 +21,23 @@
 	                    <div class="head fgara">
 	                        <h3><span>D<span class="detail-title_small">1</span></span>type</h3>
 	                        <p class="size"><span>67.43</span>m<sup>2</sup></p>
-	                        <p class="floor"><span>3LDK</span>+SIC+W+HS+PG+OS+AL+TR</p>
+	                        <p class="floor"><span>3LDK</span>+SIC+W+HS+PG+AL+TR</p>
 	                    </div>
 	                    <ul class="data">
 	                        <li>専有面積／67.43㎡（20.39坪）《TR面積1.32㎡（0.39坪）を含む》</li>
 	                        <li>テラス面積／22.75㎡（6.88坪）</li>
 	                        <li>専用庭面積／24.10㎡（7.29坪）</li>
 	                        <li>アルコーブ面積／1.75㎡（0.52坪）</li>
-	                        <li>SIC：シューズインクローゼット　W：ウォークインクローゼット　HC：ホールクローゼット　AL：アルコーブ　TR：トラ ンクルーム　PG：プライベートガーデン　OS：オーニングシェード</li>
+	                        <li>SIC：シューズインクローゼット　W：ウォークインクローゼット　HS：ホール収納　AL：アルコーブ　TR：トラ ンクルーム　PG：プライベートガーデン</li>
 	                    </ul>
-	                    <p class="cap">テラスと専用庭付きのD1プランです。専用庭に設けたオーニングシェードは、最新の電動開閉式なので出し入れの操作がワンタッチで楽々です。広々とした専用庭にガーデンテーブルをセットすれば、オープンカフェとして楽しむことができます。ガーデニングスペースとしても、日々の暮らしのゆとりを広げます。</p>
-	                    <p class="floorimg floorimg_left">
+	                    <p class="cap">テラスと専用庭付きのD1プランです。広々とした専用庭にガーデンテーブルをセットすれば、オープンカフェとして楽しむことができます。ガーデニングスペースとしても、日々の暮らしのゆとりを広げます。</p>
+	                    <p class="floorimg">
 	                        <img src="../assets/svg/a-type/d1-type.svg" width="700" height="718" alt="D1type">
 	                    </p>
 	                </div>
-	                <?php
+	                <!-- <?php
                     	include_once('d-detail.php');
-                	?>
+                	?> -->
 	            </div>
 	        </div>
 	    </div><!-- /.contents -->

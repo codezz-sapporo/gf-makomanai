@@ -26,7 +26,7 @@
                         <h3><span>C1</span>type</h3>
                         <p><span>52.02</span>m<sup>2</sup></p>
                     </div>
-                    <p class="floor fgara"><span>2LDK</span>+W+HC+PG+OS+AL+TR</p>
+                    <p class="floor fgara"><span>2LDK</span>+W+HC+PG+AL+TR</p>
                     <ul class="data">
                         <li>専有面積／52.02㎡（15.73坪）<br>《TR面積1.13㎡（0.34坪）を含む》</li>
                         <li>テラス面積／10.77㎡（3.25坪）</li>

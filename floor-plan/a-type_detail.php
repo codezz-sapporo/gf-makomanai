@@ -66,7 +66,7 @@
                 <div class="menu">
                     <dl>
                         <dt class="fgara">menu<span>4</span></dt>
-                        <dd>洋室2と洋室3を1部屋にした3LDKプランです。洋室4のクローゼット広く設けて使い勝手の良さに配慮しました。 </dd>
+                        <dd>洋室2と洋室3を1部屋にした3LDKプランです。洋室4のクローゼットを広く設けて使い勝手の良さに配慮しました。 </dd>
                     </dl>
                     <p class="floorimg">
                         <img src="../assets/svg/a-type/a-type_menu4.svg" width="630" height="615" alt="menu4">

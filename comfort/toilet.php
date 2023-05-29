@@ -43,7 +43,7 @@
 				</picture>
 				
 				<h3 class="item-box__title">カラーオーダーを採用した<br>ウォシュレット</h3>
-				<p class="text text_small">洗浄・暖房・脱臭はもちろん、ローシルエットデザイン装備した最新式を採用しました。また、便座と便器のカラーは、好みにより３色の中から選ぶことができます。<span style="font-size: 75%;">※サイドパネルは付属しません</span></p>
+				<p class="text text_small">洗浄・暖房・脱臭はもちろん、ローシルエットデザイン装備した最新式を採用しました。また、便座と便器のカラーは、好みにより３色の中から選ぶことができます。<span style="font-size: 75%;">※画像はイメージで、側面の凸凹等は表現されておりません。</span></p>
 			</li>
 			<li class="box box_3">
 				<picture class="item-box__photo">

@@ -109,16 +109,6 @@
 					<p class="text text_small">土から冷気等もシャットアウトするために最下階の床のスラブ（コンクリート）の下にも、ポリスチレン系断熱材などを採用。断熱効果を高めるとともに、結露対策としても効果を発揮します。また、最下階のスラブ下と地面の間には、配管等のメンテナンスのための地下ピット空間があるため、土からの湿気などの影響を直接受けにくくなっています。</p>
 				</div>
 			</li>
-			<li class="box box_2">
-				<picture class="item-box__photo">
-					<source media="(min-width: 768px)" srcset="../assets/svg/eco/construction/sec2_14_pc.svg">
-					<img src="../assets/svg/eco/construction/sec2_14_sp.svg" alt="屋上の外断熱">
-				</picture>
-				<div class="right-box">
-					<h4 class="item-box__title item-box__title_max ta_left">屋上の外断熱</h4>
-					<p class="text text_small">屋上は、建物の部分で最も直射日光・雨水・雪の影響を受けやすく、過酷な気象条件にさらされています。そこで外気の影響から守るために、屋上スラブコンクリートの上を優れた断熱性能ある材料で覆って、躯体の劣化の軽減に努めています。最上階は、断熱材を屋上のコンクリートスラブの外側に50mm、その上に、アスファルト防水を施した外断熱方式を採用。屋上外断熱方式は防水性、耐久性、耐紫外線性、遮熱性、省エネルギー性に優れたシステムです。さらに、室内の天井は二重とし、コンクリート下は約60mmの断熱材を設けるW断熱方式も採用でさらに断熱性を高めています。</p>
-				</div>
-			</li>
 
 		</ul>
 	</div><!-- /.sec2 -->

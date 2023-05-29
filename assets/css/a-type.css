@@ -176,7 +176,7 @@
   bottom: 5%;
   background-image: url(../svg/a-type/direction-symbol.svg);
 }
-#symbol01_right .floorimg::after {
+#symbol01_center .floorimg::after {
   display: block;
   content: "";
   width: 49px;
@@ -184,8 +184,9 @@
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
-  right: 0;
+  right: 50%;
   bottom: 8%;
+  transform: translateX(50%);
   background-image: url(../svg/a-type/direction-symbol_01.svg);
 }
 #symbol01_moreCenter .floorimg::after {

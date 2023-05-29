@@ -21,24 +21,24 @@
 	                    <div class="head fgara">
 	                        <h3><span>C<span class="detail-title_small">1</span></span>type</h3>
 	                        <p class="size"><span>52.02</span>m<sup>2</sup></p>
-	                        <p class="floor"><span>2LDK</span>+W+HC+PG+OS+AL+TR</p>
+	                        <p class="floor"><span>2LDK</span>+W+HC+PG+AL+TR</p>
 	                    </div>
 	                    <ul class="data">
 	                        <li>専有面積／52.02㎡（15.73坪）《TR面積1.13㎡（0.34坪）を含む》</li>
 	                        <li>テラス面積／10.77㎡（3.25坪）</li>
 	                        <li>専用庭面積／31.60㎡（9.55坪）</li>
 	                        <li>アルコーブ面積／0.94㎡（0.28坪）</li>
-	                        <li>W：ウォークインクローゼット　HC：ホールクローゼット　AL：アルコーブ　TR：トランクルーム　PG：プライベートガーデン　OS：オーニングシェード</li>
+	                        <li>W：ウォークインクローゼット　HC：ホールクローゼット　AL：アルコーブ　TR：トランクルーム　PG：プライベートガーデン</li>
 	                    </ul>
-	                    <p class="cap">テラスと専用庭付きのC1プランです。専用庭に設けたオーニングシェードは、最新の電動開閉式なので出し入れの操作がワンタッチで楽々です。広々とした専用庭にガーデンテーブルをセットすれば、オープンカフェとして楽しむことができます。ガーデニングスペースとしても、日々の暮らしのゆとりを広げます。</p>
+	                    <p class="cap">テラスと専用庭付きのC1プランです。広々とした専用庭にガーデンテーブルをセットすれば、オープンカフェとして楽しむことができます。ガーデニングスペースとしても、日々の暮らしのゆとりを広げます。</p>
 	                    <p class="floorimg">
 	                        <img src="../assets/svg/a-type/c1-type.svg" width="700" height="718" alt="C1type">
 	                    </p>
 	                </div>
 
-	                <?php
+	                <!-- <?php
                     	include_once('c-detail.php');
-                	?>
+                	?> -->
 	            </div>
 	        </div>
 	    </div><!-- /.contents -->

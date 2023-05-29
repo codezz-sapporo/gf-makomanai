@@ -21,12 +21,12 @@
                     </p>
                     <a href="d-type_detail.php" class="detail-label" id="symbol_center">間取りを拡大する</a>
                 </li>
-                <li class="parent" id="symbol_left">
+                <li class="parent" id="symbol_center">
                     <div class="name_size fgara">
                         <h3><span>D1</span>type</h3>
                         <p><span>67.43</span>m<sup>2</sup></p>
                     </div>
-                    <p class="floor fgara"><span>3LDK</span>+SIC+W+HS+PG+OS+AL+TR</p>
+                    <p class="floor fgara"><span>3LDK</span>+SIC+W+HS+PG+AL+TR</p>
                     <ul class="data">
                         <li>専有面積／67.43㎡（20.39坪）<br>《TR面積1.32㎡（0.39坪）を含む》</li>
                         <li>テラス面積／22.75㎡（6.88坪）</li>

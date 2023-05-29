@@ -22,22 +22,22 @@
                     <div class="head fgara">
                         <h3><span>B1</span>type</h3>
                         <p class="size"><span>70.42</span>m<sup>2</sup></p>
-                        <p class="floor"><span>3LDK</span>+SIC+W+KP+PG+OS+AL+TR</p>
+                        <p class="floor"><span>3LDK</span>+SIC+W+KP+PG+AL+TR</p>
                     </div>
                     <ul class="data">
                         <li>専有面積／70.42㎡（21.30坪）《TR面積1.30㎡（0.39坪）を含む》</li>
                         <li>テラス面積／14.13㎡（4.27坪）</li>
                         <li>専用庭面積／41.22㎡（12.46坪） </li>
                         <li>アルコーブ面積／0.64㎡（0.19坪）</li>
-                        <li>SIC：シューズインクローゼット　W：ウォークインクローゼット　KP：キッチンパントリー　PG：プライベートガーデン　OS：オーニングシェード　AL：アルコーブ　TR：トランクルーム</li>
+                        <li>SIC：シューズインクローゼット　W：ウォークインクローゼット　KP：キッチンパントリー　PG：プライベートガーデン　AL：アルコーブ　TR：トランクルーム</li>
                     </ul>
-                    <p class="cap">テラスと専用庭付きのB1プランです。専用庭に設けたオーニングシェードは、最新の電動開閉式なので出し入れの操作がワンタッチで楽々です。広々とした専用庭にガーデンテーブルをセットすれば、オープンカフェとして楽しむことができます。ガーデニングスペースとしても、日々の暮らしのゆとりを広げます。 </p>
+                    <p class="cap">テラスと専用庭付きのB1プランです。広々とした専用庭にガーデンテーブルをセットすれば、オープンカフェとして楽しむことができます。ガーデニングスペースとしても、日々の暮らしのゆとりを広げます。 </p>
                     <p class="floorimg">
                         <img src="../assets/svg/a-type/b1-type.svg" width="700" height="718" alt="B1type">
                     </p>
                 </div>
 
-                <?php include_once('b-detail.php'); ?>
+                <!-- <?php include_once('b-detail.php'); ?> -->
             </div>
         </div>
     </div><!-- /.contents -->

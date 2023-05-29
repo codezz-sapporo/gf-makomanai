@@ -105,7 +105,7 @@
                 </picture>
                 <div class="shop-section__text-area">
                     <h4 class="shop-section__title">真駒内公園</h4>
-                    <p class="text shop-section__text">真駒内のメインシンボル「北海道立真駒内公園」。豊平川が流れる広大な敷地内には運動やコンサートを楽しめる「真駒内セキスイハイムアリーナ」などが充実。</p>
+                    <p class="text shop-section__text">真駒内のメインシンボル「北海道立真駒内公園」。豊平川が流れる広大な敷地内には運動やコンサートを楽しめる「真駒内セキスイハイムアイスアリーナ」などが充実。</p>
                 </div>
             </div>
         </section>

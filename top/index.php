@@ -73,6 +73,36 @@
                 <span class="lead-one lead-one_28">ス</span>
                 <span class="lead-one lead-one_29">。</span>
             </p>
+            <p class="top-mainvisual__text top-mainvisual__text_small">
+                <span class="lead-one lead-one_1">約</span>
+                <span class="lead-one lead-one_2">12</span>
+                <span class="lead-one lead-one_3">年</span>
+                <span class="lead-one lead-one_4">ぶ</span>
+                <span class="lead-one lead-one_5">り</span>
+                <span class="lead-one lead-one_6">に</span>
+                <span class="lead-one lead-one_7">待</span>
+                <span class="lead-one lead-one_8">望</span>
+                <span class="lead-one lead-one_9">の</span>
+                <span class="lead-one lead-one_10">真</span>
+                <span class="lead-one lead-one_11">駒</span>
+                <span class="lead-one lead-one_12">内</span>
+                <span class="lead-one lead-one_13">エ</span>
+                <span class="lead-one lead-one_14">リ</span>
+                <span class="lead-one lead-one_15">ア</span>
+                <span class="lead-one lead-one_16">に</span><br class="br_sp">
+                <span class="lead-one lead-one_17">新</span>
+                <span class="lead-one lead-one_18">築</span>
+                <span class="lead-one lead-one_19">分</span>
+                <span class="lead-one lead-one_20">譲</span>
+                <span class="lead-one lead-one_21">マ</span>
+                <span class="lead-one lead-one_22">ン</span>
+                <span class="lead-one lead-one_23">ショ</span>
+                <span class="lead-one lead-one_24">ン</span>
+                <span class="lead-one lead-one_25">始</span>
+                <span class="lead-one lead-one_26">動</span>
+                <span class="lead-one lead-one_27">!!</span>
+            </p>
+
         </div>
     </div>
     <div class="feature">
@@ -82,28 +112,28 @@
                 <div><span class="feature__item_normal">「大通」</span>駅まで乗車 <span class="feature__item_number">16</span> 分</div>
             </li>
             <li class="feature__item fadeInTrigger delay-time05">
-                <div><span class="feature__item_normal">屋上庭園</span>や<span class="feature__item_normal">フィットネス</span>など</div>
-                <div>日々の生活を彩る<span class="feature__item_normal">充実の共用施設</span>。</div>
+                <div><span class="feature__item_normal">シアタースタジオ</span>&<br class="br_sp"><span class="feature__item_normal">通信カラオケルーム</span>や<span class="feature__item_normal">屋上庭園</span>で</div>
+                <div>家族や友人と楽しむ<span class="feature__item_normal">充実の共用施設</span>。</div>
             </li>
             <li class="feature__item fadeInTrigger delay-time06">
-                <div><span class="feature__item_normal">オープンペントハウス付き</span>タイプ、</div>
-                <div><span class="feature__item_normal">専用庭</span>・<span class="feature__item_normal">テラス付き</span>タイプをご用意。</div>
+                <div><span class="feature__item_normal">フィットネスジム</span>や<br class="br_sp"><span class="feature__item_normal">ピットインガレージ</span>、</div>
+                <div><span class="feature__item_normal">テレワークルーム</span>で各々の趣味を堪能できる<span class="feature__item_normal">共用施設</span></div>
             </li>
             <li class="feature__item fadeInTrigger delay-time07">
-                <div>不凍散水栓「多目的スロップシンク」採用で、</div>
+                <div>バルコニーに<br class="br_sp">「多目的スロップシンク(不凍散水栓採用)」</div>
                 <div><span class="feature__item_normal">ガーデニングも快適</span>です。</div>
             </li>
-            <li class="feature__item fadeInTrigger delay-time08">
-                <div><span class="feature__item_normal">真駒内駅前</span>のバス乗り場から</div>
-                <div><span class="feature__item_normal">新千歳空港</span>や市内各所へ快適アクセス。</div>
+            <li class="feature__item fadeInTrigger delay-time06 fadeIn">
+                <div><span class="feature__item_normal">オープンペントハウス付き</span>タイプ、</div>
+                <div><span class="feature__item_normal">専用庭</span>・<span class="feature__item_normal">テラス付き</span>タイプをご用意。</div>
             </li>
         </ul>
     </div>
 
     <section class="top-info">
         <h2 class="top-info__title">information</h2>
-        <p class="top-info__text"><span class="fs02">グランファーレ真駒内<br class="sp">グランフォレスト</span><br class=""><span class="fs03">DEBUT！</span></p>
-        <p class="top-info__text"><span class="fs01 number">6</span><span class="fs03">月</span><span class="fs01 number">3</span><span class="fs03">日</span><br class="sp"><span class="pc space">&emsp;</span><span class="fs05">マンションギャラリーOPEN！</span><br class="sp"><span class="fs06">（予定）</span></p>
+        <p class="top-info__text top-info__text_grade"><span class="fs02">グランファーレ真駒内<br class="sp">グランフォレスト</span><br><span class="fs03">DEBUT！</span></p>
+        <p class="top-info__text"><span class="fs01 number">6</span><span class="fs03">月</span><span class="fs01 number">3</span><span class="fs03">日</span><br class="sp"><span class="pc space">&emsp;</span><sapn class="color-redbrown"><span class="fs05">マンションギャラリーOPEN！</span><br class="sp"><span class="fs06">（予定）</span></sapn></p>
     </section>
 
     <ul class="top-btn">

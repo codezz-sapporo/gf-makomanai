@@ -102,3 +102,7 @@ footer .footer ul > li div > a {
 footer .footer hr {
   width: 100%;
 }
+footer .footer .cv-bottom .tel-area .tel a {
+  display: block;
+  margin-bottom: 10px;
+}

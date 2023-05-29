@@ -26,7 +26,7 @@
                         <h3><span>B1</span>type</h3>
                         <p><span>70.42</span>m<sup>2</sup></p>
                     </div>
-                    <p class="floor fgara"><span>3LDK</span>+SIC+W+KP+PG+OS+AL+TR</p>
+                    <p class="floor fgara"><span>3LDK</span>+SIC+W+KP+PG+AL+TR</p>
                     <ul class="data">
                         <li>専有面積／70.42㎡（21.30坪）<br>《TR面積1.30㎡（0.39坪）を含む》</li>
                         <li>テラス面積／14.13㎡（4.27坪）</li>

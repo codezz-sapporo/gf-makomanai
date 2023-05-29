@@ -62,7 +62,7 @@
 						<img src="<?php print URL; ?>/assets/img/comfort/special/img7.jpg" alt="快適の特等席" class="comfort__img">
 					</picture>
 				</div>
-				<h4 class="title-h3 title-h3_penthouse">オープンペントハウス付のプレミアムプラン<br>(天井高約3.95m)</h4>
+				<h4 class="title-h3 title-h3_penthouse">オープンペントハウス付のプレミアムプラン<br>(天井高約4.35m)</h4>
 				<p class="text">マンションの最上階にある、豪華なオープンペントハウス。海外ドラマや映画に登場する富裕層の住まいとして見かけることが多く、憧れを持つ方も少なくないでしょう。ペントハウスに住む最も大きなメリットは、開放感ある吹き抜けでステータス感溢れる生活ができることです。（一部タイプ）</p>
 			</section>
 

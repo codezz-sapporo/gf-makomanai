@@ -122,7 +122,7 @@
     <div class="tab-section">
         <div class="tab-section__text-area">
             <h4 class="title-h3">電気自動車対応充電コンセント設置</h4>
-            <p class="text tab-section__text">電気自動車は、環境性能を向上させた次世代自動車として、今後普及が見込まれる現在、マンション内での充電インフラ整備の必要性が増しております。「グランファーレ真駒内グランフォレスト」では、来客用駐車場に電気自動車（EV）やプラグインハイブリッド自動車（PHV）に対応した、200V充電コンセントを設置。マンション内での充電利便性などに特別に配慮しました。CO2やエネルギーコスト低減など、次世代のカーライフを見越したシステムを装備しています。</p>
+            <p class="text tab-section__text">電気自動車は、環境性能を向上させた次世代自動車として、今後普及が見込まれる現在、マンション内での充電インフラ整備の必要性が増しております。「グランファーレ真駒内グランフォレスト」では、ピットインガレージに電気自動車（EV）やプラグインハイブリッド自動車（PHV）に対応した、200V充電コンセントを設置。マンション内での充電利便性などに特別に配慮しました。CO2やエネルギーコスト低減など、次世代のカーライフを見越したシステムを装備しています。</p>
         </div>
         <picture class="tab-section__photo tab-section__photo_large">
             <source type="image/webp" srcset="../assets/webp/eco/img3.webp">
@@ -145,11 +145,11 @@
             <li class="box box_3">
                 <picture class="item-box__photo">
                     <source type="image/webp" srcset="../assets/webp/eco/eco_list_2.webp">
-                    <img src="../assets/img/eco/eco_list_2.jpg" alt="敷地内に平置の屋外駐車場">
+                    <img src="../assets/img/eco/eco_list_2.jpg" alt="敷地内に駐車場">
                 </picture>
                 <div class="body mt20">
-                    <h4 class="item-box__title">敷地内に平置の屋外駐車場</h4>
-                    <p class="text text_small">敷地内に13台分（屋外平置駐車場7台、大型車専用3台、来客用駐車場1台、ピットインガレージ兼洗車場1台、Nタイプ専用駐車場1台）をご用意しました。ロードヒーティングを施してあり、雪の時期でも安心です。</p>
+                    <h4 class="item-box__title">敷地内に駐車場</h4>
+                    <p class="text text_small">敷地内に30台分（屋外平置駐車場11台、機械式駐車場12台、屋内駐車場3台、大型車専用2台、ピットインガレージ兼洗車場1台、Nタイプ専用駐車場1台）をご用意しました。ロードヒーティングを施してあり、雪の時期も安心です。</p>
                 </div>
             </li>
             <li class="box box_3">

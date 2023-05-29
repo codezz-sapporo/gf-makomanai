@@ -36,7 +36,7 @@
                     </p>
                 </div>
 
-                <div id="menuplan">
+                <!-- <div id="menuplan">
                     <h4>Menu Plan</h4>
                     <div class="menu">
                         <dl>
@@ -74,7 +74,7 @@
                             <img src="../assets/svg/a-type/n-type_menu4.svg" width="630" height="615" alt="menu4">
                         </p>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div><!-- /.contents -->

@@ -30,7 +30,7 @@
                         <li>HC：ホールクローゼット　HS：ホール収納　AL：アルコーブ　TR：トランクルーム</li>
                     </ul>
                     <p class="cap">リビングダイニングキッチン、全洋室がバルコニーに面した3LDKプランです。玄関にトール型の玄関収納とホールクローゼット、ホール収納を完備し、すっきりとした空間を演出します。洋室3の引き戸を解放するとリビングダイニングキッチンと一体となった約17.9帖の広々とした空間を演出することも可能です。</p>
-                    <p class="floorimg floorimg_right">
+                    <p class="floorimg">
                         <img src="../assets/svg/a-type/i-type.svg" width="700" height="718" alt="Itype">
                     </p>
                 </div>
@@ -67,7 +67,7 @@
                     <div class="menu">
                         <dl>
                             <dt class="fgara">menu<span>4</span></dt>
-                            <dd>リビングダイニングに洋室3を取り込んだ2LDKプランです。クローゼットとホールクローゼットを1つの大きなウォークインに変更し、使い勝手良さに配慮しました。</dd>
+                            <dd>リビングダイニングに洋室3を取り込んだ2LDKプランです。クローゼットとホールクローゼットを1つの大きなウォークインに変更し、使い勝手の良さに配慮しました。</dd>
                         </dl>
                         <p class="floorimg">
                             <img src="../assets/svg/a-type/i-type_menu4.svg" width="630" height="615" alt="menu4">

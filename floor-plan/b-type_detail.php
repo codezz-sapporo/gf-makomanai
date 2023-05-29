@@ -21,7 +21,7 @@
                     <div class="head fgara">
                         <h3><span>B</span>type</h3>
                         <p class="size"><span>70.42</span>m<sup>2</sup></p>
-                        <p class="floor"><span>3LDK</span>+SIC+W+KP+PG+OS+AL+TR</p>
+                        <p class="floor"><span>3LDK</span>+SIC+W+KP+AL+TR</p>
                     </div>
                     <ul class="data">
                         <li>専有面積／70.42㎡（21.30坪）《TR面積1.30㎡（0.39坪）を含む》</li>

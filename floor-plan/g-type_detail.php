@@ -58,7 +58,7 @@
                     <div class="menu">
                         <dl>
                             <dt class="fgara">menu<span>3</span></dt>
-                            <dd>リビングダイニングに洋室1を取り込んだ1Rプランです。クローゼットをウォークインクに変更し収納スペースを確保しました。</dd>
+                            <dd>リビングダイニングに洋室1を取り込んだ1Rプランです。クローゼットをウォークインに変更し収納スペースを確保しました。</dd>
                         </dl>
                         <p class="floorimg">
                             <img src="../assets/svg/a-type/g-type_menu3.svg" width="630" height="615" alt="menu3">

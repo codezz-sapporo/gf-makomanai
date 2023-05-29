@@ -21,24 +21,24 @@
                     <div class="head fgara">
                         <h3><span>F1</span>type</h3>
                         <p class="size"><span>55.29</span>m<sup>2</sup></p>
-                        <p class="floor"><span>2LDK</span>+W+HC+KP+PG+OS+AL+TR</p>
+                        <p class="floor"><span>2LDK</span>+W+HC+KP+PG+AL+TR</p>
                     </div>
                     <ul class="data">
                         <li>専有面積／55.29㎡（16.72坪）《TR面積1.36㎡（0.41坪）を含む》</li>
                         <li>テラス面積／11.43㎡（3.45坪）</li>
                         <li>専用庭面積／33.47㎡（10.12坪）</li>
                         <li>アルコーブ面積／0.94㎡（0.28坪）</li>
-                        <li>W：ウォークインクローゼット　HC：ホールクローゼット　KP：キッチンパントリー　AL：アルコーブ　TR：トランクルーム　PG：プライベートガーデン　OS：オーニングシェード</li>
+                        <li>W：ウォークインクローゼット　HC：ホールクローゼット　KP：キッチンパントリー　AL：アルコーブ　TR：トランクルーム　PG：プライベートガーデン</li>
                     </ul>
-                    <p class="cap">テラスと専用庭付きのF1プランです。専用庭に設けたオーニングシェードは、最新の電動開閉式なので出し入れの操作がワンタッチで楽々です。広々とした専用庭にガーデンテーブルをセットすれば、オープンカフェとして楽しむことができます。ガーデニングスペースとしても、日々の暮らしのゆとりを広げます。</p>
+                    <p class="cap">テラスと専用庭付きのF1プランです。広々とした専用庭にガーデンテーブルをセットすれば、オープンカフェとして楽しむことができます。ガーデニングスペースとしても、日々の暮らしのゆとりを広げます。</p>
                     <p class="floorimg">
                         <img src="../assets/svg/a-type/f1-type.svg" width="700" height="718" alt="F1type">
                     </p>
                 </div>
 
-                <?php
+                <!-- <?php
                     include_once('f-detail.php');
-                ?>
+                ?> -->
 
 
             </div>

@@ -1330,6 +1330,21 @@ figcaption {
   background-clip: text;
   text-fill-color: transparent;
 }
+.top-info__text_grade {
+  background: linear-gradient(
+    91.78deg,
+    #7e7123 21.9%,
+    #d6c877 49.47%,
+    #7e7123 75.89%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+.color-redbrown {
+  color: #6a3906;
+}
 .ls-small {
   letter-spacing: -0.07em;
 }

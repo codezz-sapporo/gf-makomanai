@@ -5,7 +5,7 @@
     <div class="contents">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="symbol_right">
+                <li class="parent" id="symbol_center">
                     <div class="name_size fgara">
                         <h3><span>N</span>type</h3>
                         <p><span>76.06</span>m<sup>2</sup></p>
@@ -17,7 +17,7 @@
                         <li>専用庭面積／41.32㎡（12.49坪）</li>
                         <li>アルコーブ面積／2.56㎡（0.77坪）</li>
                     </ul>
-                    <p class="floorimg floorimg_02">
+                    <p class="floorimg">
                         <img src="../assets/svg/a-type/n-type.svg" width="700" height="718" alt="Ntype">
                     </p>
                     <a href="n-type_detail.php" class="detail-label">間取りを拡大する</a>

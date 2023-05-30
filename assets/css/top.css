@@ -712,7 +712,7 @@ html.hidden {
     margin: 0 10px;
   }
   .feature__item_normal {
-    font-size: calc((28 / 1440) * 100vw);
+    /* font-size: calc((28 / 1440) * 100vw); */
     font-size: calc((16 / 1440) * 100vw);
     line-height: unset;
   }
@@ -720,9 +720,9 @@ html.hidden {
     letter-spacing: -0.09em;
   }
   .feature__item_number {
-    font-size: calc((50 / 1440) * 100vw);
-    font-size: calc((16 / 1440) * 100vw);
-    line-height: unset;
+    /* font-size: calc((50 / 1440) * 100vw); */
+    font-size: calc((22 / 1440) * 100vw);
+    line-height: 1.7;
   }
 }
 
@@ -763,12 +763,12 @@ html.hidden {
     font-size: 1.6rem;
   }
   .feature__item_normal {
-    font-size: 2.2rem;
+    /* font-size: 2.2rem; */
     font-size: 1.6rem;
   }
   .feature__item_number {
-    font-size: 3.5rem;
-    font-size: 1.6rem;
+    /* font-size: 3.5rem; */
+    font-size: 2.2rem;
   }
 }
 @media (min-width: 2100px) {
@@ -1009,6 +1009,7 @@ html.hidden {
   font-size: 1.6rem;
   line-height: 1.5;
   text-align: center;
+  color: var(--feature-green);
   background-color: #fff;
   padding: 8px 5%;
 }

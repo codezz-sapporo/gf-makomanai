@@ -5,7 +5,7 @@
     <div class="contents">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="symbol_left">
+                <li class="parent" id="symbol_center">
                     <div class="name_size fgara">
                         <h3><span>M</span>type</h3>
                         <p><span>83.91</span>m<sup>2</sup></p>
@@ -17,7 +17,7 @@
                         <li>ルーフバルコニー面積／30.97㎡（9.36坪）</li>
                         <li>アルコーブ面積／2.56㎡（0.77坪）</li>
                     </ul>
-                    <p class="floorimg floorimg_02">
+                    <p class="floorimg">
                         <img src="../assets/svg/a-type/m-type.svg" width="700" height="718" alt="Ltype">
                     </p>
                     <a href="m-type_detail.php" class="detail-label">間取りを拡大する</a>

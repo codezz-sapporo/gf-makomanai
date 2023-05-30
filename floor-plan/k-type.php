@@ -2,10 +2,10 @@
 
     <h2 class="sub__h1">K-type</h2>
 
-    <div class="contents" id="symbol03s_center">
+    <div class="contents" id="">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="symbol01_right">
+                <li class="parent" id="symbol01_center">
                     <div class="name_size fgara">
                         <h3><span>K</span>type</h3>
                         <p><span>61.65</span>m<sup>2</sup></p>
@@ -17,7 +17,7 @@
                         <li>ルーフバルコニー面積／10.03㎡（3.03坪）</li>
                         <li>アルコーブ面積／2.12㎡（0.64坪）</li>
                     </ul>
-                    <p class="floorimg floorimg_02">
+                    <p class="floorimg">
                         <img src="../assets/svg/a-type/k-type.svg" width="700" height="718" alt="Ktype">
                     </p>
                     <a href="k-type_detail.php" class="detail-label">間取りを拡大する</a>

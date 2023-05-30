@@ -108,7 +108,7 @@
     <div class="feature">
         <ul class="feature__list">
             <li class="feature__item fadeInTrigger delay-time04">
-                <div>地下鉄南北線<span class="feature__item_normal">「真駒内」</span>駅徒歩<span class="feature__item_number">9</span> 分</div>
+                <div>地下鉄南北線<span class="feature__item_normal">「真駒内」</span>駅徒歩 <span class="feature__item_number">9</span> 分</div>
                 <div><span class="feature__item_normal">「大通」</span>駅まで乗車 <span class="feature__item_number">16</span> 分</div>
             </li>
             <li class="feature__item fadeInTrigger delay-time05">
@@ -123,7 +123,7 @@
                 <div>バルコニーに<br class="br_sp">「多目的スロップシンク(不凍散水栓採用)」</div>
                 <div><span class="feature__item_normal">ガーデニングも快適</span>です。</div>
             </li>
-            <li class="feature__item fadeInTrigger delay-time06 fadeIn">
+            <li class="feature__item fadeInTrigger delay-time08">
                 <div><span class="feature__item_normal">オープンペントハウス付き</span>タイプ、</div>
                 <div><span class="feature__item_normal">専用庭</span>・<span class="feature__item_normal">テラス付き</span>タイプをご用意。</div>
             </li>

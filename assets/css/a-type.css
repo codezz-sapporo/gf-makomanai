@@ -135,7 +135,7 @@
   background-size: contain;
   position: absolute;
   right: 50%;
-  bottom: 6%;
+  bottom: 26px;
   transform: translateX(50%);
   background-image: url(../svg/a-type/direction-symbol.svg);
 }
@@ -150,30 +150,6 @@
   right: 50%;
   bottom: 0;
   transform: translateX(50%);
-  background-image: url(../svg/a-type/direction-symbol.svg);
-}
-#symbol_left .floorimg::after {
-  display: block;
-  content: "";
-  width: 42px;
-  height: 49px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  left: 0;
-  bottom: 5%;
-  background-image: url(../svg/a-type/direction-symbol.svg);
-}
-#symbol_right .floorimg::after {
-  display: block;
-  content: "";
-  width: 42px;
-  height: 49px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 0;
-  bottom: 5%;
   background-image: url(../svg/a-type/direction-symbol.svg);
 }
 #symbol01_center .floorimg::after {
@@ -227,42 +203,6 @@
   bottom: 0%;
   transform: translateX(50%);
   background-image: url(../svg/a-type/direction-symbol_02.svg);
-}
-#symbol_moreCenter .floorimg_left::after {
-  display: block;
-  content: "";
-  width: 42px;
-  height: 49px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  background-image: url(../svg/a-type/direction-symbol.svg);
-}
-#symbol_moreCenter .floorimg_right::after {
-  display: block;
-  content: "";
-  width: 42px;
-  height: 49px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 5%;
-  bottom: 0;
-  background-image: url(../svg/a-type/direction-symbol.svg);
-}
-#symbol01_moreCenter .floorimg_right::after {
-  display: block;
-  content: "";
-  width: 49px;
-  height: 42px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 5%;
-  bottom: 0;
-  background-image: url(../svg/a-type/direction-symbol_01.svg);
 }
 .func .left {
   float: unset;
@@ -346,8 +286,6 @@
 }
 .menu-list {
   margin-bottom: 50px;
-}
-.floating {
 }
 @media (min-width: 768px) {
   .menu {

@@ -42,7 +42,6 @@
 
         <div class="access__inner">
             <picture class="access__photo access__photo_map zoomInTrigger">
-                <source media="(min-width: 768px)" srcset="<?php print URL; ?>/assets/svg/location/map_pc.svg">
                 <img src="<?php print URL; ?>/assets/svg/location/map_pc.svg" alt="地図" class="access__photo-img">
             </picture>
         </div>

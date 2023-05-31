@@ -151,7 +151,7 @@
 }
 .left .floorimg::after {
   left: 0;
-  bottom: 5%;
+  bottom: 26px;
   background-image: url(../svg/a-type/direction-symbol.svg);
 }
 .symbol_right .floorimg::after {
@@ -209,7 +209,7 @@
 .symbol_center-detail .floorimg::after {
   bottom: 0;
 }
-.left .left-detail .floorimg::after {
+.left-detail .floorimg::after {
   bottom: 0;
 }
 .symbol01_center-detail .floorimg::after {

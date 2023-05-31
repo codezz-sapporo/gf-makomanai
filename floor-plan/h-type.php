@@ -5,7 +5,7 @@
     <div class="contents">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="symbol_center">
+                <li class="parent symbol_right">
                     <div class="name_size fgara">
                         <h3><span>H</span>type</h3>
                         <p><span>83.94</span>m<sup>2</sup></p>
@@ -21,7 +21,7 @@
                     </p>
                     <a href="h-type_detail.php" class="detail-label">間取りを拡大する</a>
                 </li>
-                <li class="parent" id="symbol_center">
+                <li class="parent symbol_right">
                     <div class="name_size fgara">
                         <h3><span>H2</span>type</h3>
                         <p><span>83.94</span>m<sup>2</sup></p>

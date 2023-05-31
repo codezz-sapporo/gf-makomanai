@@ -4,8 +4,8 @@
 
     <div class="contents">
         <div class="page">
-            <ul class="typelist" id="symbol02_center">
-                <li class="parent">
+            <ul class="typelist">
+                <li class="parent symbol02_center">
                     <div class="name_size fgara">
                         <h3><span>L</span>type</h3>
                         <p><span>72.42</span>m<sup>2</sup></p>

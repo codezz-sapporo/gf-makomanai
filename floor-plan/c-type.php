@@ -5,7 +5,7 @@
     <div class="contents">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="symbol_center">
+                <li class="parent symbol_center">
                     <div class="name_size fgara">
                         <h3><span>C</span>type</h3>
                         <p><span>52.02</span>m<sup>2</sup></p>
@@ -21,7 +21,7 @@
                     </p>
                     <a href="c-type_detail.php" class="detail-label" id="c1-type">間取りを拡大する</a>
                 </li>
-                <li class="parent" id="symbol_center">
+                <li class="parent symbol_center">
                     <div class="name_size fgara">
                         <h3><span>C1</span>type</h3>
                         <p><span>52.02</span>m<sup>2</sup></p>
@@ -38,7 +38,7 @@
                     </p>
                     <a href="c1-type_detail.php" class="detail-label" id="c1-type">間取りを拡大する</a>
                 </li>
-                <li class="parent" id="symbol_center">
+                <li class="parent symbol_center">
                     <div class="name_size fgara">
                         <h3><span>C2</span>type</h3>
                         <p><span>52.02</span>m<sup>2</sup></p>

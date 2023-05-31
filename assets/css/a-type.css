@@ -94,9 +94,9 @@
   position: relative;
 }
 
-.typelist li .floorimg::after {
+/* .typelist li .floorimg::after {
   background-image: url(../svg/a-type/direction-symbol.svg);
-}
+} */
 @media (min-width: 768px) {
   .detail .main .floorimg img {
     width: 600px;
@@ -126,7 +126,17 @@
   display: block;
   margin: 0 auto;
 }
-#symbol_center .floorimg::after {
+.symbol .floorimg::after {
+  display: block;
+  content: "";
+  width: 42px;
+  height: 49px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  transform: translateX(50%);
+}
+.symbol_center .floorimg::after {
   display: block;
   content: "";
   width: 42px;
@@ -135,11 +145,11 @@
   background-size: contain;
   position: absolute;
   right: 50%;
-  bottom: 26px;
+  bottom: 6%;
   transform: translateX(50%);
   background-image: url(../svg/a-type/direction-symbol.svg);
 }
-#symbol_moreCenter .floorimg::after {
+.left .floorimg::after {
   display: block;
   content: "";
   width: 42px;
@@ -147,12 +157,23 @@
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
-  right: 50%;
-  bottom: 0;
-  transform: translateX(50%);
+  left: 0;
+  bottom: 5%;
   background-image: url(../svg/a-type/direction-symbol.svg);
 }
-#symbol01_center .floorimg::after {
+.symbol_right .floorimg::after {
+  display: block;
+  content: "";
+  width: 42px;
+  height: 49px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 0;
+  bottom: 5%;
+  background-image: url(../svg/a-type/direction-symbol.svg);
+}
+.symbol01_center .floorimg::after {
   display: block;
   content: "";
   width: 49px;
@@ -165,7 +186,7 @@
   transform: translateX(50%);
   background-image: url(../svg/a-type/direction-symbol_01.svg);
 }
-#symbol01_moreCenter .floorimg::after {
+.symbol01_left .floorimg::after {
   display: block;
   content: "";
   width: 49px;
@@ -174,11 +195,11 @@
   background-size: contain;
   position: absolute;
   right: 50%;
-  bottom: 0%;
+  bottom: 8%;
   transform: translateX(50%);
   background-image: url(../svg/a-type/direction-symbol_01.svg);
 }
-#symbol02_center .floorimg::after {
+.symbol02_center .floorimg::after {
   display: block;
   content: "";
   width: 49px;
@@ -191,18 +212,18 @@
   transform: translateX(50%);
   background-image: url(../svg/a-type/direction-symbol_02.svg);
 }
-#symbol02_moreCenter .floorimg::after {
-  display: block;
-  content: "";
-  width: 49px;
-  height: 43px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 50%;
-  bottom: 0%;
-  transform: translateX(50%);
-  background-image: url(../svg/a-type/direction-symbol_02.svg);
+/*　方位detail  */
+.symbol_center-detail .floorimg::after {
+  bottom: 0;
+}
+.left .left-detail .floorimg::after {
+  bottom: 0;
+}
+.symbol01_center-detail .floorimg::after {
+  bottom: 0;
+}
+.symbol02_center-detail .floorimg::after {
+  bottom: 0;
 }
 .func .left {
   float: unset;

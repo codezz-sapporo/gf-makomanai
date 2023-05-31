@@ -5,7 +5,7 @@
     <div class="contents">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="symbol_center">
+                <li class="parent symbol left">
                     <div class="name_size fgara">
                         <h3><span>A</span>type</h3>
                         <p><span>85.47</span>m<sup>2</sup></p>

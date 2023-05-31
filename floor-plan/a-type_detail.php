@@ -14,7 +14,7 @@
 
 <main class="detail-main">
 
-    <div class="contents" id="symbol_moreCenter">
+    <div class="contents symbol left left-detail">
         <div class="detail">
             <div class="main">
                 <div class="head fgara">

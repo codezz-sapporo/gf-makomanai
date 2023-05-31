@@ -5,7 +5,7 @@
     <div class="contents">
         <div class="page">
             <ul class="typelist">
-                <li class="parent" id="symbol_center">
+                <li class="parent symbol_center">
                     <div class="name_size fgara">
                         <h3><span>D</span>type</h3>
                         <p><span>67.43</span>m<sup>2</sup></p>
@@ -19,9 +19,9 @@
                     <p class="floorimg floorimg_02">
                         <img src="../assets/svg/a-type/d-type.svg" width="700" height="718" alt="Dtype">
                     </p>
-                    <a href="d-type_detail.php" class="detail-label" id="symbol_center">間取りを拡大する</a>
+                    <a href="d-type_detail.php" class="detail-label" id="d-type">間取りを拡大する</a>
                 </li>
-                <li class="parent" id="symbol_center">
+                <li class="parent symbol_center">
                     <div class="name_size fgara">
                         <h3><span>D1</span>type</h3>
                         <p><span>67.43</span>m<sup>2</sup></p>
@@ -38,7 +38,7 @@
                     </p>
                     <a href="d1-type_detail.php" class="detail-label" id="d1-type">間取りを拡大する</a>
                 </li>
-                <li class="parent" id="symbol_center">
+                <li class="parent symbol_center">
                     <div class="name_size fgara">
                         <h3><span>D2</span>type</h3>
                         <p><span>67.43</span>m<sup>2</sup></p>

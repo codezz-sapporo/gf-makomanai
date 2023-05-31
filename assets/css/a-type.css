@@ -126,8 +126,7 @@
   display: block;
   margin: 0 auto;
 }
-/* 間取り方位磁石位置修正 */
-
+/* 方位 */
 /* サイズ・位置ベース */
 .floorimg::after {
   display: block;
@@ -166,7 +165,7 @@
   right: 0;
   transform: translateX(-50%);
 }
-/* 間取り拡大時の位置修正 */
+/* detailページの位置 */
 .detail .floorimg::after {
   bottom: 0;
 }

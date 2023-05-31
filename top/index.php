@@ -113,7 +113,7 @@
             </li>
             <li class="feature__item fadeInTrigger delay-time05">
                 <div><span class="feature__item_normal">シアタースタジオ</span>&<br class="br_sp"><span class="feature__item_normal">通信カラオケルーム</span>や<span class="feature__item_normal">屋上庭園</span>で</div>
-                <div>家族や友人と楽しむ<span class="feature__item_normal">充実の共用施設</span>。</div>
+                <div>家族や友人と楽しむ<span class="feature__item_normal">充実の共用施設</span></div>
             </li>
             <li class="feature__item fadeInTrigger delay-time06">
                 <div><span class="feature__item_normal">フィットネスジム</span>や<br class="br_sp"><span class="feature__item_normal">ピットインガレージ</span>、</div>

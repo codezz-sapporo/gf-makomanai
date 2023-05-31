@@ -133,7 +133,7 @@
     <section class="top-info">
         <h2 class="top-info__title">information</h2>
         <p class="top-info__text top-info__text_grade"><span class="fs02">グランファーレ真駒内<br class="sp">グランフォレスト</span><br><span class="fs03">DEBUT！</span></p>
-        <p class="top-info__text"><span class="fs01 number">6</span><span class="fs03">月</span><span class="fs01 number">3</span><span class="fs03">日</span><br class="sp"><span class="pc space">&emsp;</span><span class="fs06 bracket02">AM</span><span class="fs03 number02">10:00</span><span class="pc space">&emsp;</span><span class="color-red"><span class="fs03">マンションギャラリーOPEN！</span><br class="sp"><span class="fs06 bracket02">（予定）</span></span></p>
+        <p class="top-info__text"><span class="fs01 number">6</span><span class="fs03">月</span><span class="fs01 number">3</span><span class="fs03">日</span><br class="sp"><span class="pc space">&emsp;</span><span class="fs06 bracket02">AM</span><span class="fs03 number02">10:00</span><br class="sp"><span class="pc space">&emsp;</span><span class="color-red"><span class="fs03">マンションギャラリーOPEN！</span><br class="sp"><span class="fs06 bracket02">（予定）</span></span></p>
     </section>
 
     <ul class="top-btn">

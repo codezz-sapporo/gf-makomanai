@@ -1329,6 +1329,7 @@ figcaption {
 .number02 {
   font-family: "Noto Serif Display", serif;
   font-weight: 500;
+  line-height: 1.37;
 }
 .top-info__text_grade {
   background: linear-gradient(

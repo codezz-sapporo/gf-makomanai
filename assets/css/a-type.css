@@ -154,7 +154,6 @@
 /* 中央寄せ */
 .center .floorimg::after {
   right: 50%;
-  bottom: 26px;
 }
 /* 左寄り */
 .left .floorimg::after {

@@ -24,13 +24,15 @@
                     <div><a href="<?php print URL; ?>/entrance/index.php?active-tab=tab-2">シアター＆カラオケ</a></div>
                     <div><a href="<?php print URL; ?>/entrance/index.php?active-tab=tab-3">テレワークルーム</a></div>
                     <div><a href="<?php print URL; ?>/entrance/index.php?active-tab=tab-4">フィットネスジム</a></div>
-                    <div><a href="<?php print URL; ?>/entrance/index.php?active-tab=tab-5">スカイガーデン</a></div>
-                    <div><a href="<?php print URL; ?>/entrance/index.php?active-tab=tab-6">ペット対応</a></div>
+                    <div><a href="<?php print URL; ?>/entrance/index.php?active-tab=tab-5">ピットインガレージ</a></div>
+                    <div><a href="<?php print URL; ?>/entrance/index.php?active-tab=tab-6">スカイガーデン</a></div>
+                    <div><a href="<?php print URL; ?>/entrance/index.php?active-tab=tab-7">ペット対応</a></div>
                 </li>
             </ul>
             <ul>
                 <li><a href="<?php print URL; ?>/comfort/">プライベートエリア</a></li>
                 <li class="mt20">
+                    <div><a href="<?php print URL; ?>/comfort/index.php?active-tab=tab-1">快適さの特等席</a></div>
                     <div><a href="<?php print URL; ?>/comfort/index.php?active-tab=tab-2">リビング・ダイニング</a></div>
                     <div><a href="<?php print URL; ?>/comfort/index.php?active-tab=tab-3">洋室</a></div>
                     <div><a href="<?php print URL; ?>/comfort/index.php?active-tab=tab-4">玄関</a></div>

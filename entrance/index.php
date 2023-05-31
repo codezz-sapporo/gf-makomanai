@@ -32,9 +32,9 @@
                 <li class="one_tab js-tab-switch" data-tab="tab-2">シアター＆カラオケ</li>
                 <li class="one_tab js-tab-switch" data-tab="tab-3">テレワークルーム</li>
                 <li class="one_tab js-tab-switch" data-tab="tab-4">フィットネスジム</li>
-                <li class="one_tab js-tab-switch" data-tab="tab-7">ピットインガレージ</li>
-                <li class="one_tab js-tab-switch" data-tab="tab-5">スカイガーデン</li>
-                <li class="one_tab js-tab-switch" data-tab="tab-6">ペット対応</li>
+                <li class="one_tab js-tab-switch" data-tab="tab-5">ピットインガレージ</li>
+                <li class="one_tab js-tab-switch" data-tab="tab-6">スカイガーデン</li>
+                <li class="one_tab js-tab-switch" data-tab="tab-7">ペット対応</li>
             </ul>
         </div>
 
@@ -64,6 +64,7 @@
             <?php
             include_once('pet.php');
           ?>
+            <!-- ピットインガレージ -->
             <?php
             include_once('garage.php');
           ?>
@@ -78,9 +79,9 @@
                 <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-2">シアター＆カラオケ</li>
                 <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-3">テレワークルーム</li>
                 <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-4">フィットネスジム</li>
-                <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-5">スカイガーデン</li>
-                <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-6">ペット対応</li>
-                <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-7">ピットインガレージ</li>
+                <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-5">ピットインガレージ</li>
+                <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-6">スカイガーデン</li>
+                <li class="one_tab js-tab-switch js-tab-switch_bottom" data-tab="tab-7">ペット対応</li>
             </ul>
 
         </div>

@@ -787,8 +787,6 @@ sup {
   font-weight: 600;
   margin-right: 5%;
 }
-.information-unit__time-text {
-}
 .information-unit__text {
   flex: 1;
 }
@@ -820,8 +818,6 @@ sup {
 }
 
 /* SP版footer-nav */
-.footer-nav {
-}
 .footer-nav__list {
   display: flex;
   flex-wrap: wrap;
@@ -1332,18 +1328,19 @@ figcaption {
 }
 .top-info__text_grade {
   background: linear-gradient(
-    91.78deg,
-    #7e7123 21.9%,
-    #d6c877 49.47%,
-    #7e7123 75.89%
+    91.53deg,
+    #8b7f34 17.91%,
+    #c6ad1b 47.47%,
+    #95873a 75.79%
   );
+
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
   text-fill-color: transparent;
 }
-.color-redbrown {
-  color: #6a3906;
+.color-red {
+  color: #d80c18;
 }
 .ls-small {
   letter-spacing: -0.07em;
@@ -1360,6 +1357,9 @@ figcaption {
 }
 .bracket {
   line-height: 2.5;
+}
+.bracket02 {
+  line-height: 2;
 }
 @media (min-width: 768px) {
   .top-info {

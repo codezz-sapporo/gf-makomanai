@@ -16,7 +16,7 @@
                         <li>バルコニー面積／14.68㎡（4.44坪）</li>
                         <li>アルコーブ面積／2.56㎡（0.77坪）</li>
                     </ul>
-                    <p class="floorimg floorimg_01">
+                    <p class="floorimg">
                         <img src="../assets/svg/a-type/a-type.svg" width="700" height="718" alt="Atype">
                     </p>
                     <a href="a-type_detail.php" class="detail-label">間取りを拡大する</a>

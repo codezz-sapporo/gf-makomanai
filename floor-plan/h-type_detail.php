@@ -14,7 +14,7 @@
 
 <main class="detail-main">
 
-    <div class="contents symbol_center symbol_center-detail">
+    <div class="contents symbol right detail">
         <div class="page">
             <div class="detail">
                 <div class="main">
@@ -30,7 +30,7 @@
                         <li>W：ウォークインクローゼット　　HC：ホールクローゼット　KP：キッチンパントリー　AL：アルコーブ　TR：トランクルーム </li>
                     </ul>
                     <p class="cap">リビングダイニングキッチン、全洋室がバルコニーに面した4LDKプランです。玄関にはトール型の玄関収納とホールクローゼットをご用意。さらに洋室3にウォークインクローゼット、キッチンにパントリーを完備し収納力に配慮しました。洋室4の引き戸を解放するとリビングダイニングキッチンと一体となった約21.2帖の広々とした空間を演出することも可能です。</p>
-                    <p class="floorimg">
+                    <p class="floorimg floorimg_02">
                         <img src="../assets/svg/a-type/h-type.svg" width="700" height="718" alt="Htype">
                     </p>
                 </div>

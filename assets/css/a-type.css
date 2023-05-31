@@ -126,6 +126,7 @@
   display: block;
   margin: 0 auto;
 }
+/* 基本形 インデックスページ、センター、方位無印 */
 .symbol .floorimg::after {
   display: block;
   content: "";
@@ -134,90 +135,32 @@
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
-  transform: translateX(50%);
-}
-.symbol_center .floorimg::after {
-  display: block;
-  content: "";
-  width: 42px;
-  height: 49px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 50%;
-  bottom: 6%;
-  transform: translateX(50%);
-  background-image: url(../svg/a-type/direction-symbol.svg);
-}
-.left .floorimg::after {
-  left: 0;
+  left: 50%;
   bottom: 26px;
+  transform: translateX(50%);
   background-image: url(../svg/a-type/direction-symbol.svg);
 }
-.symbol_right .floorimg::after {
-  display: block;
-  content: "";
-  width: 42px;
-  height: 49px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
+/* detailページ */
+.symbol.detail .floorimg::after {
+  bottom: 0;
+}
+/* 左右 */
+.symbol.left .floorimg::after {
+  left: 0;
+}
+.symbol.right .floorimg::after {
+  left: unset;
   right: 0;
-  bottom: 5%;
-  background-image: url(../svg/a-type/direction-symbol.svg);
+  transform: translateX(0);
 }
-.symbol01_center .floorimg::after {
-  display: block;
-  content: "";
-  width: 49px;
-  height: 42px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 50%;
-  bottom: 8%;
-  transform: translateX(50%);
+/* 方位 */
+.symbol .floorimg_01::after {
   background-image: url(../svg/a-type/direction-symbol_01.svg);
 }
-.symbol01_left .floorimg::after {
-  display: block;
-  content: "";
-  width: 49px;
-  height: 42px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 50%;
-  bottom: 8%;
-  transform: translateX(50%);
-  background-image: url(../svg/a-type/direction-symbol_01.svg);
-}
-.symbol02_center .floorimg::after {
-  display: block;
-  content: "";
-  width: 49px;
-  height: 43px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
-  right: 50%;
-  bottom: 6%;
-  transform: translateX(50%);
+.symbol .floorimg_02::after {
   background-image: url(../svg/a-type/direction-symbol_02.svg);
 }
-/*　方位detail  */
-.symbol_center-detail .floorimg::after {
-  bottom: 0;
-}
-.left-detail .floorimg::after {
-  bottom: 0;
-}
-.symbol01_center-detail .floorimg::after {
-  bottom: 0;
-}
-.symbol02_center-detail .floorimg::after {
-  bottom: 0;
-}
+
 .func .left {
   float: unset;
 }

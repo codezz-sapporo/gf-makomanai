@@ -126,6 +126,9 @@
   display: block;
   margin: 0 auto;
 }
+/* 間取り方位磁石位置修正 */
+
+/* サイズ・位置ベース */
 .floorimg::after {
   display: block;
   content: "";
@@ -134,29 +137,36 @@
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
+  bottom: 26px;
   transform: translateX(50%);
 }
+/* 北北東画像 */
 .symbol .floorimg::after {
   background-image: url(../svg/a-type/direction-symbol.svg);
 }
+/* 西北西画像 */
 .symbol01 .floorimg::after {
   background-image: url(../svg/a-type/direction-symbol_01.svg);
 }
+/* 東南東画像 */
 .symbol02 .floorimg::after {
   background-image: url(../svg/a-type/direction-symbol_02.svg);
 }
+/* 中央寄せ */
 .center .floorimg::after {
   right: 50%;
   bottom: 26px;
 }
+/* 左寄り */
 .left .floorimg::after {
   left: 0;
-  bottom: 26px;
 }
+/* 右寄り */
 .right .floorimg::after {
-  right: 5%;
-  bottom: 26px;
+  right: 0;
+  transform: translateX(-50%);
 }
+/* 間取り拡大時の位置修正 */
 .detail .floorimg::after {
   bottom: 0;
 }

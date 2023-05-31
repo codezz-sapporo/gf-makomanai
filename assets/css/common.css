@@ -1326,6 +1326,10 @@ figcaption {
   background-clip: text;
   text-fill-color: transparent;
 }
+.number02 {
+  font-family: "Noto Serif Display", serif;
+  font-weight: 500;
+}
 .top-info__text_grade {
   background: linear-gradient(
     91.53deg,

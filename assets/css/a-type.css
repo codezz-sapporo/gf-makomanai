@@ -150,13 +150,6 @@
   background-image: url(../svg/a-type/direction-symbol.svg);
 }
 .left .floorimg::after {
-  display: block;
-  content: "";
-  width: 42px;
-  height: 49px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: absolute;
   left: 0;
   bottom: 5%;
   background-image: url(../svg/a-type/direction-symbol.svg);
